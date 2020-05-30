@@ -143,21 +143,6 @@
                     x.bgm = "off" !== x.bgm ? "off" : "on"
                 }
             },
-            origin: {
-                id: 0,
-                title: "접속할 한패 서버 URL 수정(함부로 건들면 한패깨짐)",
-                callback: () => {
-                    const e = prompt("접속할 URL 입력，아무것도 입력하지 않으면 기본값 자동 설정", x.origin);
-                    null !== e && (x.origin = e.trim())
-                }
-            },
-            dev: {
-                id: 0,
-                titles: ["개발자 모드 열기(개발자 전용기능)", "개발자 모드 닫기(켜두면 겜만 느려지니 닫으세요)"],
-                callback: () => {
-                    x.dev = !x.dev
-                }
-            },
             update: {
                 id: 0,
                 title: "업데이트",
@@ -181,7 +166,7 @@
         },
         N = () => {
             if (!window.GM_registerMenuCommand || !window.GM_unregisterMenuCommand) return;
-            ["update", "bgm", "story", "origin", "dev"].forEach(e => {
+            ["update", "bgm", "story"].forEach(e => {
                 L(e)
             })
         };
