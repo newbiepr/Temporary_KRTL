@@ -22,6 +22,7 @@ gameEvent.presentEvent.spCommuPlayConfirmPop.title,スペシャルコミュ再�
 gameEvent.presentEvent.spCommuPlayConfirmPop.rewardCommuTitle,【%{firstName}】からのプレゼントコミュ,【%{firstName}】로부터의 선물 커뮤
 header.presentEvent,2019クリスマス特設ページ,2019 크리스마스 특설 페이지
 option.homeContent.title.touch,コミュニケーションタッチ判定,커뮤니케이션 터치 판정
+option.homeContent.title.conversation,アイドル同士の会話,아이돌끼리의 대화
 option.homeContent.title.idolPrank,アイドルからのイタズラ,아이돌로부터의 장난
 option.homeContent.prank.unreleased,未解放,미해방
 option.homeContent.prank.sealed,設定可能なアイドルがいません\n「2019ハロウィンのおかし」を使用すると\nイタズラ機能が解放されます,설정 가능한 아이돌이 없습니다\n「2019 할로윈 과자」를 사용하면\n장난 기능이 해방됩니다
@@ -816,6 +817,7 @@ produce.produceItemPop.titleResult,プロデュースアイテム使用,프로�
 produce.produceItemPop.messageConfirm,以下のアイテムを使用しますか？,이하의 아이템을 사용합니까?
 produce.produceItemPop.messageResult,以下のアイテムを使用しました,이하의 아이템을 사용했습니다
 produceHeader.produceSeason,シーズン %{seasonNum},시즌 %{seasonNum}
+produceHeader.concertSeason.fanMeeting,感謝祭,감사제
 produceItemPreparation.filterTitle,絞り込み,압축
 produceItemPreparation.sortTitle,並び替え,정렬
 produceItemPreparation.description.unselected,アイテムを選択していません,아이템을 선택하고 있지 않습니다
@@ -1592,6 +1594,11 @@ produceAction.surplusInspirationDialog.descriptions.first,獲得できるひら�
 produceAction.surplusInspirationDialog.descriptions.second.left,獲得するひらめきを,획득하는 히라메키를
 produceAction.surplusInspirationDialog.descriptions.second.center,%{acquirableNum}つ,%{acquirableNum}개
 produceAction.surplusInspirationDialog.descriptions.second.right,選択してください,선택해 주세요
+"produceAction.maxInspirationDialog.title","ひらめき獲得",히라메키 획득
+"produceAction.maxInspirationDialog.description1","ひらめきが最大獲得数に達しているため",히라메키가 최대 획득수에 도달하였기 때문에
+"produceAction.maxInspirationDialog.description2","ひらめきが獲得できません",히라메키를 획득할 수 없습니다
+"produceAction.maxInspirationDialog.descriptionActions.lesson","「レッスン」を行いますか？",「레슨」을 진행하시겠습니까?
+"produceAction.maxInspirationDialog.descriptionActions.work","「お仕事」を行いますか？",「영업」을 진행하시겠습니까?
 produceSeasonResult.season,シーズン%{seasonNum},시즌%{seasonNum}
 profile.pfRecommendTwoLines,名前を変更するには\nデータ連携が必要です,이름을 변경하려면\n데이터 연동이 필요합니다
 profile.pfAccountRecommend,名前を変更するには、enza連携が必要です,이름을 변경하려면 enza 연계가 필요합니다
