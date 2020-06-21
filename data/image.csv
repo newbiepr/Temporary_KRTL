@@ -15,7 +15,7 @@ images/ui/produce_commu/parts_commu.json_image,commu_parts.png,7
 images/ui/produce_top/parts.json_image,top_parts.png,17
 images/ui/start/start_notice.jpg,start_notice.jpg,8
 images/ui/idol_list/parts.json_image,idol_list_parts.png,13
-images/ui/produce_action/parts.json_image,produce_action.png,15
+images/ui/produce_action/parts.json_image,produce_action.png,16
 images/ui/produce_common/parts_pyramid.json_image,parts_pyramid.png,7
 images/ui/produce_event/parts_event.json_image,parts_event.png,14
 images/ui/produce_trend/parts.json_image,produce_trend.png,9
@@ -25,7 +25,7 @@ images/content/produce_place_categories/level_up_title/00003.png,00003.png,7
 images/content/produce_place_categories/level_up_title/00004.png,00004.png,7
 images/content/produce_place_categories/level_up_title/00005.png,00005.png,7
 images/content/produce_place_categories/level_up_title/00006.png,00006.png,7
-images/ui/common/parts_skill_list.json_image,parts_skill_list.png,9
+images/ui/common/parts_skill_list.json_image,parts_skill_list.png,10
 images/ui/login_bonus/parts.json_image,login_bonus.png,8
 images/ui/produce_common/parts_hint.json_image,parts_hint.png,9
 images/ui/produce_common/parts_hint_pop.json_image,parts_hint_pop.png,2
@@ -210,7 +210,7 @@ images/ui/common/parts_beginner_and_true_end_teaching_button.json_image,common_p
 images/ui/produce_top/parts_produce_item_content.json_image,produce_top_parts_produce_item_content.png,9
 images/ui/game_event/parts_list.json_image,game_event_parts_list.png,5
 images/ui/shop/parts_shop_content.json_image,shop_content.png,5
-images/ui/produce_idea_note/parts.json_image,produce_idea_note_parts.png,3
+images/ui/produce_idea_note/parts.json_image,produce_idea_note_parts.png,4
 images/tips/produce_fan_meeting/001.jpg,produce_fan_meeting_001.png,2
 images/tips/produce_fan_meeting/002.jpg,produce_fan_meeting_002.png,2
 images/tips/produce_fan_meeting/003.jpg,produce_fan_meeting_003.png,2
@@ -248,7 +248,7 @@ communication_base.png,communication_base.png,7
 images/ui/tutorial/parts.json_image,tutorial_parts.png,9
 images/content/gasha/bg/0a0897f6698591c237eb5f7c062f71f8_2562.jpg,0a0897f6698591c237eb5f7c062f71f8_2562.jpg,1
 images/content/gasha/title/0a0897f6698591c237eb5f7c062f71f8_2562.png,0a0897f6698591c237eb5f7c062f71f8_2562.png,1
-images/ui/raid_deck/parts.json_image,raid_deck_parts.png,2
+images/ui/raid_deck/parts.json_image,raid_deck_parts.png,3
 images/ui/idol_road/parts.json_image,idol_road_parts.png,2
 images/ui/produce_staff_assist_event/parts_staff_assist.json_image,produce_staff_assist.png,2
 images/tips/idol_road/001.jpg,idol_road_001.jpg,2
@@ -335,3 +335,4 @@ images/content/gasha/title/9fb852b8286ff47ceeeba556c894b210_2792.png,9fb852b8286
 images/content/gasha/bg/9fb852b8286ff47ceeeba556c894b210_2792.jpg,9fb852b8286ff47ceeeba556c894b210_2792.jpg,1
 images/content/produce_marathons/logo/00032.png,logo_00032.png,1
 images/content/produce_marathons/album_banner/00032.png,album_banner_00032.png,1
+images/ui/raid_concert/parts_audience.json_image,raid_concert_parts_audience.png,2
