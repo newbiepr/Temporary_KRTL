@@ -1622,3 +1622,8 @@ profile.birthdayEditSuccessDialog.title,プロデューサー誕生日,프로듀
 profile.birthdayEditSuccessDialog.birthdayFormat,m月d日,m월d일
 profile.birthdayEditSuccessDialog.textTop,プロデューサー誕生日を,프로듀서 생일을
 profile.birthdayEditSuccessDialog.textBottom,に設定しました,로 설정했습니다
+concert.statusEffect.timesAndTurn,残り%{leftTurn}ターン\n残り%{remainTimes}回,"나머지 %{leftTurn}턴\n나머지 %{remainTimes}회"
+gameEvent.playPrologueDialog.title,シナリオ再生確認,시나리오 재생 확인
+gameEvent.playPrologueDialog.text,%{name}\n%{title}\nを再生しますか？,%{name}\n%{title}\n를 재생합니까??
+gameEvent.specialCommunicationsRemainingPlayCount,本日のプレイ回数：残り%{count},오늘의 플레이 횟수：나머지 %{count}
+option.produceContentTitle.cutInEventSpeed,サポートアイドルスキルカットイン\n発生時に早送り解除,서포트아이돌 스킬 컷인\n발생시 빨리감기 해제
