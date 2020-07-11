@@ -1627,3 +1627,43 @@ gameEvent.playPrologueDialog.title,シナリオ再生確認,시나리오 재생 
 gameEvent.playPrologueDialog.text,%{name}\n%{title}\nを再生しますか？,%{name}\n%{title}\n를 재생합니까??
 gameEvent.specialCommunicationsRemainingPlayCount,本日のプレイ回数：残り%{count},오늘의 플레이 횟수：나머지 %{count}
 option.produceContentTitle.cutInEventSpeed,サポートアイドルスキルカットイン\n発生時に早送り解除,서포트아이돌 스킬 컷인\n발생시 빨리감기 해제
+"idolList.emptyMessages.fesIdolEdit","所持しているアイドルがいません。",소지하고 있는 아이돌이 없습니다
+"idolList.emptyMessages.produceReady","所持しているアイドルがいません。",소지하고 있는 아이돌이 없습니다
+"idolList.emptyMessages.idolList","所持しているアイドルがいません。",소지하고 있는 아이돌이 없습니다
+"idolList.emptyMessages.training","所持しているアイドルがいません。",소지하고 있는 아이돌이 없습니다
+"idolList.emptyMessages.evolution","特訓可能なアイドルがいません。",특훈 가능한 아이돌이 없습니다
+"idolList.emptyMessages.workActivity","所持しているアイドルがいません。",소지하고 있는 아이돌이 없습니다
+"idolDetail.skill.acquisitionLevel","Lv.%{level}で習得",Lv.%{level}에서 습득
+"filter.title","絞り込み",필터링
+"filter.subTitle.supportSkill","絞り込みサポートスキル選択",필터링할 서포트 스킬 선택
+"filter.categories.idol","アイドル",아이돌
+"filter.categories.fesIdolMark","フェスアイドルマーク",페스 아이돌 마크
+"filter.categories.trueEnd","True End ミッション",True End 미션
+"filter.categories.commu","コミュ",커뮤
+"filter.categories.commuIgnoreTrueEnd","コミュ（True End 除く）",커뮤(True End 제외)
+"filter.categories.ideaMark","アイデアマーク",아이디어 마크
+"filter.categories.inspiration","ひらめき",히라메키
+"filter.categories.comicType","種類",종류
+"filter.categories.comicOther","その他",기타
+"filter.categories.supportSkill","サポートスキル",서포트 스킬
+"filter.categories.idolArrivalType","登場種類",등장 종류
+"filter.categories.liveSkill","ライブスキル",라이브 스킬
+"filter.cautions.fesIdolMark","アイドル詳細から好きなアイドルマークを設定できます",아이돌 상세에서 좋아하는 아이돌 마크를 설정할 수 있습니다
+"filter.cautions.ideaMark","ファン感謝祭編の専用パラメータです",팬감사제 편의 전용 파라미터입니다
+"filter.cautions.inspiration","G.R.A.D.編の専用パラメータです",G.R.A.D.편의 전용 파라미터입니다
+"filter.cautions.supportSkill","条件をひとつでも満たしているサポートスキルが絞り込まれます",조건을 하나라도 충족시키는 서포트 스킬이 필터링됩니다
+"filter.cautions.liveSkill","チェックした条件をすべて満たすライブスキルが絞り込まれます",체크한 조건을 모두 충족시키는 라이브 스킬이 필터링됩니다
+"filter.texts.achieved","達成済み",달성함
+"filter.texts.notAchieved","未達成",미달성
+"filter.texts.unread","未読あり",아직 읽지 않음
+"filter.texts.ideas.vocal","ボーカル",보컬
+"filter.texts.ideas.visual","ビジュアル",비쥬얼
+"filter.texts.ideas.dance","ダンス",댄스
+"filter.texts.ideas.mental","トーク",토크
+"filter.texts.ideas.skillPoint","アピール",어필
+"filter.texts.supportSkill.includesUnacquired","未習得のサポートスキルも含む",미습득 서포트 스킬도 포함한다
+"filter.texts.supportSkill.skill","スキル%{num}",스킬 %{num}
+"filter.texts.supportSkill.notSet","未設定",미설정
+"filter.texts.supportSkill.all","すべて",전부
+"filter.texts.liveSkill.includesUnacquired","未解放のライブスキルも含む",미해방 라이브 스킬도 포함한다
+"filter.emptyMessage","該当するアイドルがいません。",해당되는 아이돌이 없습니다
