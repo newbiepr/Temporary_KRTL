@@ -1667,3 +1667,7 @@ option.produceContentTitle.cutInEventSpeed,サポートアイドルスキルカ�
 "filter.texts.supportSkill.all","すべて",전부
 "filter.texts.liveSkill.includesUnacquired","未解放のライブスキルも含む",미해방 라이브 스킬도 포함한다
 "filter.emptyMessage","該当するアイドルがいません。",해당되는 아이돌이 없습니다
+gameEvent.eventRewardIdolInfoPopupTitle,イベント限定報酬アイドル,이벤트 한정 보상 아이돌
+gasha.scoutGasha.possessedIdol,所持済,소유중
+gasha.scoutGasha.notPossessedIdol,未所持,미소유
+gasha.scoutGasha.reserveNum,控室%{reserveNum},남음%{reserveNum}
