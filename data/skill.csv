@@ -6,6 +6,8 @@ $numターンの間回避時,$1턴 동안 회피시
 Excellent$num倍アピール,Excellent $1배 어필,
 全観客の興味$percentDOWN,전관객의 흥미 $1DOWN,
 思い出ゲージ増加量$percentDOWN,추억 게이지 증가량 $1DOWN,
+$nounの増加量が$percentDOWNする効果,$1 증가량이 $2 DOWN하는 효과,
+$nounの増加量が$percentUPする効果,$1 증가량이 $2 UP하는 효과,
 [$num回],[$1회],
 リザレクション効果$percent付与,레저렉션(부활) 효과 $1부여,
 メンタルが0になった時$percent回復,멘탈이 0이 되었을 때 $1 회복,
