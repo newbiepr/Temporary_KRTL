@@ -48,9 +48,15 @@ text,trans,type
 Dance,Dance,noun
 Visual,Visual,noun
 Vocal,Vocal,noun
+Dance上限,Dance상한,noun
+Visual上限,Visual상한,noun
+Vocal上限,Vocal상한,noun
 Da,Da,noun
 Vi,Vi,noun
 Vo,Vo,noun
+Da上限,Da상한,noun
+Vi上限,Vi상한,noun
+Vo上限,Vo상한,noun
 メンタル,Mental,noun
 Me,Me,noun
 SP,SP,noun
