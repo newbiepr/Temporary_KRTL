@@ -308,7 +308,7 @@ errorDialog.produceDuplicate,進行中のプロデュースがあるので\n開�
 errorDialog.fesSeason,フェスのシーズンが切り替わりました。,페스의 시즌이 바뀌었습니다。
 errorDialog.fesMatchRivalsError,進行していたフェスはすでに終了しました。\n再開することができませんでした。,진행되고 있던 페스는 벌써 종료됐습니다. \n재개할 수가 없었습니다.
 errorDialog.forbidden,アクセスは許可されていません。,액세스는 허가되고 있지 않습니다.
-errorDialog.fullDownloadErrorForNative,リソースの読み込みに失敗しました。\nネットワーク環境をご確認ください。,자원의 read에 실패했습니다. \n네트워크 환경을 확인해 주세요.
+errorDialog.fullDownloadErrorForNative,"リソースの読み込みに失敗しました。\nネットワーク環境、または端末の空き容量を\nご確認ください。","리소스 읽기에 실패했습니다\n네트워크 환경 또는 단말기의 여유 공간을\n확인하세요"
 errorDialog.simpleOther,エラーが発生しました。\n\n何度も発生する場合は\nゲーム内の「お知らせ」→「お問い合わせ」より\nお問い合わせください。,에러가 발생했습니다. \n\n몇번이나 발생하는 경우는\n게임내의 「소식」→「문의」에서\n문의해 주세요.
 errorDialog.other,エラーが発生しました。\n\n何度も発生する場合は\nゲーム内の「お知らせ」→「お問い合わせ」より\nお問い合わせください。\n\nお問い合わせID: %{requestId}\nエラーコード: %{errorCode},에러가 발생했습니다. \n\n 몇번이나 발생하는 경우는\n게임내의 「소식」→「문의」에서\n문의해 주세요. \n\n문의 ID: %{requestId}\n에러 코드: %{errorCode}
 errorDialog.timeout,通信中にエラーが発生しました。\n時間をおいてもう一度お試しください。,통신중에 에러가 발생했습니다. \n시간을 두고 다시 시도해 주세요.
@@ -1671,3 +1671,11 @@ gameEvent.eventRewardIdolInfoPopupTitle,イベント限定報酬アイドル,이
 gasha.scoutGasha.possessedIdol,所持済,소유중
 gasha.scoutGasha.notPossessedIdol,未所持,미소유
 gasha.scoutGasha.reserveNum,控室%{reserveNum},남음%{reserveNum}
+"characterAlbum.idolEffectPop.title","演出再生",연출재생
+"characterAlbum.idolEffectPop.message","再生する演出を選んでください",재생할 연출을 선택하세요
+"homeDeckBGM","ホームユニットBGM",홈 유닛 BGM
+"homeDeckBackgroundEffect","ホームユニットエフェクト",홈 유닛 이펙트
+"option.volumeTitle.concertBgm","楽曲",악곡
+"item.expireAt","使用期限：%{expireAt}","사용기한：%{expireAt}"
+"shop.gameEventShopEvolutionNumText","%{possession}(%{evolutionStage}回特訓済)","%{possession}(%{evolutionStage}회 특훈끝)"
+"shop.labelGameEventShopIdolPossessionText","所持状況",소지상황
