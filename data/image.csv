@@ -140,8 +140,8 @@ images/ui/work_activity_result/parts.json_image,work_activity_result.png,3
 images/content/my_page/banner_border/event_notice.png,event_notice.png,2
 images/content/gasha/bg/6ee7b2d1c1adcc09beb11fe9a8636dd7_1952.jpg,bg_1952.png,1
 images/content/gasha/title/6ee7b2d1c1adcc09beb11fe9a8636dd7_1952.png,title_1952.png,1
-images/ui/gasha/parts.json_image,gasha_parts.png,12
-images/ui/gasha/parts_narrow_gasha_button.json_image,narrow_gasha_button.png,2
+images/ui/gasha/parts.json_image,gasha_parts.png,13
+images/ui/gasha/parts_narrow_gasha_button.json_image,narrow_gasha_button.png,3
 images/ui/work_activity_ready/parts.json_image,work_activity_ready.png,4
 ae/work_activity_start/images/text_final.png,text_final.png,3
 ae/work_activity_start/images/txt4.png,txt4.png,3
@@ -342,3 +342,15 @@ images/content/gasha/bg/b28432941d5fec6037edb2de2d86788f_2972.jpg,bg_2972.jpg,1
 images/content/gasha/bg/fdf61062ccdf62ab17c223a49c02cfb4_10022.jpg,bg10022.jpg,1
 images/ui/box_gasha/parts.json_image,box_gasha_parts.png,9
 images/content/gasha/bg/03cec562099141cdc80de7fe920885cc_10052.jpg,bg10052.jpg,1
+images/tips/shop/002.jpg,shop_002.png,8
+images/tips/shop/003.jpg,shop_003.png,8
+images/tips/workActivity/003.jpg,workActivity_003.png,3
+images/tips/shop/008.jpg,shop_008.png,2
+images/tips/workActivity/001.jpg,workActivity_001.png,3
+images/tips/shop/004.jpg,shop_004.png,2
+images/tips/workActivity/002.jpg,workActivity_002.png,3
+images/tips/shop/006.jpg,shop_006.png,2
+images/tips/workActivity/004.jpg,workActivity_004.png,3
+images/tips/shop/001.jpg,shop_001.png,8
+images/tips/shop/007.jpg,shop_007.png,2
+images/tips/shop/005.jpg,shop_005.png,2
