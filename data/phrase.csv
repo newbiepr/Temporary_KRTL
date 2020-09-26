@@ -1465,7 +1465,6 @@ beginnerMission.idolSelectConfirmPop.title,初心者ミッション開始確認,
 beginnerMission.idolSelectConfirmPop.text,選択したプロデュースアイドルでは\n以下のサポートアイドルが手に入ります\n初心者ミッションを開始しますか？,선택한 프로듀스 아이돌에서는\n이하의 서포트 아이돌을 얻을 수 있습니다\n초보자 미션을 시작하시겠습니까?
 beginnerMission.idolSelectConfirmPop.txtNotice, 初心者ミッション開始後に選びなおすことはできません,초보자 미션 시작 후에 다시 선택할 수 없습니다 
 beginnerMission.clearedAlert.title,初心者ミッション達成,초보자 미션 달성
-beginnerMission.clearedAlert.text,以下のミッションを達成しました\n初心者ミッションページで報酬を受け取りましょう,아래의 미션을 달성했습니다\n초보자 미션 페이지에서 보수를 받읍시다 
 countUpCampaign.unit.fes_raid_laps,周,주
 countUpCampaign.countUpText,%{unit}で%{title}達成,%{unit}로 %{title} 달성
 countUpCampaign.clearedFooterText.fes_raid_laps,コラボフェスの到達周数でボーナスをGET!,콜라보페스의 도달주수로 보너스를 GET!
@@ -1698,3 +1697,12 @@ gasha.scoutGasha.reserveNum,控室%{reserveNum},남음%{reserveNum}
 "topicPath.trueEndTeaching.areaSelect","プロデュース選択","프로듀스 선택"
 "topicPath.trueEndTeaching.idolSelect","アイドル選択","아이돌 선택"
 "topicPath.trueEndTeaching.deckEdit","ユニット編成","유닛 편성"
+"beginnerMission.detailPopTitle","%{title}詳細","%{title} 상세"
+"beginnerMission.clearedAlert.text","以下のミッションを達成しました\n%{title}ページで報酬を受け取りましょう","이하의 미션을 달성했습니다\n%{title}페이지에서 보상을 받읍시다"
+"beginnerMission.completeRewardPop.title","%{title}コンプリート","%{title} 완료"
+"beginnerMission.completeRewardPop.description","%{title}をすべて達成した報酬として\n以下の報酬を獲得しました","%{title}를 모두 달성한 보상으로\n이하의 보상을 획득했습니다"
+"common.reserveNum","控室%{reserveNum}","대기실%{reserveNum}"
+"trueEndTeaching.openPopup.title","W.I.N.G.攻略ミッションコンプリート","W.I.N.G. 공략 미션 완료"
+"trueEndTeaching.openPopup.description","True End研修はホーム画面からスタートすることができます","True End 연수는 홈 화면에서 스타트 할 수 있습니다"
+"trueEndTeaching.openPopup.tipsText","おめでとうございます♪すべてのW.I.N.G.攻略ミッションを\nクリアしましたよ〜\n次はTrue End研修達成に挑戦してみましょう","축하합니다♪모든 W.I.N.G. 공략 미션을\n클리어 했어요~\n다음은 True End 연수 달성에 도전해 봅시다"
+"trueEndTeaching.openPopup.teachingText","True End研修へ","True End 연수에"
