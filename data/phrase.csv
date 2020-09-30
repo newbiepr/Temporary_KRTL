@@ -244,8 +244,8 @@ concert.pauseDialog.produceSkill,プロデュースアイドル所持スキル,�
 concert.pauseDialog.supportSkill,サポートアイドル所持スキル,서포트 아이돌 소지 스킬
 concert.passiveSkillDetailListDialog.title,発動中のパッシブスキル,발동중의 패시브 스킬
 concert.passiveSkillDetailListDialog.emptyMessage,効果情報はありません,효과 정보는 없습니다
-concert.statusEffect.leftTurn,残り%{leftTurn}ターン,나머지%{leftTurn}턴
-concert.statusEffect.remainTimes,残り%{remainTimes}回,나머지%{remainTimes}회
+concert.statusEffect.leftTurn,残り%{leftTurn}ターン,나머지 %{leftTurn}턴
+concert.statusEffect.remainTimes,残り%{remainTimes}回,나머지 %{remainTimes}회
 concert.statusEffect.noStatusEffectMessage,効果情報はありません,효과 정보는 없습니다
 concertResult.entryNumber,エントリーNo.%{number},엔트리 No.%{number}
 concertResult.statusUp.message,+%{upPoint},
@@ -891,7 +891,7 @@ shop.headerTitles.gameEvent,イベント,이벤트
 shop.headerTitles.prevGameEvent,イベント,이벤트
 shop.headerTitles.premium,プレミアム,프리미엄
 shop.headerTitles.staffItemPoint,はづきさん,하즈키씨
-shop.headerTitles.memorialPiece,メモリアルピース,메모리얼피스
+shop.headerTitles.memorialPiece,メモリアル\nピース,메모리얼\n피스
 shop.headerTitles.exchangeItem,衣装,의상
 shop.headerTitles.trade,リサイクル,재활용
 shop.shopDescriptions.money,マニーを使用してアイテムと交換できます,머니를 사용해 아이템과 교환할 수 있습니다
@@ -1706,3 +1706,13 @@ gasha.scoutGasha.reserveNum,控室%{reserveNum},남음%{reserveNum}
 "trueEndTeaching.openPopup.description","True End研修はホーム画面からスタートすることができます","True End 연수는 홈 화면에서 스타트 할 수 있습니다"
 "trueEndTeaching.openPopup.tipsText","おめでとうございます♪すべてのW.I.N.G.攻略ミッションを\nクリアしましたよ〜\n次はTrue End研修達成に挑戦してみましょう","축하합니다♪모든 W.I.N.G. 공략 미션을\n클리어 했어요~\n다음은 True End 연수 달성에 도전해 봅시다"
 "trueEndTeaching.openPopup.teachingText","True End研修へ","True End 연수에"
+"monthlyPassport.expireAlertPop.title","283パス有効期限のお知らせ","283패스 유효기간 알림"
+"monthlyPassport.expireAlertPop.runningDays","%{runningDays}日","%{runningDays}일"
+"monthlyPassport.expireAlertPop.remainDays","あと%{remainDays}日","앞으로 %{remainDays}일"
+"monthlyPassport.expireAlertPop.remainHours","あと%{remainHours}時間","앞으로 %{remainHours}시간"
+"monthlyPassport.expireAlertPop.remainMinutes","あと%{remainMinutes}分","앞으로 %{remainMinutes}분"
+"shop.headerTitles.monthlyPassport","283パス","283패스"
+"shop.monthlyPassport.limitAt","%{limitAt}まで","%{limitAt}까지"
+"shop.monthlyPassport.price","%{price}円","%{price}엔"
+"shop.monthlyPassport.unpurchasableBadge.native","ブラウザ版のみ","브라우저판만"
+"shop.monthlyPassport.unpurchasableBadge.outOfTerm","%{nextOpenDate}から購入可","%{nextOpenDate}부터 구입가능"
