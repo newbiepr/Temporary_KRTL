@@ -93,9 +93,11 @@ W.I.N.G.を優勝しよう,W.I.N.G. 에서 우승하자,text
 トップアピール,탑 어필,noun
 ラストアピール,라스트 어필,noun
 プロ根性,프로 근성,noun
+Easy,Easy,noun
 NORMAL,NORMAL,noun
 HARD,HARD,noun
 VERYHARD,VERYHARD,noun
+Extreme,Extreme,noun
 審査員,심사원,noun
 イルミネーションスターズ,일루미네이션 스타즈,noun
 放課後クライマックスガールズ,방과후 클라이맥스걸즈,noun
@@ -124,6 +126,7 @@ Cランク,C 랭크,noun
 Bランク,B 랭크,noun
 Aランク,A 랭크,noun
 Sランク,S 랭크,noun
+グレード,그레이드,noun
 W.I.N.G.編,W.I.N.G. 편,note
 ファン感謝祭編,팬 감사제 편,note
 G.R.A.D.編,G.R.A.D. 편,note
@@ -148,6 +151,11 @@ $nounに参加して、$num位になろう,$1에 참가해、 $2위가 되자,ex
 $noun以上の$noun$uk$num位になろう,$1 이상의 $2에서(로)、 $4위가 되자,exp
 $nounの$nounに参加して、$num位になろう,$1의 $2에 참가해、 $3위가 되자,exp
 $nounの$nounに参加して、$num位以上になろう,$1의 $2에 참가해、 $3위 이상이 되자,exp
+$nounの$nounで$num位になろう,"$1의 $2에서(로) $3위가 되자",exp
+$nounの$nounに参加して、$nounを達成しよう,"$1의 $2에 참가해, $3을 달성하자",exp
+$noun以上の$nounに参加しよう,"$1 이상의 $2에 참가하자",exp
+$noun以上の$nounで$num位になろう,"$1 이상의 $2에서(로) $3위가 되자",exp
+$noun$num以上の$nounに$num回参加しよう,"$1 $2 이상의 $3에 $4회 참가하자",exp
 $noun全員を編成して、$noun以上の$nounに参加しよう,$1 전원을 편성해、 $2 이상의 $3에 참가하자,exp
 $noun全員を編成して、$noun以上の$nounに$num回参加しよう,$1 전원을 편성해、 $2 이상의 $3에 $4회 참가하자,exp
 $noun全員を編成して、$nounで$num位になろう,$1 전원을 편성해、 $2에서 $3위가 되자,exp
