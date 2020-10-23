@@ -1716,3 +1716,9 @@ gasha.scoutGasha.reserveNum,控室%{reserveNum},남음%{reserveNum}
 "shop.monthlyPassport.price","%{price}円","%{price}엔"
 "shop.monthlyPassport.unpurchasableBadge.native","ブラウザ版のみ","브라우저판만"
 "shop.monthlyPassport.unpurchasableBadge.outOfTerm","%{nextOpenDate}から購入可","%{nextOpenDate}부터 구입가능"
+"userOnlyMessagePopup.title","専用メッセージ",전용 메시지
+"workActivityTop.checkUnitDialogTitle","営業編成確認",영업 편성 확인
+"workActivityReady.selectedBusinessNone","未選択",미선택
+"workActivityReady.autoSelectedDialog.title","おまかせ編成",추천 편성
+"workActivityReady.autoSelectedDialog.text","おまかせ編成が完了しました",추천 편성이 완료되었습니다
+"workActivityReady.startErrorDialog.confirmationText","営業を行うには\n「アイドルの編成」「営業先の選択」が必要です",영업을 실시하려면\n「아이돌 편성」 「영업처 선택」이 필요합니다
