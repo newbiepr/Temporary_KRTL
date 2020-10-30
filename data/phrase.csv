@@ -23,9 +23,7 @@ gameEvent.presentEvent.spCommuPlayConfirmPop.rewardCommuTitle,【%{firstName}】
 header.presentEvent,2019クリスマス特設ページ,2019 크리스마스 특설 페이지
 option.homeContent.title.touch,コミュニケーションタッチ判定,커뮤니케이션 터치 판정
 option.homeContent.title.conversation,アイドル同士の会話,아이돌끼리의 대화
-option.homeContent.title.idolPrank,アイドルからのイタズラ,아이돌로부터의 장난
 option.homeContent.prank.unreleased,未解放,미해방
-option.homeContent.prank.sealed,設定可能なアイドルがいません\n「2019ハロウィンのおかし」を使用すると\nイタズラ機能が解放されます,설정 가능한 아이돌이 없습니다\n「2019 할로윈 과자」를 사용하면\n장난 기능이 해방됩니다
 option.pushNotificationContentTitle.businessFinish,営業完了通知,영업 완료 통지
 option.pushNotificationContentTitle.recoveredFesTicket,フェス参加権回復通知,페스 참가권 회복 통지
 option.pushNotificationContentTitle.recoveredStamina,スタミナ回復通知,스태미너 회복 통지
@@ -308,7 +306,7 @@ errorDialog.produceDuplicate,進行中のプロデュースがあるので\n開�
 errorDialog.fesSeason,フェスのシーズンが切り替わりました。,페스의 시즌이 바뀌었습니다。
 errorDialog.fesMatchRivalsError,進行していたフェスはすでに終了しました。\n再開することができませんでした。,진행되고 있던 페스는 벌써 종료됐습니다. \n재개할 수가 없었습니다.
 errorDialog.forbidden,アクセスは許可されていません。,액세스는 허가되고 있지 않습니다.
-errorDialog.fullDownloadErrorForNative,"リソースの読み込みに失敗しました。\nネットワーク環境、または端末の空き容量を\nご確認ください。","리소스 읽기에 실패했습니다\n네트워크 환경 또는 단말기의 여유 공간을\n확인하세요"
+errorDialog.fullDownloadErrorForNative,リソースの読み込みに失敗しました。\nネットワーク環境、または端末の空き容量を\nご確認ください。,리소스 읽기에 실패했습니다\n네트워크 환경 또는 단말기의 여유 공간을\n확인하세요
 errorDialog.simpleOther,エラーが発生しました。\n\n何度も発生する場合は\nゲーム内の「お知らせ」→「お問い合わせ」より\nお問い合わせください。,에러가 발생했습니다. \n\n몇번이나 발생하는 경우는\n게임내의 「소식」→「문의」에서\n문의해 주세요.
 errorDialog.other,エラーが発生しました。\n\n何度も発生する場合は\nゲーム内の「お知らせ」→「お問い合わせ」より\nお問い合わせください。\n\nお問い合わせID: %{requestId}\nエラーコード: %{errorCode},에러가 발생했습니다. \n\n 몇번이나 발생하는 경우는\n게임내의 「소식」→「문의」에서\n문의해 주세요. \n\n문의 ID: %{requestId}\n에러 코드: %{errorCode}
 errorDialog.timeout,通信中にエラーが発生しました。\n時間をおいてもう一度お試しください。,통신중에 에러가 발생했습니다. \n시간을 두고 다시 시도해 주세요.
@@ -644,24 +642,6 @@ loginBonus.receive.title,報酬受け取り,보상 수령
 loginBonus.receive.message,以下の報酬を受け取りました,이하의 보상을 받았습니다
 maintenance.title,メンテナンス,유지보수
 maintenance.defaultMessage,ただいま、メンテナンスを実施しております。\nご迷惑をおかけし、大変申し訳ございません。,다녀 왔습니다、유지보수를 시행하였습니다. \n폐를 끼쳐、몹시 죄송합니다.
-exSkill.none,未設定,미설정
-exSkill.possessionLabel,所持数 %{num},소지수 %{num}
-exSkill.notConditionPop.title,Exスキル確認,Ex스킬 확인
-exSkill.notConditionPop.text,Exスキル枠が解放されていないため\nExスキルを設定できません,Ex스킬범위가 해방되어 있지 않기 때문에\nEx 스킬을 설정할 수 없습니다
-exSkill.exSkillConfirmation.changeTitle,Exスキル変更確認,Ex스킬 변경 확인
-exSkill.exSkillConfirmation.setTitle,Exスキル設定確認,Ex스킬 설정 확인
-exSkill.exSkillRemoverResultPop.title,アイテム使用結果,아이템 사용 결과
-exSkill.exSkillRemoverResultPop.text,Exスキルスポイトを使って\n%{skillName}\nをストック化しました,Ex스킬 스포이드를 사용해 \n%{skillName}\n를 스톡화했습니다
-exSkill.exSkillRemoverConfirmationPop.title,使用確認,사용 확인
-exSkill.produceExSkillCondition.supportIdol.releaseCondition.text1,[解放条件]Lv.%{level}達成,[해방 조건]Lv.%{level}달성
-exSkill.produceExSkillCondition.supportIdol.releaseCondition.text2,[解放条件1]特訓%{evolution}回達成,[해방 조건1]특훈%{evolution}회달성
-exSkill.produceExSkillCondition.supportIdol.releaseCondition.text3,[解放条件2]Lv.%{level}達成,[해방 조건2]Lv.%{level}달성
-exSkill.produceExSkillCondition.idol.releaseCondition.text1,[解放条件1]%{name}True End達成,[해방 조건1]%{name}True End달성
-exSkill.produceExSkillCondition.idol.releaseCondition.text2,[解放条件2]ファン人数%{fan}達成,[해방 조건2]팬 인원수%{fan}달성
-exSkill.exSkillChangeResultPop.title,Exスキル変更結果,Ex스킬 변경 결과
-exSkill.exSkillChangeResultPop.text,Exスキルを変更しました,Ex스킬을 변경했습니다
-exSkill.exSkillSetResultPop.title,Exスキル設定結果,Ex스킬 설정 결과
-exSkill.exSkillSetResultPop.text,Exスキルを設定しました,Ex스킬을 설정했습니다
 money,マニー,머니
 mission.headerTitle,ミッション,미션
 mission.popSort,達成状況絞り込み,달성 상황 압축
@@ -1593,11 +1573,11 @@ produceAction.surplusInspirationDialog.descriptions.first,獲得できるひら�
 produceAction.surplusInspirationDialog.descriptions.second.left,獲得するひらめきを,획득하는 히라메키를
 produceAction.surplusInspirationDialog.descriptions.second.center,%{acquirableNum}つ,%{acquirableNum}개
 produceAction.surplusInspirationDialog.descriptions.second.right,選択してください,선택해 주세요
-"produceAction.maxInspirationDialog.title","ひらめき獲得",히라메키 획득
-"produceAction.maxInspirationDialog.description1","ひらめきが最大獲得数に達しているため",히라메키가 최대 획득수에 도달하였기 때문에
-"produceAction.maxInspirationDialog.description2","ひらめきが獲得できません",히라메키를 획득할 수 없습니다
-"produceAction.maxInspirationDialog.descriptionActions.lesson","「レッスン」を行いますか？",「레슨」을 진행하시겠습니까?
-"produceAction.maxInspirationDialog.descriptionActions.work","「お仕事」を行いますか？",「영업」을 진행하시겠습니까?
+produceAction.maxInspirationDialog.title,ひらめき獲得,히라메키 획득
+produceAction.maxInspirationDialog.description1,ひらめきが最大獲得数に達しているため,히라메키가 최대 획득수에 도달하였기 때문에
+produceAction.maxInspirationDialog.description2,ひらめきが獲得できません,히라메키를 획득할 수 없습니다
+produceAction.maxInspirationDialog.descriptionActions.lesson,「レッスン」を行いますか？,「레슨」을 진행하시겠습니까?
+produceAction.maxInspirationDialog.descriptionActions.work,「お仕事」を行いますか？,「영업」을 진행하시겠습니까?
 produceSeasonResult.season,シーズン%{seasonNum},시즌%{seasonNum}
 profile.pfRecommendTwoLines,名前を変更するには\nデータ連携が必要です,이름을 변경하려면\n데이터 연동이 필요합니다
 profile.pfAccountRecommend,名前を変更するには、enza連携が必要です,이름을 변경하려면 enza 연계가 필요합니다
@@ -1621,104 +1601,127 @@ profile.birthdayEditSuccessDialog.title,プロデューサー誕生日,프로듀
 profile.birthdayEditSuccessDialog.birthdayFormat,m月d日,m월d일
 profile.birthdayEditSuccessDialog.textTop,プロデューサー誕生日を,프로듀서 생일을
 profile.birthdayEditSuccessDialog.textBottom,に設定しました,로 설정했습니다
-concert.statusEffect.timesAndTurn,残り%{leftTurn}ターン\n残り%{remainTimes}回,"나머지 %{leftTurn}턴\n나머지 %{remainTimes}회"
+concert.statusEffect.timesAndTurn,残り%{leftTurn}ターン\n残り%{remainTimes}回,나머지 %{leftTurn}턴\n나머지 %{remainTimes}회
 gameEvent.playPrologueDialog.title,シナリオ再生確認,시나리오 재생 확인
 gameEvent.playPrologueDialog.text,%{name}\n%{title}\nを再生しますか？,%{name}\n%{title}\n를 재생합니까??
 gameEvent.specialCommunicationsRemainingPlayCount,本日のプレイ回数：残り%{count},오늘의 플레이 횟수：나머지 %{count}
 option.produceContentTitle.cutInEventSpeed,サポートアイドルスキルカットイン\n発生時に早送り解除,서포트아이돌 스킬 컷인\n발생시 빨리감기 해제
-"idolList.emptyMessages.fesIdolEdit","所持しているアイドルがいません。",소지하고 있는 아이돌이 없습니다
-"idolList.emptyMessages.produceReady","所持しているアイドルがいません。",소지하고 있는 아이돌이 없습니다
-"idolList.emptyMessages.idolList","所持しているアイドルがいません。",소지하고 있는 아이돌이 없습니다
-"idolList.emptyMessages.training","所持しているアイドルがいません。",소지하고 있는 아이돌이 없습니다
-"idolList.emptyMessages.evolution","特訓可能なアイドルがいません。",특훈 가능한 아이돌이 없습니다
-"idolList.emptyMessages.workActivity","所持しているアイドルがいません。",소지하고 있는 아이돌이 없습니다
-"idolDetail.skill.acquisitionLevel","Lv.%{level}で習得",Lv.%{level}에서 습득
-"filter.title","絞り込み",필터링
-"filter.subTitle.supportSkill","絞り込みサポートスキル選択",필터링할 서포트 스킬 선택
-"filter.categories.idol","アイドル",아이돌
-"filter.categories.fesIdolMark","フェスアイドルマーク",페스 아이돌 마크
-"filter.categories.trueEnd","True End ミッション",True End 미션
-"filter.categories.commu","コミュ",커뮤
-"filter.categories.commuIgnoreTrueEnd","コミュ（True End 除く）",커뮤(True End 제외)
-"filter.categories.ideaMark","アイデアマーク",아이디어 마크
-"filter.categories.inspiration","ひらめき",히라메키
-"filter.categories.comicType","種類",종류
-"filter.categories.comicOther","その他",기타
-"filter.categories.supportSkill","サポートスキル",서포트 스킬
-"filter.categories.idolArrivalType","登場種類",등장 종류
-"filter.categories.liveSkill","ライブスキル",라이브 스킬
-"filter.cautions.fesIdolMark","アイドル詳細から好きなアイドルマークを設定できます",아이돌 상세에서 좋아하는 아이돌 마크를 설정할 수 있습니다
-"filter.cautions.ideaMark","ファン感謝祭編の専用パラメータです",팬감사제 편의 전용 파라미터입니다
-"filter.cautions.inspiration","G.R.A.D.編の専用パラメータです",G.R.A.D.편의 전용 파라미터입니다
-"filter.cautions.supportSkill","条件をひとつでも満たしているサポートスキルが絞り込まれます",조건을 하나라도 충족시키는 서포트 스킬이 필터링됩니다
-"filter.cautions.liveSkill","チェックした条件をすべて満たすライブスキルが絞り込まれます",체크한 조건을 모두 충족시키는 라이브 스킬이 필터링됩니다
-"filter.texts.achieved","達成済み",달성함
-"filter.texts.notAchieved","未達成",미달성
-"filter.texts.unread","未読あり",아직 읽지 않음
-"filter.texts.ideas.vocal","ボーカル",보컬
-"filter.texts.ideas.visual","ビジュアル",비쥬얼
-"filter.texts.ideas.dance","ダンス",댄스
-"filter.texts.ideas.mental","トーク",토크
-"filter.texts.ideas.skillPoint","アピール",어필
-"filter.texts.supportSkill.includesUnacquired","未習得のサポートスキルも含む",미습득 서포트 스킬도 포함한다
-"filter.texts.supportSkill.skill","スキル%{num}",스킬 %{num}
-"filter.texts.supportSkill.notSet","未設定",미설정
-"filter.texts.supportSkill.all","すべて",전부
-"filter.texts.liveSkill.includesUnacquired","未解放のライブスキルも含む",미해방 라이브 스킬도 포함한다
-"filter.emptyMessage","該当するアイドルがいません。",해당되는 아이돌이 없습니다
+idolList.emptyMessages.fesIdolEdit,所持しているアイドルがいません。,소지하고 있는 아이돌이 없습니다
+idolList.emptyMessages.produceReady,所持しているアイドルがいません。,소지하고 있는 아이돌이 없습니다
+idolList.emptyMessages.idolList,所持しているアイドルがいません。,소지하고 있는 아이돌이 없습니다
+idolList.emptyMessages.training,所持しているアイドルがいません。,소지하고 있는 아이돌이 없습니다
+idolList.emptyMessages.evolution,特訓可能なアイドルがいません。,특훈 가능한 아이돌이 없습니다
+idolList.emptyMessages.workActivity,所持しているアイドルがいません。,소지하고 있는 아이돌이 없습니다
+idolDetail.skill.acquisitionLevel,Lv.%{level}で習得,Lv.%{level}에서 습득
+filter.title,絞り込み,필터링
+filter.subTitle.supportSkill,絞り込みサポートスキル選択,필터링할 서포트 스킬 선택
+filter.categories.idol,アイドル,아이돌
+filter.categories.fesIdolMark,フェスアイドルマーク,페스 아이돌 마크
+filter.categories.trueEnd,True End ミッション,True End 미션
+filter.categories.commu,コミュ,커뮤
+filter.categories.commuIgnoreTrueEnd,コミュ（True End 除く）,커뮤(True End 제외)
+filter.categories.ideaMark,アイデアマーク,아이디어 마크
+filter.categories.inspiration,ひらめき,히라메키
+filter.categories.comicType,種類,종류
+filter.categories.comicOther,その他,기타
+filter.categories.supportSkill,サポートスキル,서포트 스킬
+filter.categories.idolArrivalType,登場種類,등장 종류
+filter.categories.liveSkill,ライブスキル,라이브 스킬
+filter.cautions.fesIdolMark,アイドル詳細から好きなアイドルマークを設定できます,아이돌 상세에서 좋아하는 아이돌 마크를 설정할 수 있습니다
+filter.cautions.ideaMark,ファン感謝祭編の専用パラメータです,팬감사제 편의 전용 파라미터입니다
+filter.cautions.inspiration,G.R.A.D.編の専用パラメータです,G.R.A.D.편의 전용 파라미터입니다
+filter.cautions.supportSkill,条件をひとつでも満たしているサポートスキルが絞り込まれます,조건을 하나라도 충족시키는 서포트 스킬이 필터링됩니다
+filter.cautions.liveSkill,チェックした条件をすべて満たすライブスキルが絞り込まれます,체크한 조건을 모두 충족시키는 라이브 스킬이 필터링됩니다
+filter.texts.achieved,達成済み,달성함
+filter.texts.notAchieved,未達成,미달성
+filter.texts.unread,未読あり,아직 읽지 않음
+filter.texts.ideas.vocal,ボーカル,보컬
+filter.texts.ideas.visual,ビジュアル,비쥬얼
+filter.texts.ideas.dance,ダンス,댄스
+filter.texts.ideas.mental,トーク,토크
+filter.texts.ideas.skillPoint,アピール,어필
+filter.texts.supportSkill.includesUnacquired,未習得のサポートスキルも含む,미습득 서포트 스킬도 포함한다
+filter.texts.supportSkill.skill,スキル%{num},스킬 %{num}
+filter.texts.supportSkill.notSet,未設定,미설정
+filter.texts.supportSkill.all,すべて,전부
+filter.texts.liveSkill.includesUnacquired,未解放のライブスキルも含む,미해방 라이브 스킬도 포함한다
+filter.emptyMessage,該当するアイドルがいません,해당되는 아이돌이 없습니다
 gameEvent.eventRewardIdolInfoPopupTitle,イベント限定報酬アイドル,이벤트 한정 보상 아이돌
 gasha.scoutGasha.possessedIdol,所持済,소유중
 gasha.scoutGasha.notPossessedIdol,未所持,미소유
 gasha.scoutGasha.reserveNum,控室%{reserveNum},남음%{reserveNum}
-"characterAlbum.idolEffectPop.title","演出再生",연출재생
-"characterAlbum.idolEffectPop.message","再生する演出を選んでください",재생할 연출을 선택하세요
-"homeDeckBGM","ホームユニットBGM",홈 유닛 BGM
-"homeDeckBackgroundEffect","ホームユニットエフェクト",홈 유닛 이펙트
-"option.volumeTitle.concertBgm","楽曲",악곡
-"item.expireAt","使用期限：%{expireAt}","사용기한：%{expireAt}"
-"shop.gameEventShopEvolutionNumText","%{possession}(%{evolutionStage}回特訓済)","%{possession}(%{evolutionStage}회 특훈끝)"
-"shop.labelGameEventShopIdolPossessionText","所持状況",소지상황
-"deck.deckNameEdit.defaultName","ユニット%{deckNumber}","유닛%{deckNumber}"
-"deck.deckNameEdit.dialog.title","ユニット名変更","유닛명 변경"
-"deck.deckNameEdit.dialog.description","ユニット%{deckNumber}の名前を変更できます","유닛%{deckNumber}의 이름을 변경할수 있습니다"
-"deck.deckNameEdit.complete.title","ユニット名変更完了","유닛명 변경 완료"
-"deck.deckNameEdit.complete.message","ユニット名を変更しました","유닛명을 변경했습니다"
-"deck.deckNameEdit.error.ngWord","禁止ワードが含まれています","금지 단어가 포함되어 있습니다"
-"deck.deckNameEdit.error.wordLength","入力文字数が不正です","입력 문자수가 잘못됐습니다"
-"deck.deckCopy.confirm.title","ユニットコピー確認","유닛 복사 확인"
-"deck.deckCopy.complete.title","ユニットコピー完了","유닛 복사 완료"
-"deck.deckCopy.complete.message","ユニット情報をコピーしました","유닛 정보를 복사했습니다"
-"deck.title.deckCopy","ユニットコピー","유닛 복사"
-"deck.title.deckMove","ユニット切り替え","유닛 변환"
-"skillBord.fromDeckHeader","スキルパネル","스킬 패널"
-"topicPath.produce.areaSelect","プロデュース選択","프로듀스 선택"
-"topicPath.produce.deckEdit","ユニット編成","유닛 편성"
-"topicPath.produce.itemSelect","アイテム選択","아이템 선택"
-"topicPath.trueEndTeaching.areaSelect","プロデュース選択","프로듀스 선택"
-"topicPath.trueEndTeaching.idolSelect","アイドル選択","아이돌 선택"
-"topicPath.trueEndTeaching.deckEdit","ユニット編成","유닛 편성"
-"beginnerMission.detailPopTitle","%{title}詳細","%{title} 상세"
-"beginnerMission.clearedAlert.text","以下のミッションを達成しました\n%{title}ページで報酬を受け取りましょう","이하의 미션을 달성했습니다\n%{title}페이지에서 보상을 받읍시다"
-"beginnerMission.completeRewardPop.title","%{title}コンプリート","%{title} 완료"
-"beginnerMission.completeRewardPop.description","%{title}をすべて達成した報酬として\n以下の報酬を獲得しました","%{title}를 모두 달성한 보상으로\n이하의 보상을 획득했습니다"
-"common.reserveNum","控室%{reserveNum}","대기실%{reserveNum}"
-"trueEndTeaching.openPopup.title","W.I.N.G.攻略ミッションコンプリート","W.I.N.G. 공략 미션 완료"
-"trueEndTeaching.openPopup.description","True End研修はホーム画面からスタートすることができます","True End 연수는 홈 화면에서 스타트 할 수 있습니다"
-"trueEndTeaching.openPopup.tipsText","おめでとうございます♪すべてのW.I.N.G.攻略ミッションを\nクリアしましたよ〜\n次はTrue End研修達成に挑戦してみましょう","축하합니다♪모든 W.I.N.G. 공략 미션을\n클리어 했어요~\n다음은 True End 연수 달성에 도전해 봅시다"
-"trueEndTeaching.openPopup.teachingText","True End研修へ","True End 연수에"
-"monthlyPassport.expireAlertPop.title","283パス有効期限のお知らせ","283패스 유효기간 알림"
-"monthlyPassport.expireAlertPop.runningDays","%{runningDays}日","%{runningDays}일"
-"monthlyPassport.expireAlertPop.remainDays","あと%{remainDays}日","앞으로 %{remainDays}일"
-"monthlyPassport.expireAlertPop.remainHours","あと%{remainHours}時間","앞으로 %{remainHours}시간"
-"monthlyPassport.expireAlertPop.remainMinutes","あと%{remainMinutes}分","앞으로 %{remainMinutes}분"
-"shop.headerTitles.monthlyPassport","283パス","283패스"
-"shop.monthlyPassport.limitAt","%{limitAt}まで","%{limitAt}까지"
-"shop.monthlyPassport.price","%{price}円","%{price}엔"
-"shop.monthlyPassport.unpurchasableBadge.native","ブラウザ版のみ","브라우저판만"
-"shop.monthlyPassport.unpurchasableBadge.outOfTerm","%{nextOpenDate}から購入可","%{nextOpenDate}부터 구입가능"
-"userOnlyMessagePopup.title","専用メッセージ",전용 메시지
-"workActivityTop.checkUnitDialogTitle","営業編成確認",영업 편성 확인
-"workActivityReady.selectedBusinessNone","未選択",미선택
-"workActivityReady.autoSelectedDialog.title","おまかせ編成",추천 편성
-"workActivityReady.autoSelectedDialog.text","おまかせ編成が完了しました",추천 편성이 완료되었습니다
-"workActivityReady.startErrorDialog.confirmationText","営業を行うには\n「アイドルの編成」「営業先の選択」が必要です",영업을 실시하려면\n「아이돌 편성」 「영업처 선택」이 필요합니다
+characterAlbum.idolEffectPop.title,演出再生,연출재생
+characterAlbum.idolEffectPop.message,再生する演出を選んでください,재생할 연출을 선택하세요
+homeDeckBGM,ホームユニットBGM,홈 유닛 BGM
+homeDeckBackgroundEffect,ホームユニットエフェクト,홈 유닛 이펙트
+option.volumeTitle.concertBgm,楽曲,악곡
+item.expireAt,使用期限：%{expireAt},사용기한：%{expireAt}
+shop.gameEventShopEvolutionNumText,%{possession}(%{evolutionStage}回特訓済),%{possession}(%{evolutionStage}회 특훈끝)
+shop.labelGameEventShopIdolPossessionText,所持状況,소지상황
+deck.deckNameEdit.defaultName,ユニット%{deckNumber},유닛%{deckNumber}
+deck.deckNameEdit.dialog.title,ユニット名変更,유닛명 변경
+deck.deckNameEdit.dialog.description,ユニット%{deckNumber}の名前を変更できます,유닛%{deckNumber}의 이름을 변경할수 있습니다
+deck.deckNameEdit.complete.title,ユニット名変更完了,유닛명 변경 완료
+deck.deckNameEdit.complete.message,ユニット名を変更しました,유닛명을 변경했습니다
+deck.deckNameEdit.error.ngWord,禁止ワードが含まれています,금지 단어가 포함되어 있습니다
+deck.deckNameEdit.error.wordLength,入力文字数が不正です,입력 문자수가 잘못됐습니다
+deck.deckCopy.confirm.title,ユニットコピー確認,유닛 복사 확인
+deck.deckCopy.complete.title,ユニットコピー完了,유닛 복사 완료
+deck.deckCopy.complete.message,ユニット情報をコピーしました,유닛 정보를 복사했습니다
+deck.title.deckCopy,ユニットコピー,유닛 복사
+deck.title.deckMove,ユニット切り替え,유닛 변환
+skillBord.fromDeckHeader,スキルパネル,스킬 패널
+topicPath.produce.areaSelect,プロデュース選択,프로듀스 선택
+topicPath.produce.deckEdit,ユニット編成,유닛 편성
+topicPath.produce.itemSelect,アイテム選択,아이템 선택
+topicPath.trueEndTeaching.areaSelect,プロデュース選択,프로듀스 선택
+topicPath.trueEndTeaching.idolSelect,アイドル選択,아이돌 선택
+topicPath.trueEndTeaching.deckEdit,ユニット編成,유닛 편성
+beginnerMission.detailPopTitle,%{title}詳細,%{title} 상세
+beginnerMission.clearedAlert.text,以下のミッションを達成しました\n%{title}ページで報酬を受け取りましょう,이하의 미션을 달성했습니다\n%{title}페이지에서 보상을 받읍시다
+beginnerMission.completeRewardPop.title,%{title}コンプリート,%{title} 완료
+beginnerMission.completeRewardPop.description,%{title}をすべて達成した報酬として\n以下の報酬を獲得しました,%{title}를 모두 달성한 보상으로\n이하의 보상을 획득했습니다
+common.reserveNum,控室%{reserveNum},대기실%{reserveNum}
+trueEndTeaching.openPopup.title,W.I.N.G.攻略ミッションコンプリート,W.I.N.G. 공략 미션 완료
+trueEndTeaching.openPopup.description,True End研修はホーム画面からスタートすることができます,True End 연수는 홈 화면에서 스타트 할 수 있습니다
+trueEndTeaching.openPopup.tipsText,おめでとうございます♪すべてのW.I.N.G.攻略ミッションを\nクリアしましたよ〜\n次はTrue End研修達成に挑戦してみましょう,축하합니다♪모든 W.I.N.G. 공략 미션을\n클리어 했어요~\n다음은 True End 연수 달성에 도전해 봅시다
+trueEndTeaching.openPopup.teachingText,True End研修へ,True End 연수에
+monthlyPassport.expireAlertPop.title,283パス有効期限のお知らせ,283패스 유효기간 알림
+monthlyPassport.expireAlertPop.runningDays,%{runningDays}日,%{runningDays}일
+monthlyPassport.expireAlertPop.remainDays,あと%{remainDays}日,앞으로 %{remainDays}일
+monthlyPassport.expireAlertPop.remainHours,あと%{remainHours}時間,앞으로 %{remainHours}시간
+monthlyPassport.expireAlertPop.remainMinutes,あと%{remainMinutes}分,앞으로 %{remainMinutes}분
+shop.headerTitles.monthlyPassport,283パス,283패스
+shop.monthlyPassport.limitAt,%{limitAt}まで,%{limitAt}까지
+shop.monthlyPassport.price,%{price}円,%{price}엔
+shop.monthlyPassport.unpurchasableBadge.native,ブラウザ版のみ,브라우저판만
+shop.monthlyPassport.unpurchasableBadge.outOfTerm,%{nextOpenDate}から購入可,%{nextOpenDate}부터 구입가능
+userOnlyMessagePopup.title,専用メッセージ,전용 메시지
+workActivityTop.checkUnitDialogTitle,営業編成確認,영업 편성 확인
+workActivityReady.selectedBusinessNone,未選択,미선택
+workActivityReady.autoSelectedDialog.title,おまかせ編成,추천 편성
+workActivityReady.autoSelectedDialog.text,おまかせ編成が完了しました,추천 편성이 완료되었습니다
+workActivityReady.startErrorDialog.confirmationText,営業を行うには\n「アイドルの編成」「営業先の選択」が必要です,영업을 실시하려면\n「아이돌 편성」 「영업처 선택」이 필요합니다
+exSkill.none,未設定,미설정
+exSkill.unreleased,未解放,미해방
+exSkill.produceExSkillCondition.title,[条件%{number}],[조건%{number}]
+exSkill.produceExSkillCondition.supportIdol.level,Lv.%{requiredLevel}達成,Lv.%{requiredLevel}달성
+exSkill.produceExSkillCondition.supportIdol.evolution,特訓%{requiredEvolutionStage}回達成,특훈%{requiredEvolutionStage}회달성
+exSkill.produceExSkillCondition.idol.trueEnd,%{firstName}のTrue End達成,%{firstName}의 True End 달성
+exSkill.produceExSkillCondition.idol.tenThousandFans,%{firstName}のファン数%{requiredFan}万達成,%{firstName}의 팬수%{requiredFan}만달성
+exSkill.produceExSkillCondition.idol.oneHundredMillionFans,%{firstName}のファン数%{requiredFan}億突破,%{firstName}의 팬수%{requiredFan}억돌파
+exSkill.produceExSkillCondition.common.trueEnd,誰か1人のTrue End達成,누군가 1명의 True End 달성
+exSkill.produceExSkillCondition.common.fesMatchGrade,グレード%{requiredFesMatchGradeId}に到達,그레이드%{requiredFesMatchGradeId}에 도달
+exSkill.produceExSkillCondition.balloon.oneCondition,条件を達成すると解放,조건을 달성하면 해방
+exSkill.produceExSkillCondition.balloon.multiCondition,どちらかの条件を達成すると解放,어느 하나의 조건을 달성하면 해방
+exSkill.notSelectedSlot,Exスキル枠を\r選択してください,Ex스킬범위를\r선택해 주세요
+exSkill.noExSkill,Exスキルを\n所持していません,Ex스킬을\n소지하고 있지 않습니다
+exSkill.exSkillListLabel.title,%{name}のExスキル,%{name}의 Ex스킬
+exSkill.exSkillListLabel.kindNum,%{possessedKindNum}種/%{totalKindNum}種,%{possessedKindNum}종/%{totalKindNum}종
+option.homeContent.title.idolPrank,アイドルからのイタズラ【目隠し】,아이돌로부터의 장난【눈가리기】
+option.homeContent.title.idolPrank2020,アイドルからのイタズラ【ささやき】,아이돌로부터의 장난【속삭임】
+option.homeContent.prank.sealed,設定可能なアイドルがいません\n「%{itemName}」を使用すると\nイタズラ機能が解放されます,설정 가능한 아이돌이 없습니다\n「%{itemName}」을 사용하면\n장난 기능이 해방됩니다
+option.homeContent.itemName.joke,2019ハロウィンのおかし,2019 할로윈 과자
+option.homeContent.itemName.joke2020,2020ハロウィンのおかし,2020 할로윈 과자
+item.releaseMypageCommunicationPop.title,イタズラ解放,장난 해방
+item.releaseMypageCommunicationPop.text,トリック・オア・トリート！\nホーム画面でじっとしていると…？,트릭·오어·트릿!\n홈 화면에서 가만히 기다리고 있으면…?
