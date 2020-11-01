@@ -1,5 +1,5 @@
 name,url,version
-images/ui/common/parts_buttons.json_image,common.parts_buttons.png,42
+images/ui/common/parts_buttons.json_image,common.parts_buttons.png,43
 images/ui/start_and_common/parts.json_image,start_and_common.parts.png,10
 images/ui/my_page/parts.json_image,my_page.parts.png,30
 images/ui/present_box/parts.json_image,present_box_parts.png,8
@@ -10,7 +10,7 @@ images/content/my_page/banner_border/gasha.png,gasha.png,2
 images/content/my_page/banner_border/campaign.png,campaign.png,2
 images/content/my_page/banner_border/update.png,update.png,2
 images/content/my_page/banner_border/event_end.png,event_end.png,2
-images/ui/idol_portal/parts.json_image,idol_portal_parts.png,8
+images/ui/idol_portal/parts.json_image,idol_portal_parts.png,9
 images/ui/produce_commu/parts_commu.json_image,commu_parts.png,7
 images/ui/produce_top/parts.json_image,top_parts.png,18
 images/ui/start/start_notice.jpg,start_notice.jpg,8
@@ -136,7 +136,7 @@ images/ui/produce_helper_support_idol/parts.json_image,produce_helper_support_id
 images/ui/produce_action/parts_event.json_image,produce_action_parts_event.png,3
 images/tips/produce_skill_board/001.jpg,produce_skill_board_001.png,9
 images/tips/produce_skill_board/002.jpg,produce_skill_board_002.png,1
-images/ui/work_activity_top/parts.json_image,work_activity_top.png,5
+images/ui/work_activity_top/parts.json_image,work_activity_top.png,7
 images/ui/work_activity_result/parts.json_image,work_activity_result.png,3
 images/content/my_page/banner_border/event_notice.png,event_notice.png,2
 images/content/gasha/bg/6ee7b2d1c1adcc09beb11fe9a8636dd7_1952.jpg,bg_1952.png,1
@@ -226,7 +226,7 @@ images/tips/gasha/002.jpg,gasha_002.png,7
 images/tips/gasha/003.jpg,gasha_003.png,7
 images/ui/produce_idol_rank/parts_idea_note_result.json_image,idea_note_result.png,2
 images/ui/notice/parts.json_image,notice_parts.png,11
-images/ui/common/parts.json_image,common_parts.png,28
+images/ui/common/parts.json_image,common_parts.png,29
 images/tips/beginner_mission/001.jpg,beginner_mission_001.jpg,2
 images/tips/beginner_mission/002.jpg,beginner_mission_002.jpg,2
 images/ui/beginner_mission/parts.json_image,beginner_mission_parts.png,7
@@ -245,7 +245,7 @@ images/content/unit/catch_copy/005.png,unit_catch_005.png,2
 images/content/unit/name/006.png,unit_name_006.png,2
 images/content/unit/catch_copy/006.png,unit_catch_006.png,2
 images/ui/game_event/parts_icon.json_image,game_event_parts.png,9
-communication_base.png,communication_base.png,7
+communication_base.png,communication_base.png,8
 images/ui/tutorial/parts.json_image,tutorial_parts.png,9
 images/content/gasha/bg/0a0897f6698591c237eb5f7c062f71f8_2562.jpg,0a0897f6698591c237eb5f7c062f71f8_2562.jpg,1
 images/content/gasha/title/0a0897f6698591c237eb5f7c062f71f8_2562.png,0a0897f6698591c237eb5f7c062f71f8_2562.png,1
@@ -310,7 +310,7 @@ images/ui/concert_result/parts.json_image,concert_result_parts.png,7
 images/content/produce_promotions/bg/103001.png,103001.png,1
 images/ui/skill_board/parts.json_image,skill_board.png,14
 images/ui/produce_common/parts_header.json_image,parts_header.png,13
-images/ui/common/parts_icons.json_image,common_parts_icons.png,21
+images/ui/common/parts_icons.json_image,common_parts_icons.png,22
 images/ui/produce_action/parts_grad.json_image,parts_grad.png,1
 images/ui/produce_block/parts.json_image,produce_block_parts.png,1
 images/ui/produce_idol_rank/parts_block_result.json_image,parts_block_result.png,1
