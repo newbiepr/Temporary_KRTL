@@ -473,7 +473,8 @@ idolList.leaveEditModeDialog.text,まだ%{editType}は確定していません\r
 idolList.leaveEditModeDialog.tradeMoney,移籍,이적
 idolList.leaveEditModeDialog.tradeMemorialPiece,変換,변환
 gasha.closeAt,%{closeAt}まで,%{closeAt}까지
-gasha.redrawGashaNotice,確定するまで何度でも\n引き直すことができます,확정될 때까지 몇 번이라도\n다시 시도할 수 있습니다
+gasha.redrawGashaNotice,確定するまで何度でも\nこの画面に戻ることができます,확정될 때까지 몇 번이라도\n이 화면으로 돌아올 수 있습니다
+"gasha.redrawGashaBackNotice","確定せずに戻る",확정하지 않고 돌아온다
 gasha.resultMessage,既に加入済みのアイドルは控室に送られます。,이미 가입 끝난 아이돌은 대기실에 보내집니다.
 gasha.tweetLayerMessage,ツイートしたいアイドルを選択してください,트윗 하고 싶은 아이돌을 선택해 주세요
 gasha.gashaText,%{quantity}回引く,%{quantity}회 시행
@@ -482,8 +483,11 @@ gasha.popJewelDesc,フェザージュエルを%{price}個消費して\rガシャ
 gasha.popBanaCoinDesc,バナコインでガシャを%{quantity}回引きますか？,바나코인으로 가챠를 %{quantity}회 시행합니까?
 gasha.popFreeDesc,無料で1回ガシャを引きますか？,무료로 1회 가챠를 시행합니까?
 gasha.popRedrawConfirm.title,ご注意,주의
-gasha.popRedrawConfirm.comment,「初回限定！運命の出会いガシャ」は、\nお気に入りのアイドルが出るまで\n何度でもガシャをやり直すことが可能です。,「첫회 한정! 운명의 만남 가챠」는、\n마음에 드는 아이돌이 나올 때까지\n 몇 번이라도 가챠를 다시 하는 것이 가능합니다.
-gasha.popRedrawConfirm.notice,「初回限定！運命の出会いガシャ」の\nアイドルを確定してもよろしいですか？,「첫회 한정! 운명의 만남 가챠」의\n아이돌을 확정해도 좋습니까?
+gasha.popRedrawConfirm.comment,「初回限定！運命の出会いガシャ」は、\nお気に入りのアイドルが出るまで\n何度でもガシャをやり直すことが可能です,「첫회 한정! 운명의 만남 가챠」는、\n마음에 드는 아이돌이 나올 때까지\n 몇 번이라도 가챠를 다시 하는 것이 가능합니다
+gasha.popRedrawConfirm.notice,「初回限定！運命の出会いガシャ」の\n結果を確定してもよろしいですか？,「첫회 한정! 운명의 만남 가챠」의\n결과를 확정해도 좋습니까?
+"gasha.popRedrawQuit.title","ご注意",주의
+"gasha.popRedrawQuit.comment","「初回限定！運命の出会いガシャ」の結果を\n確定せずにガシャTOPに戻りますか？\n\nガシャTOPからは再度\n「初回限定！運命の出会いガシャ」を\n引き直すことが可能です","「첫회 한정! 운명의 만남 가챠」의 결과를\n확정없이 가챠 TOP으로 돌아갈까요?\n\n가챠  TOP에서 다시\n「첫회 한정! 운명의 만남 가챠」를\n돌릴수 있습니다"
+"gasha.popRedrawQuit.notice","現在のガシャ結果は破棄されます","현재 가챠 결과는 파기됩니다"
 gasha.confirmDialog.title,使用確認,사용 확인
 gasha.confirmDialog.message,フェザージュエルを%{price}個消費して\nガシャを%{count}回引きます\nよろしいですか？,패더 쥬엘을 %{price}개 소비해\n가챠를 %{count}회 시행합니다 \n괜찮습니까?
 gasha.confirmDialog.messageBilledOnly,ガシャを%{count}回引きます\nよろしいですか？,가챠를 %{count}회 시행합니다 \n괜찮습니까?
