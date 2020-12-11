@@ -20,7 +20,7 @@ gameEvent.presentEvent.releaseRewardCommuDialog.title,スペシャルコミュ�
 gameEvent.presentEvent.releaseRewardCommuDialog.text,【%{firstName}】からプレゼントがもらえる\nスペシャルコミュが解放されました,【%{firstName}】로부터 선물을 받을 수 있는\n스페셜 커뮤가 해방되었습니다
 gameEvent.presentEvent.spCommuPlayConfirmPop.title,スペシャルコミュ再生確認,스페셜 커뮤 재생 확인
 gameEvent.presentEvent.spCommuPlayConfirmPop.rewardCommuTitle,【%{firstName}】からのプレゼントコミュ,【%{firstName}】로부터의 선물 커뮤
-header.presentEvent,2019クリスマス特設ページ,2019 크리스마스 특설 페이지
+header.presentEvent,%{year}クリスマス特設ページ,%{year} 크리스마스 특설 페이지
 option.homeContent.title.touch,コミュニケーションタッチ判定,커뮤니케이션 터치 판정
 option.homeContent.title.conversation,アイドル同士の会話,아이돌끼리의 대화
 option.homeContent.prank.unreleased,未解放,미해방
@@ -1722,6 +1722,11 @@ exSkill.notSelectedSlot,Exスキル枠を\r選択してください,Ex스킬범�
 exSkill.noExSkill,Exスキルを\n所持していません,Ex스킬을\n소지하고 있지 않습니다
 exSkill.exSkillListLabel.title,%{name}のExスキル,%{name}의 Ex스킬
 exSkill.exSkillListLabel.kindNum,%{possessedKindNum}種/%{totalKindNum}種,%{possessedKindNum}종/%{totalKindNum}종
+"exSkill.upgradeConfirmPop.title","グレードアップ確認","업그레이드 확인"
+"exSkill.upgradeConfirmPop.notice.lackTotalNum","現在のExスキルの所持数が不足しています","현재 Ex스킬 소지수가 부족합니다"
+"exSkill.upgradeConfirmPop.notice.lackUnsetNum","現在のExスキルが不足しています。アイドルに設定中のExスキルを外してください","현재 Ex스킬이 부족합니다. 아이돌에게 설정중인 Ex스킬을 제외해 주세요"
+"exSkill.upgradeConfirmPop.notice.limitOver","グレードアップ後のExスキルが所持上限に達しています","업그레이드 후 Ex스킬이 소지 상한에 달했습니다"
+"exSkill.upgradeResultPopTitle","グレードアップ","업그레이드"
 option.homeContent.title.idolPrank,アイドルからのイタズラ【目隠し】,아이돌로부터의 장난【눈가리기】
 option.homeContent.title.idolPrank2020,アイドルからのイタズラ【ささやき】,아이돌로부터의 장난【속삭임】
 option.homeContent.prank.sealed,設定可能なアイドルがいません\n「%{itemName}」を使用すると\nイタズラ機能が解放されます,설정 가능한 아이돌이 없습니다\n「%{itemName}」을 사용하면\n장난 기능이 해방됩니다
@@ -1729,3 +1734,4 @@ option.homeContent.itemName.joke,2019ハロウィンのおかし,2019 할로윈 
 option.homeContent.itemName.joke2020,2020ハロウィンのおかし,2020 할로윈 과자
 item.releaseMypageCommunicationPop.title,イタズラ解放,장난 해방
 item.releaseMypageCommunicationPop.text,トリック・オア・トリート！\nホーム画面でじっとしていると…？,트릭·오어·트릿!\n홈 화면에서 가만히 기다리고 있으면…?
+"groupedExpireAlert.title","アイテム有効期限確認",아이템 유효기간 확인
