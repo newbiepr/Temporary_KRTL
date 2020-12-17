@@ -95,7 +95,7 @@ images/tips/concert/009.jpg,concert_009.png,7
 images/ui/fes_result/parts.json_image,fes_result_parts.png,13
 images/ui/fes/fes_role_icons.json_image,fes_role_icons.png,8
 images/ui/gasha/parts_first_press_discount.json_image,gasha_parts_first_press_discount.png,4
-images/ui/gasha_result/parts.json_image,gasha_result.png,8
+images/ui/gasha_result/parts.json_image,gasha_result.png,11
 images/ui/common/parts_shop_merchandise.json_image,parts_shop_merchandise.png,8
 images/ui/gasha/parts_first_run_limited.json_image,parts_first_run_limited.png,8
 images/content/gasha/title/fa33fc02dea4d8c612d9ca335b51cddf_5041.png,title_5041.png,5
@@ -388,3 +388,8 @@ images/ui/produce_reporter_event/parts_received_mail.json_image,produce_reporter
 particles/training/images.json_image,ui_training_great.png,7
 particles/training/images_super_success.json_image,ui_training_ultra.png,2
 images/event/fg/003252.png,event_fg_003252.png,2
+images/ui/raid_result/parts.json_image,raid_result.png,2
+images/ui/gasha/parts_popup.json_image,gasha_parts_popup.png,8
+images/ui/produce_ending/parts_ex_skill_reward.json_image,ex_skill_reward.png,1
+images/content/beginner_missions/produce_top_button/002.png,beginner_missions_produce_top_button.png,1
+particles/unlock_area/images.json_image,unlock_area.png,3
