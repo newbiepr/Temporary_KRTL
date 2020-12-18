@@ -219,7 +219,7 @@ images/tips/produce_fan_meeting/004.jpg,produce_fan_meeting_004.png,3
 images/tips/produce_fan_meeting/005.jpg,produce_fan_meeting_005.png,2
 images/tips/produce_fan_meeting/006.jpg,produce_fan_meeting_006.png,2
 images/tips/produce_fan_meeting/007.jpg,produce_fan_meeting_007.png,2
-images/tips/produce_fan_meeting/008.jpg,produce_fan_meeting_008.png,2
+images/tips/produce_fan_meeting/008.jpg,produce_fan_meeting_008.png,3
 images/tips/produce_ready/003.jpg,produce_ready_003.png,10
 images/tips/gasha/001.jpg,gasha_001.png,7
 images/tips/gasha/002.jpg,gasha_002.png,7
@@ -394,3 +394,5 @@ images/ui/produce_ending/parts_ex_skill_reward.json_image,ex_skill_reward.png,1
 images/content/beginner_missions/produce_top_button/002.png,beginner_missions_produce_top_button.png,1
 particles/unlock_area/images.json_image,unlock_area.png,3
 images/ui/concert_result/parts_effect.json_image ,concert_result_parts_effect.png,8
+images/ui/common/parts_score_result.json_image,parts_score_result.png,2
+images/ui/concert_result/parts_fan_meeting.json_image,produce_fan_meeting_concert_result.png,2
