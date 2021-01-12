@@ -1735,3 +1735,17 @@ option.homeContent.itemName.joke2020,2020ハロウィンのおかし,2020 할로
 item.releaseMypageCommunicationPop.title,イタズラ解放,장난 해방
 item.releaseMypageCommunicationPop.text,トリック・オア・トリート！\nホーム画面でじっとしていると…？,트릭·오어·트릿!\n홈 화면에서 가만히 기다리고 있으면…?
 "groupedExpireAlert.title","アイテム有効期限確認",아이템 유효기간 확인
+"filter.categories.business","営業先","영업처"
+"header.workActivityTalkAndCommu","トーク/コミュ","토크/커뮤"
+"workActivityRewardPop.unitLevelRewardTitle","報酬受け取り","보상 수령"
+"workActivityRewardPop.commuTitle","コミュ解放","커뮤 해방"
+"workActivityRewardPop.talkCompleteRewardTitle","報酬受け取り","보상 수령"
+"workActivityRewardPop.unitLevelRewardText","営業ユニットレベルが一定に達したため\n以下の報酬を受け取りました","영업 유닛 레벨이 일정치에 이르렀기 때문에\n이하의 보상을 받았습니다"
+"workActivityRewardPop.commuText","営業ユニットレベルが一定に達したため\n以下のコミュが解放されました","영업 유닛 레벨이 일정치에 이르렀기 때문에\n이하의 커뮤가 해방되었습니다"
+"workActivityRewardPop.talkCompleteRewardText","トークのコンプ数が一定に達したため\n以下の報酬を受け取りました","토크의 컴플 개수가 일정치에 이르렀기 때문에\n이하의 보상을 받았습니다"
+"workActivityResult.unitWorkActivityPointPop.title","ユニット営業ポイント確認","유닛 영업 포인트 확인"
+"workActivityTalkAndCommu.commuListPopTitle","営業ユニットコミュ","영업 유닛 커뮤"
+"workActivityTalkAndCommu.talkCompleteRewardPopContent.rewardName","コンプ数\n%{num}","컴플 개수\n%{num}"
+"workActivityTalkAndCommu.talkCompleteRewardPopContent.title","コンプ報酬","컴플 보상"
+"workActivityTalkAndCommu.unitLevelRewardPopContent.rewardName","ユニット\nLv.%{num}","유닛\nLv.%{num}"
+"workActivityTalkAndCommu.unitLevelRewardPopContent.title","レベル報酬","레벨 보상"

@@ -136,7 +136,7 @@ images/ui/produce_helper_support_idol/parts.json_image,produce_helper_support_id
 images/ui/produce_action/parts_event.json_image,produce_action_parts_event.png,3
 images/tips/produce_skill_board/001.jpg,produce_skill_board_001.png,9
 images/tips/produce_skill_board/002.jpg,produce_skill_board_002.png,1
-images/ui/work_activity_top/parts.json_image,work_activity_top.png,8
+images/ui/work_activity_top/parts.json_image,work_activity_top.png,9
 images/ui/work_activity_result/parts.json_image,work_activity_result.png,4
 images/content/my_page/banner_border/event_notice.png,event_notice.png,2
 images/content/gasha/bg/6ee7b2d1c1adcc09beb11fe9a8636dd7_1952.jpg,bg_1952.png,1
@@ -482,3 +482,7 @@ images/content/idols/name/8add2ad55482da34767ffbb711e2daca_1940230010.png,idol23
 images/content/idols/name/1b310782b368c7ced193285f2433c439_1020230010.png,idol233.png,2
 images/content/idols/name/d4eb89895c481bf985baf2e90bb59e31_1930230010.png,idol232.png,2
 images/ui/my_page/parts_fortune_effect_balloon.json_image,fortune_effect.png,2
+images/ui/work_activity_talk_and_commu/parts.json_image,work_activity_talk_and_commu_parts.png,1
+images/content/business/area_banner/1.png,area_banner_1.png,1
+images/content/business/area_banner/2.png,area_banner_2.png,1
+images/content/business/area_banner/3.png,area_banner_3.png,1
