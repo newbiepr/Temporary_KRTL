@@ -706,14 +706,14 @@ idolDetail.tradeMemorialPieceDialog.title,メモリアルピース変換確認,�
 idolDetail.tradeMemorialPieceDialog.comment,このアイドルとはお別れすることになります。\r変換を確定してよろしいですか？,이 아이돌과는 작별하는 일이 됩니다。\r변환을 확정해도 괜찮습니까？
 idolDetail.tradeMemorialPieceDialog.afterPieceCount,%{afterPieceCount}(+%{addPieceCount}),
 idolDetail.tradeMemorialPieceDialog.addPieceCount,(+%{addPieceCount}),
-idolDetail.tradeMemorialPieceDialog.srOrSsrNotice,SR以上の%{idolType}が選択されています,SR이상의%{idolType}가 선택되고 있습니다
+idolDetail.tradeMemorialPieceDialog.srOrSsrNotice,SR以上の%{idolType}が選択されています,SR이상의 %{idolType}이 선택되고 있습니다
 idolDetail.tradeMemorialPieceDialog.maxNotice,最大所持量を超えるため変換できません,최대 소지량을 넘기 때문에 변환할 수 없습니다
 idolDetail.receiveMemorialPieceDialog.title,メモリアルピース変換結果,메모리얼 피스 변환 결과
 idolDetail.receiveMemorialPieceDialog.comment,%{idolType}\r%{idolName}\rを変換して%{pieceName}を受け取りました,%{idolType}\r%{idolName}\r를 변환해%{pieceName}를 받았습니다
 idolDetail.fesIdolMarkSelectDialog.title,フェスアイドルマーク,페스아이돌마크
 idolDetail.idol,プロデュースアイドル,프로듀스 아이돌
 idolDetail.supportIdol,サポートアイドル,서포트 아이돌
-idolDetail.fesIdol,フェスアイドル,페스아이돌
+idolDetail.fesIdol,フェスアイドル,페스 아이돌
 idolDetail.guest,ゲスト,Guest
 idolPiece,メモリアルピース,메모리얼 피스
 idolRank.txtFan,%{count}人,%{count}명
@@ -1742,10 +1742,10 @@ item.releaseMypageCommunicationPop.text,トリック・オア・トリート！\
 "workActivityRewardPop.talkCompleteRewardTitle","報酬受け取り","보상 수령"
 "workActivityRewardPop.unitLevelRewardText","営業ユニットレベルが一定に達したため\n以下の報酬を受け取りました","영업 유닛 레벨이 일정치에 이르렀기 때문에\n이하의 보상을 받았습니다"
 "workActivityRewardPop.commuText","営業ユニットレベルが一定に達したため\n以下のコミュが解放されました","영업 유닛 레벨이 일정치에 이르렀기 때문에\n이하의 커뮤가 해방되었습니다"
-"workActivityRewardPop.talkCompleteRewardText","トークのコンプ数が一定に達したため\n以下の報酬を受け取りました","토크의 컴플 개수가 일정치에 이르렀기 때문에\n이하의 보상을 받았습니다"
+"workActivityRewardPop.talkCompleteRewardText","トークのコンプ数が一定に達したため\n以下の報酬を受け取りました","토크의 완료 개수가 일정치에 이르렀기 때문에\n이하의 보상을 받았습니다"
 "workActivityResult.unitWorkActivityPointPop.title","ユニット営業ポイント確認","유닛 영업 포인트 확인"
 "workActivityTalkAndCommu.commuListPopTitle","営業ユニットコミュ","영업 유닛 커뮤"
-"workActivityTalkAndCommu.talkCompleteRewardPopContent.rewardName","コンプ数\n%{num}","컴플 개수\n%{num}"
-"workActivityTalkAndCommu.talkCompleteRewardPopContent.title","コンプ報酬","컴플 보상"
+"workActivityTalkAndCommu.talkCompleteRewardPopContent.rewardName","コンプ数\n%{num}","완료 개수\n%{num}"
+"workActivityTalkAndCommu.talkCompleteRewardPopContent.title","コンプ報酬","완료 보상"
 "workActivityTalkAndCommu.unitLevelRewardPopContent.rewardName","ユニット\nLv.%{num}","유닛\nLv.%{num}"
 "workActivityTalkAndCommu.unitLevelRewardPopContent.title","レベル報酬","레벨 보상"
