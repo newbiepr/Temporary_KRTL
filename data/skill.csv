@@ -4,6 +4,7 @@ $numターンの間回避時,$1턴 동안 회피시
 思い出アピール未習得,추억 어필 미습득,
 思い出アピール未習得の状態です,추억 어필 미습득 상태입니다,
 Excellent$num倍アピール,Excellent $1배 어필,
+全観客に影響力$percentDOWN,전관객에게 영향력 $1DOWN,
 全観客の興味$percentDOWN,전관객의 흥미 $1DOWN,
 思い出ゲージ増加量$percentDOWN,추억 게이지 증가량 $1DOWN,
 $nounの増加量が$percentDOWNする効果,$1 증가량이 $2 DOWN하는 효과,
