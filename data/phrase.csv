@@ -1756,3 +1756,6 @@ item.releaseMypageCommunicationPop.text,トリック・オア・トリート！\
 "characterSpecialCommunication.dayLimitComment","本日の解放上限に達しています","오늘의 해방 상한에 도달하였습니다"
 "characterSpecialCommunication.remainingPlayCount","本日の解放数： %{remaining}/%{max}回","오늘의 해방수: %{remaining}/%{max}회"
 "characterSpecialCommunication.schedule","開催期限 %{startAt}〜%{closeAt}","개최기한 %{startAt}~%{closeAt}"
+"item.characterTrustLevelUp.text","アイドルとの信頼関係が更に深まった","아이돌과의 신뢰 관계가 더욱 깊어졌다"
+"item.characterTrustLevelUp.notification","%{characterName} の信頼度がアップしました","%{characterName} 의 신뢰도가 높아졌습니다"
+"shop.purchaseConfirmation.notice.trustPointUpMerchandise","既に信頼度がMAXのアイドルに使用した場合\nスペシャルコミュ＋の解放のみとなります","이미 신뢰도가 MAX인 아이돌에게 사용할 경우\n스페셜커뮤＋만 해방합니다"
