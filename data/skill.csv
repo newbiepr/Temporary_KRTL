@@ -93,6 +93,7 @@ $noun滞在率,$1 체재율,
 メンタルダメージカット$percent,멘탈 데미지 컷 $1,
 注目度DOWN$percent,주목도 DOWN $1,
 興味DOWN$percent,흥미 DOWN $1,
+興味$num倍,흥미 $1배
 影響力$percentUP,영향력 $1UP,
 影響力$percentDOWN,영향력 $1DOWN,
 自身の$nounを$percent減らす,자신의 $1을 $2 줄인다,
