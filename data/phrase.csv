@@ -1590,9 +1590,9 @@ profile.birthdayNotSet,未設定,미설정
 profile.birthdayFormat,m月d日,m월d일
 profile.birthdayEditDialog.title,プロデューサー誕生日設定,프로듀서 생일 설정
 profile.birthdayEditDialog.description,誕生日を設定すると\rアイドルから誕生日を祝ってもらえます,생일을 설정하면\r아이돌로부터 생일을 축하받을 수 있습니다
-profile.birthdayEditDialog.birthday,誕生日,생일 메세지 커뮤를 재생합니다
+profile.birthdayEditDialog.birthday,誕生日,생일
 profile.birthdayEditDialog.dateFormat,d日,d일
-profile.birthdayEditDialog.monthFormat,m月,m월d일
+profile.birthdayEditDialog.monthFormat,m月,m월
 profile.birthdayEditDialog.notification,誕生日は月に1回まで変更できます,생일은 한달에 한번 까지 변경할 수 있습니다
 profile.birthdayEditLeapDayDialog.title,確認,확인
 profile.birthdayEditLeapDayDialog.description,うるう年が入力されました,윤년이 입력 되었습니다
