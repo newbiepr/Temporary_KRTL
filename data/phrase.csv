@@ -1212,7 +1212,6 @@ characterAlbum.commuDetailPop.notice,%{itemName}での解放は%{date}より可�
 characterAlbum.commuDetailPop.title,コミュ詳細,커뮤 상세
 characterAlbum.commuDetailPop.useItem.title,%{itemName}を使ってコミュを解放できます,%{itemName}를 사용해 커뮤를 해방할 수 있습니다
 characterBirthday.characterBirthdayListPop.birthday,%{month}/%{day},
-characterBirthday.characterBirthdayListPop.month,月,월
 characterBirthday.characterBirthdayListPop.title,誕生日確認,생일 확인
 characterBirthday.givePresentDialog.text,自然回復の上限を超えて回復でき、\n誕生日ミニコミュが解放されます,자연 회복의 상한을 넘어 회복할 수 있고\n생일 미니커뮤가 해방됩니다
 characterBirthday.specialCommunicationDialog.txtNotice,「あとで再生」を選んだ場合、\n期間中誕生日特設ページで再度この確認が表示されます。,「나중에 재생」을 선택했을 경우\n기간중 생일 특설 페이지로 재차 이 확인이 표시됩니다.
