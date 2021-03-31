@@ -968,7 +968,7 @@ tutorial.openingMessage.mes2,女の子達の永遠の憧れ,여자아이들의 �
 tutorial.openingMessage.mes3,だがアイドルの頂点に立てるのは,하지만 아이돌의 정점으로 서는 것은
 tutorial.openingMessage.mes4,ただ、1組……,오직、1그룹……
 tutorial.openingMessage.mes6,そんなサバイバルな世界に,그런 서바이벌인 세계에
-tutorial.openingMessage.mes7,今23人の女の子と,지금 23명의 여자아이와
+tutorial.openingMessage.mes7,今25人の女の子と,지금 25명의 여자아이와
 tutorial.openingMessage.mes8,１人のプロデューサーが,1명의 프로듀서가
 tutorial.openingMessage.mes9,足を踏み入れる！,발을 디딘다!
 tutorial.skipPop.message,次のチュートリアルまでスキップします\nよろしいですか？,다음의 튜토리얼까지 스킵하려고 합니다\n괜찮겠습니까?
@@ -1408,6 +1408,7 @@ tutorial.unitDescription.3,"個性と個性がぶつかり合う全力系アイ�
 tutorial.unitDescription.4,ポップでハッピーな3人組アイドルユニット。\nアルストロメリアの花言葉「未来への憧れ」を胸に抱き、\n今日もシアワセなパフォーマンスで会場に笑顔を咲かせます！,"팝하며 해피한 3인조 아이돌 유닛.\n알스트로메리아의 꽃말 「미래를 향한 동경」을 가슴에 품고,\n오늘도 행복한 퍼포먼스로 공연장에 미소를 꽃피운다!"
 tutorial.unitDescription.5,実在と非実在を行き来するカリスマ的アイドルユニット。\nアイドルというアバターを身に纏い、歌うは真実か、狂気か。\n解き放たれた迷光が、今日も世界を奔る。,실재와 비실재를 오가는 카리스마적 아이돌 유닛.\n아이돌이라는 아바타를 몸에 두르고 노래하는 것은 진실인가 광기인가.\n풀려난 미광이 오늘도 세계를 누빈다.
 tutorial.unitDescription.6,幼なじみ４人で結成された、透明感あふれるアイドルユニット\n誰かになる必要なんてない――\n走り出す波を追って、少女たちは碧い風になる,소꿉친구 4명으로 결성된 투명감 넘치는 아이돌 유닛.\n누군가가 될 필요는 없어.\n달리기 시작하는 파도를 따라 소녀들은 푸른 바람이 된다.
+"tutorial.unitDescription.7","スパイシー＆ガーリーなダンスポップユニット。\n音楽はとまらない。だから黙って聴いていて。駆け出す心のBPMを、抑えられない\n旋律を。わたし(she)がわたし(she)になるための、1000カラットの物語を。","스파이시 & 걸리한 댄스 팝 유닛. 음악은 멈추지 않아. 그러니까 잠자코 듣고 있어. 달려나가는 마음의 BPM을, 억누를 수 없는 선율을. 내(she)가 나(she)로 되기 위한, 1000캐럿의 이야기를."
 tutorial.dialog.idolChoice.title,プロデュースアイドル確認,프로듀스 아이돌 확인
 tutorial.dialog.idolChoice.message,%{name}で\nチュートリアルを開始しますか？,%{name}로\n튜토리얼을 시작하시겠습니까?
 tutorial.dialog.deckEdit.title,確認,확인
@@ -1758,3 +1759,5 @@ item.releaseMypageCommunicationPop.text,トリック・オア・トリート！\
 "item.characterTrustLevelUp.text","アイドルとの信頼関係が更に深まった","아이돌과의 신뢰 관계가 더욱 깊어졌다"
 "item.characterTrustLevelUp.notification","%{characterName} の信頼度がアップしました","%{characterName} 의 신뢰도가 높아졌습니다"
 "shop.purchaseConfirmation.notice.trustPointUpMerchandise","既に信頼度がMAXのアイドルに使用した場合\nスペシャルコミュ＋の解放のみとなります","이미 신뢰도가 MAX인 아이돌에게 사용할 경우\n스페셜커뮤＋만 해방합니다"
+"specialCommunicationSituation.confirmationTitle","スペシャルコミュ再生確認","스페셜커뮤 재생 확인"
+"specialCommunicationSituation.confirmationComment","%{title} が解放されました\n再生しますか？\n\n閉じるを選んだ場合でも、\nイベントページのアーカイブ内から\n再生することができます","%{title}이 해방되었습니다\n재생하시겠습니까?\n\n닫기를 선택한 경우에도,\n이벤트 페이지의 아카이브 안에서\n재생할 수 있습니다"
