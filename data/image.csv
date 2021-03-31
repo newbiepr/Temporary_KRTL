@@ -367,7 +367,7 @@ images/content/beginner_missions/to_button/002.png,to_button_002.png,1
 images/content/game_event/reward_label/3_5_10_15_28_34_0.png,3_5_10_15_28_34_0.png,2
 images/content/game_event/reward_label/5_9_13_17_21_0.png,5_9_13_17_21_0.png,1
 images/ui/music_select/parts.json_image,music_select.png,3
-images/ui/shop/parts_monthly_passport.json_image,parts_monthly_passport.png,1
+images/ui/shop/parts_monthly_passport.json_image,parts_monthly_passport.png,2
 images/content/beginner_missions/button/010.png,button_010.png,1
 images/content/gasha/bg/21142f18c8e970750e8ae254a6b36f16_10162.jpg,10162.jpg,1
 images/content/gasha/bg/a832287c3baffe3bca835e100398b0d4_10182.jpg,10182.jpg,1
@@ -869,3 +869,5 @@ images/content/support_idols/name/9a7e5362b6e71d813b9e3935d50f425b_2030190030.pn
 images/content/idols/name/67de71e822f85917ee81ea62b1664e8c_1040120060.png,card_name_1040120060.png,1
 images/content/support_idols/name/ae0941cd6ae18e35f391ae96269c5756_2030160040.png,card_name_2030160040.png,1
 images/content/idols/name/1b6b3a4856ae5db9752e7f1e271a2868_1030220010.png,card_name_1030220010.png,1
+images/content/special_communication_situations/buttons/50015/parts.json_image,buttons_50015.png,1
+images/content/special_communication_situations/bg/5001501.jpg,5001501.png,1
