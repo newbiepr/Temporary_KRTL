@@ -231,7 +231,7 @@ images/tips/beginner_mission/001.jpg,beginner_mission_001.jpg,2
 images/tips/beginner_mission/002.jpg,beginner_mission_002.jpg,2
 images/ui/beginner_mission/parts.json_image,beginner_mission_parts.png,7
 images/ui/produce_reporter_event/parts_reporter.json_image,reporter.png,3
-images/ui/idol_choice/parts.json_image,idol_choice_parts.png,2
+images/ui/idol_choice/parts.json_image,idol_choice_parts.png,3
 images/content/unit/name/001.png,unit_name_001.png,2
 images/content/unit/catch_copy/001.png,unit_catch_001.png,2
 images/content/unit/name/002.png,unit_name_002.png,2
@@ -871,3 +871,5 @@ images/content/support_idols/name/ae0941cd6ae18e35f391ae96269c5756_2030160040.pn
 images/content/idols/name/1b6b3a4856ae5db9752e7f1e271a2868_1030220010.png,card_name_1030220010.png,1
 images/content/special_communication_situations/buttons/50015/parts.json_image,buttons_50015.png,1
 images/content/special_communication_situations/bg/5001501.jpg,5001501.png,1
+images/content/unit/name/007.png,name_007.png,1
+images/content/unit/catch_copy/007.png,catch_copy_007.png,1
