@@ -44,6 +44,8 @@ $noun$num倍アピール,$1 $2배 어필,
 全観客に$noun$num倍アピール,전관객에게 $1 $2배 어필,
 $noun最大$num倍アピール,$1 최대 $2배 어필,
 全観客に$noun最大$num倍アピール,전관객에게 $1 최대 $2배 어필,
+全観客にVocal&Dance&Visual$num倍アピール,전관객에게 Vocal&Dance&Visual $1배 어필,
+[条件:VoDaVi UP全てが付与されている場合],[조건:VoDaVi UP 모두가 부여된 경우],
 $noun＆$noun$num倍アピール,$1＆$2 $3배 어필,
 $noun＆$noun$percentUP,$1＆$2 $3UP,
 [$numターン],[$1턴],
@@ -173,6 +175,7 @@ Viレッスン,Vi레슨,noun
 ごくごく稀,극히 희소,other
 ごく稀,매우 희소,other
 放クラ,방클걸,other
+イルミネ,일루미네,other
 リンクアピール,링크 어필,text
 メンタルダメージCUT,멘탈 데미지 CUT,text
 特定のアイドルイベントで解放,특정 아이돌 이벤트로 해방,text
