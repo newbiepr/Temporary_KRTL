@@ -1761,3 +1761,4 @@ item.releaseMypageCommunicationPop.text,トリック・オア・トリート！\
 "shop.purchaseConfirmation.notice.trustPointUpMerchandise","既に信頼度がMAXのアイドルに使用した場合\nスペシャルコミュ＋の解放のみとなります","이미 신뢰도가 MAX인 아이돌에게 사용할 경우\n스페셜커뮤＋만 해방합니다"
 "specialCommunicationSituation.confirmationTitle","スペシャルコミュ再生確認","스페셜커뮤 재생 확인"
 "specialCommunicationSituation.confirmationComment","%{title} が解放されました\n再生しますか？\n\n閉じるを選んだ場合でも、\nイベントページのアーカイブ内から\n再生することができます","%{title}이 해방되었습니다\n재생하시겠습니까?\n\n닫기를 선택한 경우에도,\n이벤트 페이지의 아카이브 안에서\n재생할 수 있습니다"
+announce.personal,お知らせ,공지
