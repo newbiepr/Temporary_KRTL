@@ -736,7 +736,7 @@ item.recoveryItem.type.produce.valueName,スタミナ,스태미너
 item.recoveryItem.type.fes.valueName,参加権,참가권
 jewel,フェザージュエル,패더 쥬엘
 musicSelect.recommendTitle,おまかせ,오마카세(자동 곡 선택)
-musicSelect.recommendDescription,"編成しているアイドルによって、ライブ中に流れる楽曲が変化します。\n同じユニットのアイドルを3人以上編成した状態でライブを行うと、\nそのユニットの楽曲が再生されます。\n\nソロ楽曲はセンターに設定しているアイドルのソロ楽曲が\n「おまかせ」の再生条件に加えて抽選されるようになります。\n\n※詳細はヘルプ内「ライブ ＞ ライブ中の楽曲」よりご確認ください。","편성하고 있는 아이돌에 따라서 라이브 중에 재생되는 악곡이 변화합니다.\n같은 유닛인 아이돌을 3명 이상 편성한 상태로 라이브를 진행하면\n그 유닛 전용의 악곡이 재생됩니다.\n\n솔로악곡은 센터에 설정되어 있는 아이돌의 솔로악곡이\n「오마카세」의 재생조건에 더해져 추첨됩니다.\n\n※자세한 내용은 헬프 내 「라이브 ＞ 라이브중 악곡」에서 확인해 주세요."
+musicSelect.recommendDescription,"編成しているアイドルによって、ライブ中に流れる楽曲が変化します。\n同じユニットのアイドルを3人以上（シーズは2人）編成した状態で\nライブを行うと、そのユニットの楽曲が再生されます。\n\nソロ楽曲はセンターに設定しているアイドルのソロ楽曲が\n「おまかせ」の再生条件に加えて抽選されるようになります。\n\n※詳細はヘルプ内「ライブ ＞ ライブ中の楽曲」よりご確認ください。","편성하고 있는 아이돌에 따라서 라이브 중에 재생되는 악곡이 변화합니다.\n같은 유닛인 아이돌을 3명(시즈는 2명) 이상 편성한 상태로\n라이브를 진행하면 해당 유닛의 악곡이 재생됩니다.\n\n솔로악곡은 센터에 설정되어 있는 아이돌의 솔로악곡이\n「오마카세」의 재생조건에 더해져 추첨됩니다.\n\n※자세한 내용은 헬프 내 「라이브 ＞ 라이브중 악곡」에서 확인해 주세요."
 musicSelect.salesLinkConfirmDialog.title,確認,확인
 musicSelect.salesLinkConfirmDialog.message,外部サイトへ接続します。\n楽曲配信情報サイトに移動してもよろしいですか？,외부 사이트로 접속합니다. \n악곡 정보 전달 사이트로 이동해도 괜찮습니까?
 native.specifiedCommercialTransaction.title,特定商取引法に基づく表示,특정 상거래법에 근거한 표시
@@ -1762,3 +1762,4 @@ item.releaseMypageCommunicationPop.text,トリック・オア・トリート！\
 "specialCommunicationSituation.confirmationTitle","スペシャルコミュ再生確認","스페셜커뮤 재생 확인"
 "specialCommunicationSituation.confirmationComment","%{title} が解放されました\n再生しますか？\n\n閉じるを選んだ場合でも、\nイベントページのアーカイブ内から\n再生することができます","%{title}이 해방되었습니다\n재생하시겠습니까?\n\n닫기를 선택한 경우에도,\n이벤트 페이지의 아카이브 안에서\n재생할 수 있습니다"
 announce.personal,お知らせ,공지
+specialPresent.title,配布のお知らせ,배포 공지
