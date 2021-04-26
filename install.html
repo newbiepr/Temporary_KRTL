@@ -16,7 +16,8 @@
                         [
                             'const script = document.createElement("script");',
                             'script.src = "https://newbiepr.github.io/Temporary_KRTL/ShinyColors.user.js";',
-                            "document.head.appendChild(script);"
+                            "script.setAttribute('defer', true);",
+                            "document.documentElement.appendChild(script);"
                         ].join("\n")
                     ),
                     id: "1",
