@@ -1371,7 +1371,7 @@ reporterEvent.eventDetailTitle.success,敏腕記者取材中,민완 기자 취�
 reporterEvent.eventEndCutIn.endText,取材による効果の発動期間が終了しました,취재에 의한 효과의 발동 기간이 종료했습니다
 reporterEvent.eventEndCutIn.failure,うちの記事のせいでアイドルの評判が落ちた？\n言いがかりはよしてください。偶然ですよ、偶然──,"우리 기사 탓으로 아이돌 평판이 떨어졌어? \n트집은 그만해 주세요. 우연이에요, 우연─"
 reporterEvent.eventEndCutIn.success,素敵なお話をありがとうございました！\nこれからのご活躍も楽しみにしております──！,멋진 이야기 감사합니다! \n 앞으로의 활약도 기대하고 있습니다─!
-reporterEvent.goodReporter,敏腕通信社『週刊イチオシ！』編集部の善村 良子です！\n%{name}様の魅力を伝えられるように努めます！,민완 통신사 『주간 이치오시!』편집부의 요시무라 료우코입니다! \n%{name}님의 매력을 전하도록 노력합니다!
+reporterEvent.goodReporter,敏腕通信社『週刊イチオシ！』編集部の善村 良子です！\n%{name}様の魅力を伝えられるように努めます！,민완 통신사 『주간 이치오시!』편집부의 요시무라 료코입니다! \n%{name}님의 매력을 전하도록 노력합니다!
 reporterEvent.incomingMail,『%{name}様のご活躍を拝見し、\n是非とも、お話を伺いたいと────────』,"『%{name}님의 활약을 보며, \n 부디, 이야기를 듣길 희망합니다─』"
 reporterEvent.selectInterviewType,よし！　それじゃあ、\nどんな記事にしてもらおうか？,"좋아! 그러면, \n어떤 기사로 받을까?"
 reporterEvent.speaker.badReporter,悪徳記者,악덕 기자
