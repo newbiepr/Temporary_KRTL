@@ -676,8 +676,6 @@ option.twitterProfileDescription,設定したイラストをTwitterでシェア�
 option.twitterDeAuthorizeDialog.title,連携解除,제휴 해제
 option.twitterDeAuthorizeDialog.message,Twitter連携を解除しました,Twitter 제휴를 해제했습니다
 idol,アイドル,아이돌
-supportIdolDetail.fromGashaNotice,最大まで特訓とトレーニングを行なった状態を表示しています。,최대까지 특훈과 트레이닝을 행한 상태를 표시하고 있습니다
-idolDetail.fromGashaNotice,最大特訓時の状態を表示しています。,최대 특훈시 상태를 표시하고 있습니다
 idolDetail.headerTitle.produce,プロデュースアイドル詳細,프로듀스 아이돌 상세
 idolDetail.headerTitle.support,サポートアイドル詳細,서포트 아이돌 상세
 idolDetail.headerTitle.fes,フェスアイドル詳細,페스아이돌 상세
@@ -1468,7 +1466,6 @@ evolution.normalInvalidBlockText,%{name}は\n他のアイドルや特訓はづ�
 evolution.featuredInvalidBlockText,アイドルまたは他の特訓はづきさんと\n一緒に使用することはできません,아이돌 또는 다른 특훈하즈키씨와\n함께 사용할 수 없습니다
 evolution.featuredTrainingResultComment,%{name}の\r使用により、レベルが最大になりました,"%{name}의\r사용에 의해, 레벨이 최대가 되었습니다"
 header.idolRoad,アイドルロード,아이돌로드
-idolDetail.fromGashaNoticeWithIdolRoad,最大特訓時、アイドルロード未進行の状態を表示しています。,"최대 특훈시, 아이돌로드 미진행 상태를 표시합니다."
 item.limitNumSimple,最大所持数:,최대 소지수:
 item.evolutionNotice,アイドルや他の特訓はづきさんと一緒に使うことはできません,아이돌이나 다른 특훈 하즈키씨와 함께 사용할 수 없습니다
 item.evolutionNotice2,すでに1回以上特訓しているアイドルに使用した場合\r余剰分の特訓回数は消失します,이미 1회 이상 특훈한 아이돌에 사용한 경우\r잉여분의 특훈 회수는 소실됩니다
@@ -1763,3 +1760,39 @@ item.releaseMypageCommunicationPop.text,トリック・オア・トリート！\
 "specialCommunicationSituation.confirmationComment","%{title} が解放されました\n再生しますか？\n\n閉じるを選んだ場合でも、\nイベントページのアーカイブ内から\n再生することができます","%{title}이 해방되었습니다\n재생하시겠습니까?\n\n닫기를 선택한 경우에도,\n이벤트 페이지의 아카이브 안에서\n재생할 수 있습니다"
 announce.personal,お知らせ,공지
 specialPresent.title,配布のお知らせ,배포 공지
+"filter.categories.proficiency","熟練度",숙련도
+"filter.cautions.proficiency","Landing Point編の専用パラメータです",Landing Point편의 전용 파라미터입니다
+"concert.skill.appealString","倍アピール",배 어필
+"idolList.infoSwitch.4th_produce_area","熟練度(Landing Point用)",숙련도(Landing Point용)
+"idolList.emptyMessages.produceMusicSelect","所持しているアイドルがいません。",소지하고 있는 아이돌이 없습니다
+"header.produceMusicList","楽曲一覧",악곡 목록
+"header.produceMusicSelect","シーズン%{seasonNum}の楽曲選択",시즌%{seasonNum}의 악곡 선택
+"header.produceSupporterSelect","楽曲サポートアイドル選択",악곡 서포트 아이돌 선택
+"header.produceMusicInfo","楽曲情報",악곡 정보
+"header.produceMusicOrder","ライブ楽曲入れ替え",라이브 악곡 교체
+"supportIdolDetail.fromGashaNotice","最大まで特訓とトレーニングを行なった状態を表示しています",최대까지 특훈과 트레이닝을 실시한 상태를 표시합니다
+"idolDetail.fromGashaNotice","最大特訓時の状態を表示しています",최대 특훈시의 상태를 표시합니다
+"idolDetail.fromGashaNoticeWithIdolRoad","最大特訓時、アイドルロード未進行の状態を表示しています","최대 특훈시, 아이돌 로드 미진행 상태를 표시합니다"
+"produceHeader.concertSeason.landingPoint","単独ライブ",단독 라이브
+"produceMusicSelect.abilityDetailPop.title","アビリティ詳細",어빌리티 상세
+"produceMusicSelect.cdInfoPop.title","CD情報",CD정보
+"produceMusicSelect.excludedCharacterPop.title","選択不可アイドル",선택 불가 아이돌
+"produceMusicSelect.excludedCharacterPop.member","編成で選択済みのアイドルと\n同一アイドルは選択できません",편성에서 선택한 아이돌과\n동일한 아이돌은 선택할 수 없습니다
+"produceMusicSelect.excludedCharacterPop.alreadySelected","このアイドルは他の楽曲サポートアイドルに\n設定中のため、選択できません",이 아이돌은 다른 악곡 서포트 아이돌로\n설정중이기 때문에 선택하실 수 없습니다
+"produceMusicSelect.musicDetail.totalLevelBonus.unitLimitation","ユニット限定",유닛 한정
+"produceMusicSelect.selectedSupporterInfo.empty","サポートアイドルを\n選択してください",서포트 아이돌을\n선택하세요
+"produceMusicOrder.musicListItem.order","%{order}曲目",%{order} 곡목
+"produceMusicOrder.musicDetail.judgeStarBonus.none","ライブ効果なし",라이브 효과 없음
+"produceMusicOrder.dragGuide.comment","つかんで\n入れ替え",잡아서\n교체
+"produceMusicOrder.liveDetail.title","%{order}曲目 ライブ詳細",%{order} 곡목 라이브 상세
+"produceAction.musicAssignmentPopup.staff.comment","ライブに向けて\n楽曲課題を\nこなしていきましょ～",라이브를 위해서\n악곡 과제를\n해내세요~
+"produceAction.musicAssignmentPopup.bonusInfo.empty","発動中ボーナスは\nありません",발동중인 보너스는\n없습니다
+"produceAction.musicAssignmentChangeConfirmDialog.title","楽曲課題変更",악곡 과제 변경
+"produceAction.musicAssignmentChangeConfirmDialog.description","楽曲課題を抽選して、別の課題に変更できます\n課題%{number}を別の課題に変更しますか？","악곡 과제를 추첨하여 다른 과제로 변경할 수 있습니다\n과제%{number}를 다른 과제로 변경하시겠습니까?"
+"produceAction.musicAssignmentChangeConfirmDialog.notice1","課題は週に1つだけ変更できます",과제는 일주일에 한 개만 변경할 수 있습니다
+"produceAction.musicAssignmentChangeConfirmDialog.notice2","変更される課題の達成度はリセットされます",변경되는 과제의 달성도는 리셋됩니다
+"proficiencies.sing_ability","歌唱力",가창력
+"proficiencies.feel_stable","安定感",안정감
+"proficiencies.expressive_power","表現力",표현력
+"proficiencies.concentration","集中力",집중력
+"proficiencies.teamwork","団結力",단결력
