@@ -846,8 +846,8 @@ fanMeeting.live.evaluation.fanMeetingRehearsal.good_visual,グッドビジュア
 fanMeeting.live.evaluation.fanMeetingRehearsal.good_mental,グッドメンタル,Good Mental
 fanMeeting.live.evaluation.fanMeetingRehearsal.good_skill,グッドスキル,Good Skill
 fanMeeting.helperSupportIdolFriendShipLevel,アイドルの絆：%{level},아이돌의 인연：%{level}
-fanMeeting.callHelperSupportIdol,（感謝祭の準備……\nちょっと人手が足りないみたいだったな……）,（감사제의 준비……\n조금 일손이 부족한 것 같네……）
-fanMeeting.selectHelperSupportIdol,（手伝いを頼めたらいいんだけど……\n……誰がいいだろう……？）,（도움을 부탁할 수 있으면 좋겠지만……\n……누가 좋을까……？）
+fanMeeting.callHelperSupportIdol,（感謝祭の準備……\nちょっと人手が足りないみたいだったな……）,(감사제의 준비……\n조금 일손이 부족한 것 같네……)
+fanMeeting.selectHelperSupportIdol,（手伝いを頼めたらいいんだけど……\n……誰がいいだろう……？）,(도움을 부탁할 수 있으면 좋겠지만……\n……누가 좋을까……？)
 produceReady.fanMeetingIdolRestrictionPop.title,編成アイドル制限,편성 아이돌 제한
 produceReady.fanMeetingIdolRestrictionPop.text.produceIdol,上記アイドルは\nまだ「283プロファン感謝祭」で\nプロデュースアイドルに選択できません,상기 아이돌은\n아직 「283 프로 팬 감사제」의\n프로듀스 아이돌로 선택할 수 없습니다
 produceReady.fanMeetingIdolRestrictionPop.text.supportIdol,上記アイドルは\nまだ「283プロファン感謝祭」で\nサポートアイドルに選択できません,상기 아이돌은\n아직 「283 프로 팬 감사제」의\n서포트 아이돌로 선택할 수 없습니다
