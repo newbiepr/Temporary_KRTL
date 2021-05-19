@@ -632,8 +632,8 @@ homeDeck.emptyBackGroundEffectName,なし,없음
 judgeTrend.bonusValue,★%{value}倍,★%{value}배
 landscapeDialog.title,画面の向きについて,화면의 방향에 대해
 landscapeDialog.text,このゲームは画面を横向きにして\rお楽しみください。,이 게임은 가로 모드로\r즐겨 주세요.
-loginBonus.clerkComment.greeting,プロデューサーさん、こちらは今日のログインボーナスですよ,프로듀서님、이쪽은 오늘의 로그인 보너스예요
-loginBonus.clerkComment.nextBonus,明日はこちらがもらえますから、頑張っていきましょ〜,내일은 이쪽을 받을 수 있기 때문에、노력해 주세요~
+loginBonus.clerkComment.greeting,プロデューサーさん、こちらは今日のログインボーナスですよ,"프로듀서님, 이쪽은 오늘의 로그인 보너스예요"
+loginBonus.clerkComment.nextBonus,明日はこちらがもらえますから、頑張っていきましょ〜,"내일은 이쪽을 받을 수 있기 때문에, 노력해 주세요~"
 loginBonus.clerkComment.totalBonus,今日はプロデューサー就任%{totalLoginDays}日記念ですね！\rこれはみんなからのお祝いです！受け取ってください！,오늘은 프로듀서 취임%{totalLoginDays}일 기념이군요!\r이것은 모두로부터의 축하입니다! 받아 주세요!
 loginBonus.absenceClerkComment.greeting,ただいま外出中です。ログインボーナスはこちらに置いておきます,지금 외출중입니다. 로그인 보너스는 이쪽에 놓아둡니다
 loginBonus.absenceClerkComment.nextBonus,明日のログインボーナスも、忘れずに確認してください,"내일의 로그인 보너스도, 잊지 않고 확인해 주세요"
@@ -645,7 +645,7 @@ loginBonus.accumulatedTotal.comment4,日,일
 loginBonus.receive.title,報酬受け取り,보상 수령
 loginBonus.receive.message,以下の報酬を受け取りました,이하의 보상을 받았습니다
 maintenance.title,メンテナンス,유지보수
-maintenance.defaultMessage,ただいま、メンテナンスを実施しております。\nご迷惑をおかけし、大変申し訳ございません。,다녀 왔습니다、유지보수를 시행하였습니다. \n폐를 끼쳐、몹시 죄송합니다.
+maintenance.defaultMessage,ただいま、メンテナンスを実施しております。\nご迷惑をおかけし、大変申し訳ございません。,"다녀 왔습니다, 유지보수를 시행하였습니다. \n폐를 끼쳐, 몹시 죄송합니다."
 money,マニー,머니
 mission.headerTitle,ミッション,미션
 mission.popSort,達成状況絞り込み,달성 상황 압축
