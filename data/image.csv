@@ -3,7 +3,7 @@ images/ui/common/parts_buttons.json_image,common.parts_buttons.png,46
 images/ui/start_and_common/parts.json_image,start_and_common.parts.png,10
 images/ui/my_page/parts.json_image,my_page.parts.png,31
 images/ui/present_box/parts.json_image,present_box_parts.png,8
-images/ui/mission/parts.json_image,mission_parts.png,19
+images/ui/mission/parts.json_image,mission_parts.png,20
 images/ui/produce_event/parts_promise.json_image,promise_parts.png,7
 images/ui/produce_action/gradation/parts.json_image,gradation_parts.png,7
 images/content/my_page/banner_border/gasha.png,gasha.png,2
@@ -910,3 +910,6 @@ ae/concert/remain_turn/images/turn_anime_text.png,turn_anime_text.png,1
 images/content/idols/name/12ca7333323f0a6223145b1de09292c3_1030120050.png,1030120050.png,1
 images/content/idols/name/d7a32f9ebe6c8cae8f6caa054a91b721_1040250010.png,1040250010.png,1
 images/content/support_idols/name/e78e415aa3a1b4254e29fe186be6a184_2040070060.png,2040070060.png,1
+images/content/support_idols/name/41bcdfa48ad1d9c3723fdbcef2ba06e5_2040140070.png,2040140070.png,1
+images/content/idols/name/3ea66b88b6469f4b5e3880e44e8726f8_1040160060.png,1040160060.png,1
+images/content/support_idols/name/b0f8690698e52dcd48de0242c4d8dfd3_2040210030.png,2040210030.png,1
