@@ -101,7 +101,7 @@ images/ui/gasha/parts_first_run_limited.json_image,parts_first_run_limited.png,8
 images/content/gasha/title/fa33fc02dea4d8c612d9ca335b51cddf_5041.png,title_5041.png,5
 images/content/gasha/stepup_card_base/fa33fc02dea4d8c612d9ca335b51cddf_5041.png,stepup_card_base_5041.png,5
 images/ui/idol_detail/parts_fes.json_image,idol_detail_parts_fes.png,9
-images/ui/home_deck/parts.json_image,home_deck_parts.png,14
+images/ui/home_deck/parts.json_image,home_deck_parts.png,15
 images/ui/item/parts_content.json_image,item_parts_content.png,9
 images/content/produce_area/button_m/002.png,button_m_002.png,2
 images/content/produce_area/button_l/002.png,button_l_002.png,2
@@ -915,3 +915,6 @@ images/content/idols/name/3ea66b88b6469f4b5e3880e44e8726f8_1040160060.png,104016
 images/content/support_idols/name/b0f8690698e52dcd48de0242c4d8dfd3_2040210030.png,2040210030.png,1
 images/content/idols/name/32b83a73e0d4c93358f0fbc19cbfbfe4_1040190040.png,1040190040.png,1
 images/content/support_idols/name/234b4c02be7f0ce9df25ba04e1897f1b_2030170030.png,2030170030.png,1
+images/content/gasha/banner/d4c1d2182b5cbad03ece121baa693161_107201.png,107201.png,3
+images/content/gasha/banner/e246d7a541c8479d7206366191635286_276101.png,276101.png,1
+images/content/gasha/banner/f9e320e5ee7a4735be2cd3021d7b11d9_1077101.png,1077101.png,1
