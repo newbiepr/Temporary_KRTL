@@ -1,7 +1,7 @@
 name,url,version
 images/ui/common/parts_buttons.json_image,common.parts_buttons.png,46
 images/ui/start_and_common/parts.json_image,start_and_common.parts.png,10
-images/ui/my_page/parts.json_image,my_page.parts.png,31
+images/ui/my_page/parts.json_image,my_page.parts.png,32
 images/ui/present_box/parts.json_image,present_box_parts.png,8
 images/ui/mission/parts.json_image,mission_parts.png,20
 images/ui/produce_event/parts_promise.json_image,promise_parts.png,7
@@ -12,7 +12,7 @@ images/content/my_page/banner_border/update.png,update.png,2
 images/content/my_page/banner_border/event_end.png,event_end.png,2
 images/ui/idol_portal/parts.json_image,idol_portal_parts.png,9
 images/ui/produce_commu/parts_commu.json_image,commu_parts.png,7
-images/ui/produce_top/parts.json_image,top_parts.png,19
+images/ui/produce_top/parts.json_image,top_parts.png,20
 images/ui/start/start_notice.jpg,start_notice.jpg,9
 images/ui/idol_list/parts.json_image,idol_list_parts.png,13
 images/ui/produce_action/parts.json_image,produce_action.png,16
@@ -67,9 +67,9 @@ images/tips/produce_item/001.jpg,produce_item_001.jpg,8
 images/tips/produce_item/002.jpg,produce_item_002.jpg,8
 images/tips/produce_item/003.jpg,produce_item_003.jpg,6
 images/tips/produce_ready/001.jpg,produce_ready_001.jpg,11
-images/tips/produce_ready/002.jpg,produce_ready_002.jpg,12
+images/tips/produce_ready/002.jpg,produce_ready_002.jpg,13
 images/tips/produce_ready/004.jpg,produce_ready_004.jpg,11
-images/tips/produce_ready/005.jpg,produce_ready_005.jpg,11
+images/tips/produce_ready/005.jpg,produce_ready_005.jpg,12
 images/tips/produce_ready/006.jpg,produce_ready_006.jpg,8
 images/tips/produce_ready/007.jpg,produce_ready_007.jpg,4
 images/tips/produce_ready/008.jpg,produce_ready_008.jpg,2
@@ -177,7 +177,7 @@ images/tips/true_end_teaching/produce_idol_select/002.jpg,produce_idol_select_00
 images/tips/true_end_teaching/deck_edit/tips_deck_edit.jpg,deck_edit_tips_deck_edit.png,2
 images/tips/true_end_teaching/trend/001.jpg,trend_001.png,2
 images/ui/true_end_teaching/produce/parts.json_image,true_end_teaching_produce.png,3
-images/ui/produce_action/parts_effect.json_image,produce_action_parts_effect.png,7
+images/ui/produce_action/parts_effect.json_image,produce_action_parts_effect.png,8
 images/ui/produce_action/parts_support_skill.json_image,produce_action_parts_support_skill.png,2
 images/tutorial/001.jpg,tutorial_001.png,7
 images/tutorial/002.jpg,tutorial_002.png,7
@@ -895,7 +895,7 @@ images/ui/produce_action/parts_tab_3.json_image,parts_tab_3.png,1
 images/content/produce_area/button_m/004.png,produce_area_button_m_004.png,1
 images/content/produce_area/button_l/004.png,produce_area_button_l_004.png,1
 images/ui/produce_action/parts_4th.json_image,produce_action_parts_4th.png,1
-images/ui/produce_music_common/parts.json_image,produce_music_common.png,1
+images/ui/produce_music_common/parts.json_image,produce_music_common.png,2
 images/ui/produce_music_select/parts.json_image,produce_music_select.png,1
 images/content/support_idols/name/cd722a8ab0efc50d86f0a6cacea8b537_2030020060.png,2030020060.png,1
 images/content/idols/name/3d0392cfc4e1a1bb2be3041d96a6d37c_1040240010.png,1040240010.png,1
@@ -913,3 +913,5 @@ images/content/support_idols/name/e78e415aa3a1b4254e29fe186be6a184_2040070060.pn
 images/content/support_idols/name/41bcdfa48ad1d9c3723fdbcef2ba06e5_2040140070.png,2040140070.png,1
 images/content/idols/name/3ea66b88b6469f4b5e3880e44e8726f8_1040160060.png,1040160060.png,1
 images/content/support_idols/name/b0f8690698e52dcd48de0242c4d8dfd3_2040210030.png,2040210030.png,1
+images/content/idols/name/32b83a73e0d4c93358f0fbc19cbfbfe4_1040190040.png,1040190040.png,1
+images/content/support_idols/name/234b4c02be7f0ce9df25ba04e1897f1b_2030170030.png,2030170030.png,1
