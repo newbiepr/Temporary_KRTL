@@ -125,8 +125,7 @@ availableInform.remainTime,あと%{remainTime},앞으로 %{remainTime}
 achievementRewardDialog.message,以下のアイテムがプレゼントBOXに送られました,이하의 아이템이 선물 BOX에 보내졌습니다
 achievementRewardDialog.rewardNameNum,%{name} x %{num},
 beginnerMission.headerTitle,初心者ミッション,초심자 미션
-beginnerMission.detailPopTitle,初心者ミッション詳細,초심자 미션 상세
-beginnerMission.receivePopTitle,初心者ミッション達成,초심자 미션 달성
+beginnerMission.receivePopTitle,%{title}達成,%{title} 달성
 downLoad.confirmComment,ゲームデータを一括でダウンロードし、端末に保存します\r\rゲーム中の読み込み時間が減るため、より快適にプレイすることができます\r最大約 %{gb} GB のデバイスの空き容量が必要となります,게임 데이터를 일괄로 다운로드해、단말에 저장합니다\r\r게임중의 read 시간이 줄어들기 때문에、보다 쾌적하게 플레이 할 수가 있습니다\r최대 약%{gb} GB의 디바이스의 빈 용량이 필요합니다
 downLoad.persistMessageMobile,データダウンロードを開始するためには\\rアイドルマスターシャイニーカラーズのURL(shinycolors.enza.fun)を\\rホーム画面に追加、またはブックマークする必要があります,데이터 다운로드를 개시하기 위해서는\\r아이돌마스터 샤이니컬러즈의 URL(shinycolors.enza.fun)을\\r홈 화면에 추가、또는 북마크할 필요가 있습니다
 downLoad.persistMessagePc,データダウンロードを開始するためには\nアイドルマスターシャイニーカラーズのURL(shinycolors.enza.fun)を\nブックマークする必要があります,데이터 다운로드를 개시하기 위해서는\n아이돌마스터 샤이니컬러즈의 URL(shinycolors.enza.fun)을\n북마크할 필요가 있습니다
@@ -559,7 +558,7 @@ jewelPurchase.purchasedDialog.possessionBC,所持バナコイン,소지 바나�
 staffItemPoint,シール,씰
 header.album,アルバム,앨범
 header.comic,４コマ漫画,4컷만화
-header.exSkill,Exスキル変更,Ex스킬 변경
+header.exSkill,Exスキル,Ex스킬
 header.training,トレーニング,트레이닝
 header.trainingIdolList,トレーニングアイドル選択,트레이닝 아이돌 선택
 header.evolution,特訓,특훈
@@ -1446,7 +1445,7 @@ beginnerMission.availableSupportIdolsDetailPop.tips2,のアイドル5人に来�
 beginnerMission.idolSelectConfirmPop.title,初心者ミッション開始確認,초보자 미션 시작 확인
 beginnerMission.idolSelectConfirmPop.text,選択したプロデュースアイドルでは\n以下のサポートアイドルが手に入ります\n初心者ミッションを開始しますか？,선택한 프로듀스 아이돌에서는\n이하의 서포트 아이돌을 얻을 수 있습니다\n초보자 미션을 시작하시겠습니까?
 beginnerMission.idolSelectConfirmPop.txtNotice, 初心者ミッション開始後に選びなおすことはできません,초보자 미션 시작 후에 다시 선택할 수 없습니다 
-beginnerMission.clearedAlert.title,初心者ミッション達成,초보자 미션 달성
+beginnerMission.clearedAlert.title,%{title}達成,%{title} 달성
 countUpCampaign.unit.fes_raid_laps,周,주
 countUpCampaign.countUpText,%{unit}で%{title}達成,%{unit}로 %{title} 달성
 countUpCampaign.clearedFooterText.fes_raid_laps,コラボフェスの到達周数でボーナスをGET!,콜라보페스의 도달주수로 보너스를 GET!
