@@ -49,10 +49,15 @@ $noun$num倍アピール,$1 $2배 어필,
 $noun最大$num倍アピール,$1 최대 $2배 어필,
 全観客に$noun最大$num倍アピール,전관객에게 $1 최대 $2배 어필,
 全観客にVocal&Dance&Visual$num倍アピール,전관객에게 Vocal&Dance&Visual $1배 어필,
+"全観客にVocal＆Dance＆Visual$num倍アピール",전관객에게 Vocal＆Dance＆Visual $1배 어필,
 [条件:VoDaViUP全てが付与されている場合],[조건 : VoDaVi UP 모두가 부여된 경우],
 $noun＆$noun$num倍アピール,$1＆$2 $3배 어필,
 $noun＆$noun$percentUP,$1＆$2 $3UP,
 [$numターン],[$1턴],
+[条件:$noun$percent以上$numターン以降],"[조건 : $1 $2이상 $3턴 이후]"
+[条件:$nounポジション担当に編成している場合],"[조건 : $1 포지션 담당으로 편성된 경우]"
+[条件:$numターン以降$numターン以前],"[조건 : $1턴 이후 $2턴 이전]"
+[条件:$noun$num以上$num以下],"[조건 : $1 $2 이상 $3 이하]"
 [条件:$unit全員がライブに参加している場合],"[조건 : $1 전원이 라이브에 참가하고 있는 경우]"
 [条件:$unit$num～$num人がライブに参加している場合],"[조건 : $1 $2~$3명이 라이브에 참가하고 있을 경우]"
 [条件:$nameがライブに参加している場合],[조건: $1가 라이브에 참가하고 있는 경우],
@@ -127,11 +132,12 @@ Da,Da,noun
 Vo,Vo,noun
 Vi,Vi,noun
 Me,Me,noun
+Center,Center,noun
 メンタル,멘탈,noun
 メンタルダメージ,멘탈 데미지,noun
 リアクション,리액션,noun
 リアクション回避率,리액션 회피율,noun
-スター,스타,noun
+スター,스타(별),noun
 観客,관객,noun
 注目度,주목도,noun
 回避率,회피율,noun

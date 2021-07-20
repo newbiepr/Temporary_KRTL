@@ -1152,7 +1152,6 @@ shop.smallTabTitles.money.recoveryItem,回復アイテム,회복 아이템
 shop.smallTabTitles.money.others,その他,그 외
 shop.smallTabTitles.skin.shops,衣装交換所,의상 교환소
 shop.smallTabTitles.skin.skins,所持衣装,소지 의상
-shop.smallTabTitles.gameEvent.point,ポイント交換,포인트 교환
 shop.smallTabTitles.gameEvent.ticket,チケット交換,티켓 교환
 shop.smallTabTitles.idolPiece.rainbow,虹,무지개
 shop.smallTabTitles.idolPiece.gold,金,금
@@ -1796,3 +1795,21 @@ specialPresent.title,配布のお知らせ,배포 공지
 "proficiencies.concentration","集中力",집중력
 "proficiencies.teamwork","団結力",단결력
 produceAction.satisfactionUpEffect.pointUp,上昇量UP！,상승량 UP!
+fes.result.scoreDetail.additionalBonus,追加ボーナス,추가 보너스
+fes.result.scoreDetail.popularIdolBonus,使用率ボーナス,사용률 보너스
+fes.popularityRanking.warning,※SRアイドル、アイドルロードは反映されません,"※SR 아이돌, 아이돌 로드는 반영되지 않습니다"
+fes.popularityRanking.rankingTextLabel,位,위
+fes.popularityRanking.emptyNotice,現在ランキング集計中です,현재 랭킹 집계중입니다
+fes.deckMemberPopularity.rankingTextLabel,位,위
+fes.deckMemberPopularity.unrankedTextLabel,反映外,반영 외
+header.fesMatchPopularityRanking,使用率,사용률
+shop.smallTabTitles.gameEvent.coin,グレフェスコイン,그레페스 코인
+shop.smallTabTitles.gameEvent.point,イベントポイント,이벤트 포인트
+skillBord.enablePassiveSkillDeletionNotice.title,確認,확인
+skillBord.enablePassiveSkillDeletionNotice.notice,習得したパッシブスキルの削除が有効になりました,습득한 패시브 스킬의 삭제가 유효해졌습니다
+skillBord.enablePassiveSkillDeletionNotice.warning,削除したパッシブスキルは、再習得することが出来ません\r\nまた、習得で消費したSPは返還されません,"삭제한 패시브 스킬은 다시 습득할 수 없습니다\r\n또한 습득에 소비한 SP는 반환되지 않습니다"
+skillBord.deletePassiveSkillConfirmation.title,スキル削除確認,스킬 삭제 확인
+skillBord.deletePassiveSkillConfirmation.message,選択したパッシブスキルを削除しますか？,선택한 패시브 스킬을 삭제하시겠습니까?
+skillBord.deletePassiveSkillConfirmation.warning,削除したパッシブスキルは、再習得することが出来ません\r\nまた、習得で消費したSPは返還されません,"삭제한 패시브 스킬은 다시 습득할 수 없습니다\r\n또한 습득에 소비한 SP는 반환되지 않습니다"
+"common.fesMatchCoin.original","グレフェスコイン",그레페스 코인
+"common.fesMatchCoin.simple","コイン",코인
