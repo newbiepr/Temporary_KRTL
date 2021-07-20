@@ -169,8 +169,6 @@ $unitの誰か一人をプロデュースして$rank以上のフェスアイド�
 $unitの誰か1人をプロデュースして$rank以上のフェスアイドルを誕生させよう,$1의 누군가 한사람을 프로듀스해 $2 이상의 페스 아이돌을 탄생시키자,
 $unitの誰か1人をプロデュースして$rank以上のフェスアイドルを$num人誕生させよう,$1의 누군가 한사람을 프로듀스해 $2 이상의 페스 아이돌을 $3명 탄생시키자,
 $unitの誰か一人をプロデュースして$rank以上のフェスアイドルを$num人誕生させよう,$1의 누군가 한사람을 프로듀스해 $2 이상의 페스 아이돌을 $3명 탄생시키자,
-シーズン$num開催のオーディション「$uk」に合格しよう,시즌$1 개최의 오디션 「$2」에 합격하자,
-シーズン$num開催の特別オーディション「$uk」に合格しよう,시즌$1 개최의 특별 오디션 「$2」에 합격하자,
 ファン感謝祭をクリアしよう,팬 감사제를 클리어 하자,
 ファン感謝祭でMVPを$num回取ろう,팬 감사제에서 MVP를 $1회 획득하자,
 $rank以上の$nounに参加して、「$noun」を達成しよう,$1 이상의 $2에 참가해 「$3」을(를) 달성하자,
@@ -633,3 +631,8 @@ iDOLBuffet アイドルビュッフェ,iDOLBuffet 아이돌 뷔페,audition
 七彩メモリーズ,일곱빛깔 메모리즈,audition
 歌姫楽宴,가희낙연,audition
 今夜は帰りたくない！,오늘 밤은 돌아가고 싶지 않아!,audition
+THE LEGEND,THE LEGEND,audition
+LET's SAY HELLO!!,LET's SAY HELLO!!,audition
+POP-ON！,POP-ON！,audition
+HOPPINJAM,HOPPINJAM,audition
+NEWBE@T,NEWBE@T,audition
