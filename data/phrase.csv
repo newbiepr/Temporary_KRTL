@@ -972,8 +972,8 @@ tutorial.skipPop.message,次のチュートリアルまでスキップします\
 tutorial.skipPop.title,確認,확인
 tutorial.skipPop.warning1,各機能の説明はチュートリアル終了後も,각 기능의 설명은 튜토리얼 종료 후에도
 tutorial.skipPop.warning3,から確認可能です。,로부터 확인 가능합니다
-tv.appearance,テレビ出演を果たした。\n,텔레비젼 출연을 완수했다。\n
-tv.appearanceAfter,アイドル達の魅力が引き出されたように感じる。,아이돌들의 매력이 끌어진 것 같다。
+tv.appearance,テレビ出演を果たした。\n,TV출연을 마쳤다.\n
+tv.appearanceAfter,アイドル達の魅力が引き出されたように感じる。,아이돌들이 자기 매력을 잘 선보인 것 같다. 
 tv.performanceComment,今話題のアイドルが登場！圧巻のパフォーマンスを披露！,지금 화제의 아이돌이 등장! 압권의 퍼포먼스를 피로!
 twitter.PINCodeDialog.title,Twitter連携,Twitter제휴
 twitter.PINCodeDialog.description,Twitterに投稿するには、PINコードを取得して\nTwitterとの連携を認証する必要があります,Twitter에 투고하려면、PIN 코드를 취득해\nTwitter와의 제휴를 인증할 필요가 있습니다
