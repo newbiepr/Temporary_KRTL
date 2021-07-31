@@ -412,9 +412,9 @@ fes.result.scoreDetail.bonusValue,×%{value},×%{value}
 fes.result.scoreDetail.totalBonus,ボーナス合計,보너스 합계
 fes.result.scoreDetail.finalScore,総合スコア,종합 스코어
 fes.fesGradeEvaluationReward.title,報酬内容,보상 내용
-fes.fesGradeEvaluationReward.message,以下のアイテムがプレゼントに送られました,이하의 아이템이 선물로 보내졌습니다
+fes.fesGradeEvaluationReward.message,グレフェスコインを獲得しました,그레페스코인을 획득했습니다
 fes.fesGradeEvaluationReward.itemNameNum,%{type} ×%{num},
-fes.fesGradeEvaluationReward.comment.newRecord,初めてのグレードLv%{gradeId}到達、おめでとうございます\rミッション報酬も忘れずに受け取ってくださいね♪,처음의 그레이드 Lv%{gradeId}도달、축하합니다\r미션 보수도 잊지 않고 받아 주세요♪
+fes.fesGradeEvaluationReward.comment.newRecord,初めてのグレードLv%{gradeId}到達、おめでとうございます\rミッション報酬を忘れずに受け取ってくださいね♪,처음의 그레이드 Lv%{gradeId}도달、축하합니다\r미션 보상을 잊지 않고 받아 주세요♪
 fes.fesGradeEvaluationReward.comment.gradeUp,グレードアップです\rプロデューサーさん、良い調子ですね♪,그레이드 업입니다\r프로듀서님、좋은 상태군요♪
 fes.fesGradeEvaluationReward.comment.gradeKeep,グレードキープです、今回も頑張りましょう\r私も応援していますね♪,그레이드 킵입니다、이번에도 열심히 합시다\r저도 응원하겠습니다♪
 fes.fesGradeEvaluationReward.comment.gradeDown,今回はLv%{gradeId}のグレードになります\r引き続き、グレードアップを目指していきましょうね,이번에는 Lv%{gradeId}의 그레이드가 됩니다\r계속해서、그레이드 업을 목표로 해 가요
@@ -1460,12 +1460,12 @@ evolution.confirm.notice,特訓はづきさんが含まれています\r本当�
 evolution.confirm.checkDescription,特訓を有効にする,특훈을 유효하게 한다
 evolution.confirm.maxStaffNotice,1回以上特訓しているアイドルが選択されています\r特訓を開始した場合、余剰分の特訓回数は消失します,"1회이상 특훈한 아이돌이 선택되고 있습니다\r특훈을 개시할 경우, 잉여분의 특훈 회수는 소실됩니다"
 evolution.confirm.maxStaffNoticeLevel,Lv.2以上のサポートアイドルが選択されています\r特訓を開始した場合、余剰分のExpは消失します,"Lv. 2이상의 서포트 아이돌이 선택되고 있습니다\r특훈을 개시할 경우, 잉여분의 Exp는 소실됩니다"
-evolution.normalInvalidBlockText,%{name}は\n他のアイドルや特訓はづきさんと\n一緒に使用することはできません,%{name}는\n다른 아이돌이나 특훈하즈키씨와\n함께 사용할 수 없습니다
-evolution.featuredInvalidBlockText,アイドルまたは他の特訓はづきさんと\n一緒に使用することはできません,아이돌 또는 다른 특훈하즈키씨와\n함께 사용할 수 없습니다
+evolution.normalInvalidBlockText,%{name}は\nアイドルやアイドルピース、\nまたは他の特訓はづきさんと\n一緒に使用することはできません,%{name}는\n아이돌이나 아이돌 피스\n또는 다른 특훈 하즈키씨와\n함께 사용할 수 없습니다
+evolution.featuredInvalidBlockText,アイドルやアイドルピース、\nまたは他の特訓はづきさんと\n一緒に使用することはできません,아이돌이나 아이돌 피스\n또는 다른 특훈 하즈키씨와\n함께 사용할 수 없습니다
 evolution.featuredTrainingResultComment,%{name}の\r使用により、レベルが最大になりました,"%{name}의\r사용에 의해, 레벨이 최대가 되었습니다"
 header.idolRoad,アイドルロード,아이돌로드
 item.limitNumSimple,最大所持数:,최대 소지수:
-item.evolutionNotice,アイドルや他の特訓はづきさんと一緒に使うことはできません,아이돌이나 다른 특훈 하즈키씨와 함께 사용할 수 없습니다
+item.evolutionNotice,アイドルやアイドルピース、他の特訓はづきさんと\r一緒に使うことはできません,"아이돌이나 아이돌 피스, 다른 특훈 하즈키씨와 함께 사용할 수 없습니다"
 item.evolutionNotice2,すでに1回以上特訓しているアイドルに使用した場合\r余剰分の特訓回数は消失します,이미 1회 이상 특훈한 아이돌에 사용한 경우\r잉여분의 특훈 회수는 소실됩니다
 item.evolutionNoticeLevel,すでにLv.2以上トレーニングしているアイドルに使用した場合\r余剰分のExpは消失します,이미 Lv. 2 이상 트레이닝한 아이돌에 사용한 경우\r잉여분의 Exp는 소실됩니다
 idolRoad.needsProduceEnd.title,アイドルロード進行不可,아이돌로드 진행 불가
@@ -1813,3 +1813,11 @@ skillBord.deletePassiveSkillConfirmation.message,選択したパッシブスキ�
 skillBord.deletePassiveSkillConfirmation.warning,削除したパッシブスキルは、再習得することが出来ません\r\nまた、習得で消費したSPは返還されません,"삭제한 패시브 스킬은 다시 습득할 수 없습니다\r\n또한 습득에 소비한 SP는 반환되지 않습니다"
 "common.fesMatchCoin.original","グレフェスコイン",그레페스 코인
 "common.fesMatchCoin.simple","コイン",코인
+"common.idolEvolutionPiece","アイドルピース","아이돌 피스"
+"exchangeItem.idolEvolutionPieceTicket.original","アイドルピース交換チケット","아이돌 피스 교환 티켓"
+"exchangeItem.idolEvolutionPieceTicket.simple","チケット","티켓"
+"fes.fesGradeEvaluationReward.gradeRewardTitle","・グレード報酬","· 그레이드 보상"
+"fes.fesGradeEvaluationReward.rankingBonusTitle","・順位ボーナス","· 순위 보너스"
+"fes.fesGradeEvaluationReward.coinNum","%{num}枚","%{num}매"
+"shop.headerTitles.piece","ピース","피스"
+"shop.smallTabTitles.idolPiece.idolEvolutionPiece","アイドルピース","아이돌 피스"

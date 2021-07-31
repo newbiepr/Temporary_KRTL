@@ -90,6 +90,7 @@ Sランク,S 랭크,rank
 W.I.N.G.編,W.I.N.G. 편,note
 ファン感謝祭編,팬 감사제 편,note
 G.R.A.D.編,G.R.A.D. 편,note
+LandingPoint編,LandingPoint 편,note
 高難易度,고난이도,note
 期間限定,기간 한정,note
 白いツバサ,하얀날개,note
@@ -639,3 +640,5 @@ NEWBE@T,NEWBE@T,audition
 G.R.A.D.を$num回優勝しよう,G.R.A.D.를 $1회 우승하자
 G.R.A.D.を$num回クリアしよう,G.R.A.D.를 $1회  클리어 하자
 ファン感謝祭を$num回クリアしよう,팬 감사제를 $1회  클리어 하자
+LandingPointを$num回クリアしよう,LandingPoint를 $1회  클리어 하자
+LandingPointのライブを$num回大成功させよう,LandingPoint의 라이브를 $1회 대성공하자
