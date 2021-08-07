@@ -55,7 +55,6 @@ $noun＆$noun$num倍アピール,$1＆$2 $3배 어필,
 $noun＆$noun$percentUP,$1＆$2 $3UP,
 [$numターン],[$1턴],
 [条件:$noun$percent以上$numターン以降],"[조건 : $1 $2이상 $3턴 이후]"
-[条件:$nounポジション担当に編成している場合],"[조건 : $1 포지션 담당으로 편성된 경우]"
 [条件:$numターン以降$numターン以前],"[조건 : $1턴 이후 $2턴 이전]"
 [条件:$noun$num以上$num以下],"[조건 : $1 $2 이상 $3 이하]"
 [条件:$unit全員がライブに参加している場合],"[조건 : $1 전원이 라이브에 참가하고 있는 경우]"
@@ -133,6 +132,7 @@ Vo,Vo,noun
 Vi,Vi,noun
 Me,Me,noun
 Center,Center,noun
+Leader,Leader,noun
 メンタル,멘탈,noun
 メンタルダメージ,멘탈 데미지,noun
 リアクション,리액션,noun
