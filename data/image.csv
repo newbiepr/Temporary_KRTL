@@ -207,7 +207,7 @@ images/tutorial/025.jpg,tutorial_025.png,7
 images/ui/concert/parts.json_image,concert_parts.png,16
 images/ui/common/parts_idol_icon.json_image,common_parts_idol_icon.png,12
 images/content/my_page/banner_border/package.png,banner_border_package.png,2
-images/ui/common/parts_beginner_and_true_end_teaching_button.json_image,common_parts_beginner_and_true_end_teaching_button.png,3
+images/ui/common/parts_beginner_and_true_end_teaching_button.json_image,common_parts_beginner_and_true_end_teaching_button.png,4
 images/ui/produce_top/parts_produce_item_content.json_image,produce_top_parts_produce_item_content.png,9
 images/ui/game_event/parts_list.json_image,game_event_parts_list.png,5
 images/ui/shop/parts_shop_content.json_image,shop_content.png,10
@@ -343,13 +343,9 @@ images/ui/box_gasha/parts.json_image,box_gasha_parts.png,9
 images/content/gasha/bg/03cec562099141cdc80de7fe920885cc_10052.jpg,bg10052.jpg,1
 images/tips/shop/002.jpg,shop_002.png,8
 images/tips/shop/003.jpg,shop_003.png,8
-images/tips/workActivity/003.jpg,workActivity_003.png,5
 images/tips/shop/008.jpg,shop_008.png,2
-images/tips/workActivity/001.jpg,workActivity_001.png,3
 images/tips/shop/004.jpg,shop_004.png,2
-images/tips/workActivity/002.jpg,workActivity_002.png,3
 images/tips/shop/006.jpg,shop_006.png,2
-images/tips/workActivity/004.jpg,workActivity_004.png,3
 images/tips/shop/001.jpg,shop_001.png,8
 images/tips/shop/007.jpg,shop_007.png,2
 images/tips/shop/005.jpg,shop_005.png,2
@@ -360,7 +356,7 @@ images/ui/common/parts_filter_category.json_image,parts_filter.png,1
 images/tips/beginner_mission/003.jpg,beginner_mission_003.png,1
 images/tips/beginner_mission/004.jpg,beginner_mission_004.png,1
 images/content/beginner_missions/produce_top_button/010.png,produce_top_button_010.png,1
-images/content/beginner_missions/button/002.png,button_002.png,1
+images/content/beginner_missions/button/002.png,button_002.png,2
 images/content/mypage_popup/beginner_mission_renewal/beginner_mission_noctchill0619_01.jpg,beginner_mission_noctchill0619_01.jpg,1
 images/content/beginner_missions/to_button/002.png,to_button_002.png,1
 images/content/game_event/reward_label/3_5_10_15_28_34_0.png,3_5_10_15_28_34_0.png,2
@@ -941,3 +937,13 @@ images/content/gasha/bg/8d51d33ec8f31eb5ab30ad8fec57529b_11042.jpg,11042.jpg,1
 images/content/support_idols/name/9a7f6e8c69e6c03d8135bd65198f205b_2040040070.png,2040040070.png,1
 images/content/idols/name/35270fd2adabc72551e3b84cf384a6e3_1040180040.png,1040180040.png,1
 images/content/support_idols/name/e6d058a2898e902576ee85bff5262dce_2040130060.png,2040130060.png,1
+images/content/idols/name/7a60c62309e64be0a09eb09da7052279_1040070060.png,1040070060.png,1
+images/content/support_idols/name/190d3973b19339c625744be5bef7448b_2040230020.png,2040230020.png,1
+images/content/support_idols/name/8b8a80792ff4462cb9a63c2059c96108_2030250010.png,2030250010.png,1
+images/content/beginner_missions/to_button/010.png,to_button_010.png,1
+images/tips/workActivity/001.jpg,workActivity_001.png,4
+images/tips/workActivity/002.jpg,workActivity_002.png,4
+images/tips/workActivity/003.jpg,workActivity_003.png,6
+images/tips/workActivity/004.jpg,workActivity_004.png,4
+images/tips/workActivity/005.jpg,workActivity_005.png,1
+images/tips/workActivity/006.jpg,workActivity_006.png,1
