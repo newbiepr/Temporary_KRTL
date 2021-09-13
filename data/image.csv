@@ -37,7 +37,7 @@ images/ui/produce_action/parts_wing.json_image,parts_wing.png,4
 images/ui/training/parts.json_image,training_parts.png,9
 images/ui/idol_list/parts_edit_mode.json_image,idol_list_edit.png,7
 images/ui/common/parts_filter.json_image,common_filter.png,4
-images/ui/fes/parts.json_image,fes_parts.png,29
+images/ui/fes/parts.json_image,fes_parts.png,30
 images/ui/idol_detail/parts.json_image,idol_detail_parts.png,14
 images/ui/start/parts.json_image,start_parts.png,10
 images/ui/idol_detail/parts_support.json_image,idol_detail_parts_support.png,9
@@ -986,3 +986,7 @@ images/content/support_idols/name/036e303365f4306cf7ac32c448b3d25b_2040050070.pn
 images/content/support_idols/name/5919446b356611adbd401ad184ed2ecd_2040220030.png,2040220030.png,1
 images/content/idols/name/548401a0c3696b9e515f4ff29fb04407_1040210030.png,1040210030.png,1
 images/content/support_idols/name/3befcc855060b01d97b6ebb6b9fb63a4_2040170050.png,2040170050.png,1
+images/content/gasha/bg/5d49dc37d7039046b786c8d4082cb918_11142.jpg,11142.jpg,1
+images/content/idols/name/e5b8b3e23d51047a4a498e5b4ddafa80_1030160050.png,1030160050.png,1
+images/content/idols/name/2d9aac7e6c93627f088264e4cf5d8c70_1040060060.png,1040060060.png,1
+images/content/support_idols/name/402ab143176697c6a46e1a776fb9452b_2040240010.png,2040240010.png,1
