@@ -1846,3 +1846,8 @@ skillBord.deletePassiveSkillConfirmation.warning,削除したパッシブスキ�
 "concertResult.continueReconfirmPopup.text","ライブ敗退となります\r\r本当によろしいですか？","라이브에서 탈락합니다\r\r정말 괜찮겠습니까?"
 "unitSelectGasha.confirmTitle","ピックアップユニット確認","픽업 유닛 확인"
 "unitSelectGasha.confirmText","ピックアップユニットを「%{unitName}」に確定しますか？","픽업 유닛을 「%{unitName}」로 확정하시겠습니까?"
+"errorDialog.purchasePendingTitle","購入エラー","구입 에러"
+"errorDialog.purchasePending","保留中のお支払いを完了させてください。","보류중인 지불을 완료해주세요"
+"errorDialog.produceLock.title","ご確認","확인"
+"errorDialog.produceLock.produceLockEntered","不正な挙動を検知したため\nプロデュースをロックしました\nロックは5分行われます","부정행위가 감지되었기 때문에\n프로듀스를 잠갔습니다\n잠금이 5분동안 이루어집니다"
+"errorDialog.produceLock.produceLocked","現在プロデュースはロックされています\n少し時間を置いてからお試しください","현재 프로듀스는 잠겨있습니다\n조금 뒤에 시도해주세요"
