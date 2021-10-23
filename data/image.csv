@@ -1,5 +1,5 @@
 name,url,version
-images/ui/common/parts_buttons.json_image,common.parts_buttons.png,51
+images/ui/common/parts_buttons.json_image,common.parts_buttons.png,52
 images/ui/start_and_common/parts.json_image,start_and_common.parts.png,10
 images/ui/my_page/parts.json_image,my_page.parts.png,33
 images/ui/present_box/parts.json_image,present_box_parts.png,8
@@ -37,7 +37,7 @@ images/ui/produce_action/parts_wing.json_image,parts_wing.png,4
 images/ui/training/parts.json_image,training_parts.png,9
 images/ui/idol_list/parts_edit_mode.json_image,idol_list_edit.png,7
 images/ui/common/parts_filter.json_image,common_filter.png,4
-images/ui/fes/parts.json_image,fes_parts.png,30
+images/ui/fes/parts.json_image,fes_parts.png,31
 images/ui/idol_detail/parts.json_image,idol_detail_parts.png,14
 images/ui/start/parts.json_image,start_parts.png,10
 images/ui/idol_detail/parts_support.json_image,idol_detail_parts_support.png,9
@@ -226,7 +226,7 @@ images/tips/gasha/002.jpg,gasha_002.png,7
 images/tips/gasha/003.jpg,gasha_003.png,7
 images/ui/produce_idol_rank/parts_idea_note_result.json_image,idea_note_result.png,2
 images/ui/notice/parts.json_image,notice_parts.png,12
-images/ui/common/parts.json_image,common_parts.png,33
+images/ui/common/parts.json_image,common_parts.png,34
 images/tips/beginner_mission/001.jpg,beginner_mission_001.jpg,2
 images/tips/beginner_mission/002.jpg,beginner_mission_002.jpg,2
 images/ui/beginner_mission/parts.json_image,beginner_mission_parts.png,7
@@ -271,7 +271,7 @@ images/ui/option/parts.json_image,option.png,20
 images/ui/profile/parts.json_image,profile.png,3
 images/ui/item/parts.json_image,item_parts.png,11
 images/ui/item/parts_seasonal_present.json_image,item_parts_seasonal_present.png,2
-images/content/limit_break_skills/icon.json_image,limit_break_skills_icon.png,9
+images/content/limit_break_skills/icon.json_image,limit_break_skills_icon.png,10
 images/ui/idol_detail/parts_trust.json_image,idol_detail_parts_trust.png,2
 images/content/gasha/title/41d73fe5eac2d5cdf186f03520b37ac9_2732.png,content/gasha/yusuke/41d73fe5eac2d5cdf186f03520b37ac9_2732.png,1
 images/content/gasha/bg/41d73fe5eac2d5cdf186f03520b37ac9_2732.jpg,content/gasha/yusuke/41d73fe5eac2d5cdf186f03520b37ac9_2732.jpg,1
@@ -993,3 +993,12 @@ images/content/support_idols/name/402ab143176697c6a46e1a776fb9452b_2040240010.pn
 images/content/gasha/bg/025279ec2fb364e08c85e0ff28c2859e_11192.jpg,11192.jpg,1
 images/content/support_idols/name/dfd5bb884588867a8e3f1983209834b7_2030180020.png,2030180020.png,1
 images/content/idols/name/c306915626ce4d9ed4d48966693f05f7_1040100060.png,1040100060.png,1
+images/ui/fes/fes_deck.json_image,fes_fes_deck.png,1
+images/ui/fes/fes_ready.json_image,fes_fes_ready.png,1
+images/ui/fes/fes_trends.json_image,fes_fes_trends.png,1
+images/content/support_idols/name/daf0e01e913b7e58dbe46d4c40a62c8b_2040240020.png,2040240020.png,1
+images/content/idols/name/0b80dda027e41c989c10ff6fc6082a90_1040230030.png,1040230030.png,1
+images/content/support_idols/name/d311405fa688eef3c51cf390cc4aa183_2040020070.png,2040020070.png,1
+images/content/idols/name/9a498bfda8c00ab4ecadfa23bd7a6b9c_1030170040.png,1030170040.png,1
+images/content/idols/name/60fee14d4e9834d1d699255a3080d170_1040040060.png,1040040060.png,1
+images/content/support_idols/name/87536cc6c00c619a77433c63e2045d6b_2040120080.png,2040120080.png,1
