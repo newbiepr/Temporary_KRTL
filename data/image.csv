@@ -1009,3 +1009,6 @@ images/ui/fes_tower_deck/parts_endurance.json_image,parts_endurance.png,1
 images/ui/fes_tower_top/parts_panel_select.json_image,parts_panel_select.png,1
 images/ui/fes_tower_top/parts.json_image,fes_tower_top_parts.png,1
 images/ui/fes_tower_common/parts.json_image,fes_tower_common_parts.png,1
+images/ui/fes_tower_top/parts_bonus.json_image,parts_bonus.png,1
+images/ui/fes_tower_top/parts_bonus_list_pop.json_image,parts_bonus_list_pop.png,1
+images/ui/fes_tower_top/parts_area_select.json_image,parts_area_select.png,1
