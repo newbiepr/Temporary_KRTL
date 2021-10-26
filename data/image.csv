@@ -204,7 +204,7 @@ images/tutorial/022.jpg,tutorial_022.png,8
 images/tutorial/023.jpg,tutorial_023.png,7
 images/tutorial/024.jpg,tutorial_024.png,7
 images/tutorial/025.jpg,tutorial_025.png,7
-images/ui/concert/parts.json_image,concert_parts.png,17
+images/ui/concert/parts.json_image,concert_parts.png,18
 images/ui/common/parts_idol_icon.json_image,common_parts_idol_icon.png,12
 images/content/my_page/banner_border/package.png,banner_border_package.png,2
 images/ui/common/parts_beginner_and_true_end_teaching_button.json_image,common_parts_beginner_and_true_end_teaching_button.png,4
@@ -267,7 +267,7 @@ images/ui/concert_result/parts_status.json_image,concert_result.png,7
 images/ui/init/parts.json_image,init.png,10
 images/ui/home_deck/parts_bg_change_layer.json_image,parts_bg_change_layer.png,2
 images/ui/comic/parts.json_image,comic_parts.png,8
-images/ui/option/parts.json_image,option.png,20
+images/ui/option/parts.json_image,option.png,21
 images/ui/profile/parts.json_image,profile.png,3
 images/ui/item/parts.json_image,item_parts.png,11
 images/ui/item/parts_seasonal_present.json_image,item_parts_seasonal_present.png,2
@@ -286,7 +286,7 @@ upload/special_banners/00000108/banner.png,upload/special_banners/00000108.png,1
 images/content/comics/web/icon/10193.jpg,comics/icon/10193.jpg,1
 images/ui/produce_ending/parts_true_lesson.json_image,true_lesson.png,2
 images/ui/character_birthday_page/parts.json_image,birthday_page.png,2
-images/ui/concert/parts_pause.json_image,concert_pause.png,9
+images/ui/concert/parts_pause.json_image,concert_pause.png,11
 images/ui/title_setting/parts.json_image,title_setting.png,9
 images/ui/gasha/parts_provide_rate.json_image,provide_rate.png,4
 images/ui/jewel_purchase/parts.json_image,jewel_purchase.png,3
@@ -1020,3 +1020,4 @@ images/ui/fes_result/parts_fes_match.json_image,parts_fes_match.png,11
 images/ui/fes_tower_item/parts.json_image,fes_tower_item.png,1
 images/ui/fes_tower_concert_result/parts.json_image,fes_tower_concert_result.png,1
 images/ui/fes_tower_advantage/parts.json_image,fes_tower_advantage.png,1
+images/ui/fes_tower_live_panel/parts.json_image,fes_tower_live_panel.png,1
