@@ -1953,3 +1953,5 @@ option.fesTowerContentTitle.presentPanelConfirmation,プレゼントパネル選
 option.fesTowerContentTitle.randomPanelConfirmation,イベントパネル選択時に\n確認画面を表示,이벤트 패널 선택 시에\n확인 화면을 표시
 option.fesTowerContentTitle.tensionPanelConfirmation,テンションパネル選択時に\n確認画面を表示,텐션 패널 선택 시에 확인 화면을\n표시
 option.fesTowerContentTitle.lowerEndurancePointAlert,アイドルの体力が低下している際に\n警告画面を表示,아이돌의 체력이 저하됐을 시에\n경고 화면을 표시
+"option.homeContent.title.idolPrank2021","アイドルからのイタズラ【イタズラケーキ】",아이돌로부터의 장난【장난 케이크】
+"option.homeContent.itemName.joke2021","2021ハロウィンのおかし",2021 할로윈 과자
