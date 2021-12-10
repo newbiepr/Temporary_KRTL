@@ -1,5 +1,5 @@
 name,url,version
-images/ui/common/parts_buttons.json_image,common.parts_buttons.png,52
+images/ui/common/parts_buttons.json_image,common.parts_buttons.png,53
 images/ui/start_and_common/parts.json_image,start_and_common.parts.png,11
 images/ui/my_page/parts.json_image,my_page.parts.png,34
 images/ui/present_box/parts.json_image,present_box_parts.png,9
@@ -37,7 +37,7 @@ images/ui/produce_action/parts_wing.json_image,parts_wing.png,5
 images/ui/training/parts.json_image,training_parts.png,10
 images/ui/idol_list/parts_edit_mode.json_image,idol_list_edit.png,8
 images/ui/common/parts_filter.json_image,common_filter.png,5
-images/ui/fes/parts.json_image,fes_parts.png,31
+images/ui/fes/parts.json_image,fes_parts.png,32
 images/ui/idol_detail/parts.json_image,idol_detail_parts.png,15
 images/ui/start/parts.json_image,start_parts.png,11
 images/ui/idol_detail/parts_support.json_image,idol_detail_parts_support.png,10
@@ -141,7 +141,7 @@ images/ui/work_activity_result/parts.json_image,work_activity_result.png,6
 images/content/my_page/banner_border/event_notice.png,event_notice.png,3
 images/content/gasha/bg/6ee7b2d1c1adcc09beb11fe9a8636dd7_1952.jpg,bg_1952.png,2
 images/content/gasha/title/6ee7b2d1c1adcc09beb11fe9a8636dd7_1952.png,title_1952.png,2
-images/ui/gasha/parts.json_image,gasha_parts.png,14
+images/ui/gasha/parts.json_image,gasha_parts.png,16
 images/ui/gasha/parts_narrow_gasha_button.json_image,narrow_gasha_button.png,5
 images/ui/work_activity_ready/parts.json_image,work_activity_ready.png,6
 ae/work_activity_start/images/text_final.png,text_final.png,4
