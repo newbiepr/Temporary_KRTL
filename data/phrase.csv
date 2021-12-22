@@ -557,7 +557,7 @@ jewelPurchase.purchasedDialog.possessionJewel,所持ジュエル,소지 쥬엘
 jewelPurchase.purchasedDialog.possessionBC,所持バナコイン,소지 바나코인
 staffItemPoint,シール,씰
 header.album,アルバム,앨범
-header.comic,４コマ漫画,4컷만화
+header.comic,４コマ漫画,4컷만화(0~300화번역완료)
 header.exSkill,Exスキル,Ex스킬
 header.training,トレーニング,트레이닝
 header.trainingIdolList,トレーニングアイドル選択,트레이닝 아이돌 선택
@@ -1961,3 +1961,17 @@ option.fesTowerContentTitle.lowerEndurancePointAlert,アイドルの体力が低
 "gasha.staffChanceGashaRewardListPopTitle","報酬一覧",보상 목록
 "gasha.staffChanceGashaAcquiredRewardPop.title","当選結果",당선 결과
 "header.musicListen","楽曲試聴",악곡 시청
+"errorDialog.limitedEvolutionItemExpired","使用期限付きはづきさんの期限が切れています\n特訓をやり直してください","사용 기한부 하즈키씨의 기한이 지났습니다\n특훈을 다시 해 주세요"
+"evolution.confirm.timeLimitedStaffNotice","使用期限付き特訓はづきさんを所持しています\r本当によろしいですか？","사용 기한부 특훈 하츠키씨를 소지하고 있습니다\r정말 괜찮으시겠습니까?"
+"mission.shinyPassAdBanner.purchaseCount","%{purchaseCount}回","%{purchaseCount}회"
+"shop.battlePassport.privilegeSelectPop.title","購入特典選択","구매 특전 선택"
+"shop.battlePassport.privilegeSelectPop.notice","購入特典は購入30日後までの使用期限付きです\r期限内に使用しなかった場合、アイテムは失われます","구매 특전은 구매 30일 후까지의 사용 기한부입니다\r기한 내 사용하지 않을시 아이템이 상실됩니다"
+"shop.battlePassport.privilegeSelectPop.description","シャイニーパス購入特典として\r受け取るアイテムをどちらか選択してください","샤이니패스 구매 혜택으로\r받으실 아이템을 선택해주세요"
+"shop.battlePassport.privilegeSelectPop.privileges.item1","使用期限付き\rSSR特訓はづきさん\r（プロデュース）","사용 기한부\rSSR특훈 하즈키씨\r(프로듀스)"
+"shop.battlePassport.privilegeSelectPop.privileges.item2","使用期限付き\rSSR特訓はづきさん\r（サポート）","사용 기한부\rSSR특훈 하즈키씨\r(서포트)"
+"shop.battlePassport.totalPurchasedTimes","%{times}回","%{times}회"
+"shop.battlePassport.stampCardNotice","%{rewardNum}個目以降の購入時の報酬については後日追加されます","%{rewardNum}번째 이후 구매 보상은 추후 추가됩니다"
+"shop.battlePassport.missionRewardPop.title","ミッション報酬","미션 보상"
+"shop.battlePassport.missionRewardPop.day","%{day}日目","%{day}일째"
+"shop.battlePassport.missionRewardPop.rewardJewelName","無償フェザージュエル","무상 패더쥬엘"
+"training.expireDate","使用期限 %{expireDate}まで","사용기한 %{expireDate}까지"

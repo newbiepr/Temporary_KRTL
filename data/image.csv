@@ -1,9 +1,9 @@
 name,url,version
 images/ui/common/parts_buttons.json_image,common.parts_buttons.png,53
 images/ui/start_and_common/parts.json_image,start_and_common.parts.png,11
-images/ui/my_page/parts.json_image,my_page.parts.png,34
+images/ui/my_page/parts.json_image,my_page.parts.png,35
 images/ui/present_box/parts.json_image,present_box_parts.png,9
-images/ui/mission/parts.json_image,mission_parts.png,21
+images/ui/mission/parts.json_image,mission_parts.png,22
 images/ui/produce_event/parts_promise.json_image,promise_parts.png,8
 images/ui/produce_action/gradation/parts.json_image,gradation_parts.png,9
 images/content/my_page/banner_border/gasha.png,gasha.png,3
@@ -37,7 +37,7 @@ images/ui/produce_action/parts_wing.json_image,parts_wing.png,5
 images/ui/training/parts.json_image,training_parts.png,10
 images/ui/idol_list/parts_edit_mode.json_image,idol_list_edit.png,8
 images/ui/common/parts_filter.json_image,common_filter.png,5
-images/ui/fes/parts.json_image,fes_parts.png,32
+images/ui/fes/parts.json_image,fes_parts.png,33
 images/ui/idol_detail/parts.json_image,idol_detail_parts.png,15
 images/ui/start/parts.json_image,start_parts.png,11
 images/ui/idol_detail/parts_support.json_image,idol_detail_parts_support.png,10
@@ -1034,3 +1034,9 @@ images/content/idols/name/16e7c63bde53df22a5439d935610e8d8_1040250020.png,104025
 images/content/idols/name/9147b864bd2cafb454709eed7533986e_1030100040.png,1030100040.png,2
 images/content/gasha/bg/68adbc532311dd95c5d2839ac09b3fb0_11452.jpg,11452.jpg,2
 images/content/support_idols/name/cee14c4a971c52475c7958a57f39866c_2040160070.png,2040160070.png,2
+images/content/support_idols/name/6f7592db791e0ac18cda7822cc8dc509_2030060040.png,2030060040.png,1
+images/content/idols/name/ef46e9a53753b91b0b75231875b4a0fa_1040140070.png,1040140070.png,1
+images/content/support_idols/name/2281ec9c4f42fc4e0cf5368837ef611e_2040110060.png,2040110060.png,1
+images/content/idols/name/26fa26397363027d6a7d3a5522da60ff_1040050070.png,1040050070.png,1
+images/content/support_idols/name/15e9a4adf4cb7bb165e22413552646ee_2040240030.png,2040240030.png,1
+images/content/support_idols/name/fb1998b9e9d13b43e0ff174b02ba7df5_2040070070.png,2040070070.png,1
