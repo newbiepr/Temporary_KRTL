@@ -1870,7 +1870,7 @@ fesTower.resumeDialog.hasLife,ライブを終了する場合\rリタイア可能
 fesTower.skip.skipPopTitle,スキップ確認,스킵 확인
 fesTower.restartCheckPop.title,挑戦確認,도전 확인
 fesTower.restartCheckPop.maxChallengeText,1日%{maxCount}回まで挑戦できます,1일 %{maxCount}회까지 도전할 수 있습니다
-fesTower.restartCheckPop.moneyShortage,マニーが不足しています,매니가 부족합니다
+fesTower.restartCheckPop.moneyShortage,マニーが不足しています,머니가 부족합니다
 fesTower.restartCheckPop.needMoneyRestartText,%{count}回目以降の挑戦にはマニーを消費します,%{count}회째 이후 도전부터는 매니를 소모합니다
 fesTower.retirePop.title,諦める,포기
 fesTower.retirePop.text,現在進行中のツアーを諦めますか？,현재 진행 중인 투어를 포기하시겠습니까?
