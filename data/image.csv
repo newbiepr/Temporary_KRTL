@@ -37,7 +37,7 @@ images/ui/produce_action/parts_wing.json_image,parts_wing.png,5
 images/ui/training/parts.json_image,training_parts.png,10
 images/ui/idol_list/parts_edit_mode.json_image,idol_list_edit.png,8
 images/ui/common/parts_filter.json_image,common_filter.png,5
-images/ui/fes/parts.json_image,fes_parts.png,33
+images/ui/fes/parts.json_image,fes_parts.png,34
 images/ui/idol_detail/parts.json_image,idol_detail_parts.png,15
 images/ui/start/parts.json_image,start_parts.png,11
 images/ui/idol_detail/parts_support.json_image,idol_detail_parts_support.png,10
@@ -992,7 +992,7 @@ images/content/support_idols/name/402ab143176697c6a46e1a776fb9452b_2040240010.pn
 images/content/gasha/bg/025279ec2fb364e08c85e0ff28c2859e_11192.jpg,11192.jpg,2
 images/content/support_idols/name/dfd5bb884588867a8e3f1983209834b7_2030180020.png,2030180020.png,2
 images/content/idols/name/c306915626ce4d9ed4d48966693f05f7_1040100060.png,1040100060.png,2
-images/ui/fes/fes_deck.json_image,fes_fes_deck.png,2
+images/ui/fes/fes_deck.json_image,fes_fes_deck.png,3
 images/ui/fes/fes_ready.json_image,fes_fes_ready.png,2
 images/ui/fes/fes_trends.json_image,fes_fes_trends.png,2
 images/content/support_idols/name/daf0e01e913b7e58dbe46d4c40a62c8b_2040240020.png,2040240020.png,2
