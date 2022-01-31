@@ -1975,3 +1975,5 @@ option.fesTowerContentTitle.lowerEndurancePointAlert,アイドルの体力が低
 "shop.battlePassport.missionRewardPop.day","%{day}日目","%{day}일째"
 "shop.battlePassport.missionRewardPop.rewardJewelName","無償フェザージュエル","무상 패더쥬엘"
 "training.expireDate","使用期限 %{expireDate}まで","사용기한 %{expireDate}까지"
+"gasha.popTicketDesc.consumption","消費してガシャを引きます","소비해서 가챠를 합니다"
+"gasha.staffChanceGashaAcquiredRewardPop.listDescription","以下の報酬が当選しました","다음 보상이 당선되었습니다"

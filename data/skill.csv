@@ -1,4 +1,5 @@
 text,trans,type
+[条件:履歴に$unit全員がある場合],[조건 : 이력에 $1 전원이 있는 경우]
 発動時に$noun$percentUP,발동시에 $1 $2 UP,
 自身のメンタルを$percent減らし、$noun最大$percentUP,"자신의 멘탈을 $1 줄이고, $2 최대 $3 UP",
 [減少値が多いほど効果UP],[감소치가 많을수록 효과 UP],
@@ -351,3 +352,4 @@ PERFECT\nなら効果UP,PERFECT면\n효과 UP,text
 デュエット,듀엣,text
 満足度の増加量が$num倍にUPする効果,만족도 증가량이 $1배로 UP되는 효과
 満足度の増加量が$num倍にDOWNする効果,만족도 증가량이 $1배로 DOWN하는 효과
+$numターンの間ダメージ時$noun$percentUP,$1턴 동안 데미지 시 $2 $3 UP
