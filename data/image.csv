@@ -910,7 +910,7 @@ images/ui/fes/tension_check_title.png,tension_check_title.png,8
 images/ui/fes/tension_check_title_mask.png,tension_check_title_mask.png,8
 images/ui/fes_match_ranking/parts.json_image,fes_match_ranking.png,7
 images/ui/fes_result/parts.json_image,fes_result_parts.png,14
-images/ui/fes_result/parts_fes_match.json_image,parts_fes_match.png,12
+images/ui/fes_result/parts_fes_match.json_image,parts_fes_match.png,13
 images/ui/fes_result/parts_new_record.json_image,fes_new_record.png,8
 images/ui/fes_tower_advantage/parts.json_image,fes_tower_advantage.png,2
 images/ui/fes_tower_common/parts.json_image,fes_tower_common_parts.png,2
@@ -1048,3 +1048,12 @@ particles/training/images_super_success.json_image,ui_training_ultra.png,3
 particles/unlock_area/images.json_image,unlock_area.png,4
 upload/special_banners/00000108/banner.png,upload/special_banners/00000108.png,1588215841
 images/bg/001.jpg,bg_001.jpg,7
+images/content/support_idols/name/70e3027f52c5b3dd485ea7e0cd87eda1_2030150040.png,2030150040.png,1
+images/content/idols/name/4f4b2834bc29f3e55f7f65e4cbfd2636_1040170050.png,1040170050.png,1
+images/content/support_idols/name/cf741b1b85e37cfb1cf5610e7534e82d_2040080060.png,2040080060.png,1
+images/content/idols/name/57fb6a95a8c09b025943e1bf0e5e5c70_1030090050.png,1030090050.png,1
+images/content/idols/name/6c1b876bbb3c4b1347f8ffb062cc01c8_1040010070.png,1040010070.png,1
+images/content/idols/name/f33cfd082411e9f909b8f91e7f455b21_1030210020.png,1030210020.png,1
+images/content/support_idols/name/18d8403ed1a388660e9155bdcc8f6965_2040020080.png,2040020080.png,1
+images/content/idols/name/90e9b762deb96f2c39a31d3d9fbcc543_1040030070.png,1040030070.png,1
+images/content/support_idols/name/7d81939a084cbebb8f50795ed0d65b36_2040200040.png,2040200040.png,1
