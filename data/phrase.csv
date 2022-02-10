@@ -587,7 +587,7 @@ header.homeDeckMemberSelect,ホームユニットメンバー編成,홈 유닛 �
 header.idolPortal,アイドル,아이돌
 header.idolList,アイドル一覧,아이돌 일람
 header.musicSelect,楽曲選択,악곡 선택
-header.notice,お知らせ,소식
+header.notice,お知らせ,공지사항
 header.fesMatchRanking,ランキング,랭킹
 header.fesDeckView,ユニット確認,유닛 확인
 header.memorialShop,メモリアルピースショップ,메모리얼 피스 샵
@@ -1241,7 +1241,7 @@ extraCampaign.application.applicationAgreementDialog.body.items.4.descriptions.1
 extraCampaign.application.applicationAgreementDialog.body.items.4.descriptions.10,■応募口数について,■응모 건수에 대해
 extraCampaign.application.applicationAgreementDialog.body.items.4.descriptions.11,・本応募企画において応募可能な応募口数は、本ゲーム内にて2019年7月31日(水)15:00～2019年8月31日(土)14：59まで開催される本イベント特設ページでの配布、および対象のアイテムパックに付属する応募券の累計獲得数に応じて変動いたします。,·본응모 기획에 대해 응모 가능한 응모 건수는. 본게임내에서 2019년 7월 31일(수) 15:00~2019년 8월 31일(토) 14:59까지 개최되는 본이벤트 특설 페이지에서 배포 및 대상의 아이템 팩에 부속되는 응모권의 누계 획득수에 응해 변동하겠습니다.
 extraCampaign.application.applicationAgreementDialog.body.items.4.descriptions.12,・応募券1枚につきA賞もしくはB賞に1口ご応募いただけます。,·응모권 1매에 대해 A상 혹은 B상에 1건 응모하실 수 있습니다.
-extraCampaign.application.applicationAgreementDialog.body.items.4.descriptions.13,・応募券の獲得方法等、詳細事項は本ゲーム内におけるお知らせをご確認ください。,응모권의 획득 방법등. 상세 사항은 본게임내에 있어서의 소식을 확인해 주세요.
+extraCampaign.application.applicationAgreementDialog.body.items.4.descriptions.13,・応募券の獲得方法等、詳細事項は本ゲーム内におけるお知らせをご確認ください。,응모권의 획득 방법등. 상세 사항은 본게임내에 있어서의 공지를 확인해 주세요.
 extraCampaign.application.applicationAgreementDialog.body.items.4.descriptions.14,・応募券の獲得数および応募口数は、本ゲーム内マイページより遷移いただける本イベント特設ページよりご確認いただけます。,·응모권의 획득수 및 응모 건수는. 본게임내 마이 페이지의 본이벤트 특설 페이지에서 확인하실 수 있습니다.
 extraCampaign.application.applicationAgreementDialog.body.items.4.descriptions.2,本応募企画は以下に掲げる要件を満たすお客様のみ応募可能です。,본응모 기획은 이하로 내거는 요건을 채우는 손님만 응모 가능합니다.
 extraCampaign.application.applicationAgreementDialog.body.items.4.descriptions.3,・本応募企画終了時点で日本国内に在住されていること。,·본응모 기획 종료시점에 일본내에 거주할 것.
@@ -1270,7 +1270,7 @@ extraCampaign.application.applicationAgreementDialog.body.items.5.descriptions.2
 extraCampaign.application.applicationAgreementDialog.body.items.5.descriptions.3,・本応募企画は日本国内に在住されているお客様を対象としています。,·본응모 기획은 일본내에 거주되고 있는 손님을 대상으로 하고 있습니다.
 extraCampaign.application.applicationAgreementDialog.body.items.5.descriptions.4,・本応募企画のご当選者様発表は、抽選終了後、本イベント特設ページにて当選通知をお送りする形式で代えさせていただきます。,"·본응모 기획의 당선자님 발표는, 추첨 종료후, 본이벤트 특설 페이지에서 당선 통지를 보내 드리는 형식으로 대신하도록 해 받습니다."
 extraCampaign.application.applicationAgreementDialog.body.items.5.descriptions.5,・当選通知は2019年9月上旬を予定しておりますが、都合により多少遅れる可能性がございます。予めご了承ください。,"·당선 통지는 2019년 9월 초순을 예정하고 있습니다만, 형편에 의해 다소 늦을 가능성이 있습니다. 미리 양해해 주십시오."
-extraCampaign.application.applicationAgreementDialog.body.items.5.descriptions.6,・本イベントの詳細事項につきましては、ゲーム内での当選通知後、お客様情報入力時に必要となる「バンダイナムコID」及び「Side-876 倶楽部」への会員登録の際にご登録いただいたメールアドレス宛に、メールにてお知らせさせていただきます。,"·본이벤트의 상세 사항에 대해서는, 게임내에서의 당선 통지 후, 손님 정보 입력시에 필요한 「반다이 남코 ID」및 「Side-876 클럽」에 회원 등록 시에 등록해 주신 메일 주소로, 메일에서 소식받도록 합니다."
+extraCampaign.application.applicationAgreementDialog.body.items.5.descriptions.6,・本イベントの詳細事項につきましては、ゲーム内での当選通知後、お客様情報入力時に必要となる「バンダイナムコID」及び「Side-876 倶楽部」への会員登録の際にご登録いただいたメールアドレス宛に、メールにてお知らせさせていただきます。,"·본이벤트의 상세 사항에 대해서는, 게임내에서의 당선 통지 후, 손님 정보 입력시에 필요한 「반다이 남코 ID」및 「Side-876 클럽」에 회원 등록 시에 등록해 주신 메일 주소로, 메일에서 공지받도록 합니다."
 extraCampaign.application.applicationAgreementDialog.body.items.5.descriptions.7,・複数の本ゲームアカウントを利用して本応募企画に応募した場合、お客様は当選資格を失います。,"·복수의 본게임 계정을 이용해 본응모 기획에 응모했을 경우, 손님은 당선 자격을 잃습니다."
 extraCampaign.application.applicationAgreementDialog.body.items.5.descriptions.8,・ご登録内容に不備がある場合は、本応募企画へのご応募は無効となりますのでご注意ください。,"· 등록 내용에 미비가 있는 경우, 본응모 기획에의 응모는 무효가 되기 때문에 주의해 주세요."
 extraCampaign.application.applicationAgreementDialog.body.items.5.descriptions.9,・当選通知が届いた場合でも、本イベントへのご入場時、本応募規約への違反等の事由により、応募資格を満たさないことが確認された場合、入場をお断りさせていただく場合がございます。,"·당선 통지가 도착했을 경우에서도, 본이벤트에 입장시, 본응모 규약의 위반등의 사유에 의해, 응모 자격을 채우지 않는 것이 확인되었을 경우, 입장을 거절하는 경우가 있습니다."
@@ -1682,10 +1682,10 @@ beginnerMission.completeRewardPop.title,%{title}コンプリート,%{title} 완�
 beginnerMission.completeRewardPop.description,%{title}をすべて達成した報酬として\n以下の報酬を獲得しました,%{title}를 모두 달성한 보상으로\n이하의 보상을 획득했습니다
 common.reserveNum,控室%{reserveNum},대기실%{reserveNum}
 trueEndTeaching.openPopup.title,W.I.N.G.攻略ミッションコンプリート,W.I.N.G. 공략 미션 완료
-trueEndTeaching.openPopup.description,True End研修はホーム画面からスタートすることができます,True End 연수는 홈 화면에서 스타트 할 수 있습니다
+"trueEndTeaching.openPopup.description","True End研修はPデスク画面からスタートすることができます",True End 연수는 P데스크 화면에서 시작할 수 있습니다
 trueEndTeaching.openPopup.tipsText,おめでとうございます♪すべてのW.I.N.G.攻略ミッションを\nクリアしましたよ〜\n次はTrue End研修達成に挑戦してみましょう,축하합니다♪모든 W.I.N.G. 공략 미션을\n클리어 했어요~\n다음은 True End 연수 달성에 도전해 봅시다
 trueEndTeaching.openPopup.teachingText,True End研修へ,True End 연수에
-monthlyPassport.expireAlertPop.title,283パス有効期限のお知らせ,283패스 유효기간 알림
+monthlyPassport.expireAlertPop.title,283パス有効期限のお知らせ,283패스 유효기간 공지
 monthlyPassport.expireAlertPop.runningDays,%{runningDays}日,%{runningDays}일
 monthlyPassport.expireAlertPop.remainDays,あと%{remainDays}日,앞으로 %{remainDays}일
 monthlyPassport.expireAlertPop.remainHours,あと%{remainHours}時間,앞으로 %{remainHours}시간
@@ -1744,7 +1744,7 @@ workActivityTalkAndCommu.talkCompleteRewardPopContent.rewardName,コンプ数\n%
 workActivityTalkAndCommu.talkCompleteRewardPopContent.title,コンプ報酬,완료 보상
 workActivityTalkAndCommu.unitLevelRewardPopContent.rewardName,ユニット\nLv.%{num},유닛\nLv.%{num}
 workActivityTalkAndCommu.unitLevelRewardPopContent.title,レベル報酬,레벨 보상
-announce.noticeLabel.personal,個別のお知らせ,개별 소식
+announce.noticeLabel.personal,個別のお知らせ,개별 공지
 characterSpecialCommunication.confirmationTitle,スペシャルコミュ再生確認,스페셜커뮤 재생 확인
 characterSpecialCommunication.releaseConfirmationComment,%{idolName} のスペシャルコミュ\n\nを解放して再生しますか？,%{idolName}의 스페셜커뮤\n\n를 해방하여 재생합니까?
 characterSpecialCommunication.dayLimitTitle,エラー,에러
@@ -1756,7 +1756,7 @@ item.characterTrustLevelUp.notification,%{characterName} の信頼度がアッ�
 shop.purchaseConfirmation.notice.trustPointUpMerchandise,既に信頼度がMAXのアイドルに使用した場合\nスペシャルコミュ＋の解放のみとなります,이미 신뢰도가 MAX인 아이돌에게 사용할 경우\n스페셜커뮤＋만 해방합니다
 specialCommunicationSituation.confirmationTitle,スペシャルコミュ再生確認,스페셜커뮤 재생 확인
 specialCommunicationSituation.confirmationComment,%{title} が解放されました\n再生しますか？\n\n閉じるを選んだ場合でも、\nイベントページのアーカイブ内から\n再生することができます,"%{title}이 해방되었습니다\n재생하시겠습니까?\n\n닫기를 선택한 경우에도,\n이벤트 페이지의 아카이브 안에서\n재생할 수 있습니다"
-announce.personal,お知らせ,공지
+announce.personal,お知らせ,공지사항
 specialPresent.title,配布のお知らせ,배포 공지
 filter.categories.proficiency,熟練度,숙련도
 filter.cautions.proficiency,Landing Point編の専用パラメータです,Landing Point편의 전용 파라미터입니다
@@ -1977,3 +1977,19 @@ option.fesTowerContentTitle.lowerEndurancePointAlert,アイドルの体力が低
 "training.expireDate","使用期限 %{expireDate}まで","사용기한 %{expireDate}까지"
 "gasha.popTicketDesc.consumption","消費してガシャを引きます","소비해서 가챠를 합니다"
 "gasha.staffChanceGashaAcquiredRewardPop.listDescription","以下の報酬が当選しました","다음 보상이 당선되었습니다"
+"announce.information","お知らせ",공지사항
+"common.producerSkill","プロデューサースキル",프로듀서 스킬
+"header.producerDeskTop","Pデスク",P데스크
+"header.producerLevel","プロデューサーレベル",프로듀서 레벨
+"header.producerDeskShop","Pレベルショップ",P 레벨 샵
+"shop.producerDesk.unlockText","レベル%{level}で解放","레벨 %{level}에서 해방"
+"producerDesk.producerLevel.statusPopupTitle","ステータスアップ一覧",스테이터스 업 목록
+"producerDesk.producerLevelUp.rewardText","報酬が%{rewardNum}個受け取れます","보상을 %{rewardNum}개 받을 수 있습니다"
+"producerDesk.releaseCondition.title","解放条件",해방 조건
+"producerDesk.releaseCondition.wingMission","初心者ミッションをクリアする必要があります",초심자 미션을 통과해야 합니다
+"producerDesk.releaseCondition.trueEndMission","W.I.N.G.攻略ミッションをクリアする必要があります",W.I.N.G. 공략 미션을 클리어 해야 합니다
+"producerDesk.releaseCondition.fanMeeting","ファン感謝祭を解放する為には「W.I.N.G.編」で\nシーズン2をクリアし、フェスアイドルを\n誕生させる必要があります","팬 감사제 해방을 위해서는 「W.I.N.G.편」에서\n시즌2를 클리어하고 페스 아이돌을\n탄생시켜야 합니다"
+"producerDesk.releaseCondition.grad","G.R.A.D.を解放する為には「ファン感謝祭編」で\nフェスアイドルを誕生させる必要があります","G.R.A.D.를 해방시키기 위해서는 「팬 감사제편」에서\n페스 아이돌을 탄생시켜야 합니다"
+"producerDesk.releaseCondition.landingPoint","Landing Pointを解放する為には「G.R.A.D.編」で\nフェスアイドルを誕生させる必要があります","Landing Point를 해방시키기 위해서는 「G.R.A.D.편」에서\n페스 아이돌을 탄생시킬 필요가 있습니다"
+"producerDesk.releaseCondition.fesTours","Fes Toursは、ただいま開催期間外です","Fes Tours는 지금 개최기간이 아닙니다"
+"producerDesk.releaseCondition.gradeFes","フェスリハーサルEasyを3位以上でクリアする\n必要があります","페스 리허설 Easy를 3위 이상으로 클리어해야 합니다"
