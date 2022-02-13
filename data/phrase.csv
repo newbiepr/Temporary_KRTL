@@ -82,9 +82,9 @@ trueEndTeaching.skillGetRecommendTipsTitle,振り返りでスキルを習得し�
 trueEndTeaching.allObjectiveClearedText,目標全てクリア,목표 모두 클리어
 trueEndTeaching.auditionTipsTitle,おすすめオーディション,추천 오디션
 trueEndTeaching.auditionTipsHadukiHintText,流行にも注目です〜♪　今週がチャンスですよ〜,유행에도 주목하세요~♪ 이번 주가 찬스예요~
-trueEndTeaching.openDialogTitle,初心者ミッションクリア,초심자 미션 클리어
+trueEndTeaching.openDialogTitle,初心者ミッションクリア,초보자 미션 클리어
 trueEndTeaching.openDialogDescription,True End研修はホーム画面からスタートすることができます,True End 연수는 홈 화면에서 스타트 할 수 있습니다
-trueEndTeaching.tipsText,おめでとうございます♪　すべての初心者ミッションをクリア\nしましたよ～　次はアイドルのTrue Endミッション達成を\n目標にしてみましょう,축하합니다♪ 모든 초심자 미션을 클리어\n했어요~ 다음은 아이돌의 True End 미션 달성을\n목표로 해 봅시다
+trueEndTeaching.tipsText,おめでとうございます♪　すべての初心者ミッションをクリア\nしましたよ～　次はアイドルのTrue Endミッション達成を\n目標にしてみましょう,축하합니다♪ 모든 초보자 미션을 클리어\n했어요~ 다음은 아이돌의 True End 미션 달성을\n목표로 해 봅시다
 trueEndTeachingTipsText.areaSelect.clearedTrueEnd,プロデューサーさん、お疲れ様です♪\n初心にかえって研修を受けてみませんか？,"프로듀서님, 수고하셨습니다♪\n초심으로 돌아가서 연수를 받아보실래요?"
 trueEndTeachingTipsText.areaSelect.notClearedTrueEnd,プロデューサーさん、お疲れ様です♪\nお仕事には慣れてきましたか？\n難関ミッションの達成にはコツが必要なんですよ～,"프로듀서님, 수고하셨습니다♪\n일은 익숙해 지셨나요?\n난관 미션의 달성에는 요령이 필요하거든요~"
 trueEndTeachingTipsText.produceIdolSelect.text1,まずはプロデュースするアイドルを選択してください♪,우선은 프로듀스할 아이돌을 선택해 주세요♪
@@ -124,7 +124,7 @@ availableInform.description,アイテムの有効期限が                 と�
 availableInform.remainTime,あと%{remainTime},앞으로 %{remainTime}
 achievementRewardDialog.message,以下のアイテムがプレゼントBOXに送られました,이하의 아이템이 선물 BOX에 보내졌습니다
 achievementRewardDialog.rewardNameNum,%{name} x %{num},
-beginnerMission.headerTitle,初心者ミッション,초심자 미션
+beginnerMission.headerTitle,初心者ミッション,초보자 미션
 beginnerMission.receivePopTitle,%{title}達成,%{title} 달성
 downLoad.confirmComment,ゲームデータを一括でダウンロードし、端末に保存します\r\rゲーム中の読み込み時間が減るため、より快適にプレイすることができます\r最大約 %{gb} GB のデバイスの空き容量が必要となります,게임 데이터를 일괄로 다운로드해、단말에 저장합니다\r\r게임중의 read 시간이 줄어들기 때문에、보다 쾌적하게 플레이 할 수가 있습니다\r최대 약%{gb} GB의 디바이스의 빈 용량이 필요합니다
 downLoad.persistMessageMobile,データダウンロードを開始するためには\\rアイドルマスターシャイニーカラーズのURL(shinycolors.enza.fun)を\\rホーム画面に追加、またはブックマークする必要があります,데이터 다운로드를 개시하기 위해서는\\r아이돌마스터 샤이니컬러즈의 URL(shinycolors.enza.fun)을\\r홈 화면에 추가、또는 북마크할 필요가 있습니다
@@ -1436,7 +1436,7 @@ beginnerMission.groupLabel.label.4,3人目のサポートアイドルを育て�
 beginnerMission.groupLabel.label.5,4人目のサポートアイドルを育てよう,네번째 서포트 아이돌을 키우자 
 beginnerMission.groupLabel.label.6,5人目のサポートアイドルを育てよう,다섯번째 서포트 아이돌을 키우자 
 beginnerMission.groupLabel.label.7,より強力な編成でプロデュースに挑戦しよう,보다 강력한 편성으로 프로듀스에 도전하자
-beginnerMission.idolSelectNavigateText,まずは一緒に初心者ミッションを受けるアイドルを\n選んであげてくださいね〜\nおすすめのサポートアイドルをピックアップしますよ♪,우선 함께 초심자 미션 받을 아이돌을\n선택 해주세요~\n추천하는 서포트 아이돌을 픽업해드릴게요♪
+beginnerMission.idolSelectNavigateText,まずは一緒に初心者ミッションを受けるアイドルを\n選んであげてくださいね〜\nおすすめのサポートアイドルをピックアップしますよ♪,우선 함께 초보자 미션 받을 아이돌을\n선택 해주세요~\n추천하는 서포트 아이돌을 픽업해드릴게요♪
 beginnerMission.availableSupportIdolsDetailPop.title,プロデュースアイドル確認,프로듀스 아이돌 확인 
 beginnerMission.availableSupportIdolsDetailPop.tips,%{idolName}さんのサポートに適した,%{idolName}씨의 서포트에 적합한
 beginnerMission.availableSupportIdolsDetailPop.attribute,%{attribute}タイプ,%{attribute} 타입
@@ -1986,7 +1986,7 @@ option.fesTowerContentTitle.lowerEndurancePointAlert,アイドルの体力が低
 "producerDesk.producerLevel.statusPopupTitle","ステータスアップ一覧",스테이터스 업 목록
 "producerDesk.producerLevelUp.rewardText","報酬が%{rewardNum}個受け取れます","보상을 %{rewardNum}개 받을 수 있습니다"
 "producerDesk.releaseCondition.title","解放条件",해방 조건
-"producerDesk.releaseCondition.wingMission","初心者ミッションをクリアする必要があります",초심자 미션을 통과해야 합니다
+"producerDesk.releaseCondition.wingMission","初心者ミッションをクリアする必要があります",초보자 미션을 통과해야 합니다
 "producerDesk.releaseCondition.trueEndMission","W.I.N.G.攻略ミッションをクリアする必要があります",W.I.N.G. 공략 미션을 클리어 해야 합니다
 "producerDesk.releaseCondition.fanMeeting","ファン感謝祭を解放する為には「W.I.N.G.編」で\nシーズン2をクリアし、フェスアイドルを\n誕生させる必要があります","팬 감사제 해방을 위해서는 「W.I.N.G.편」에서\n시즌2를 클리어하고 페스 아이돌을\n탄생시켜야 합니다"
 "producerDesk.releaseCondition.grad","G.R.A.D.を解放する為には「ファン感謝祭編」で\nフェスアイドルを誕生させる必要があります","G.R.A.D.를 해방시키기 위해서는 「팬 감사제편」에서\n페스 아이돌을 탄생시켜야 합니다"
