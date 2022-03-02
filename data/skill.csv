@@ -352,6 +352,8 @@ PERFECT\nなら効果UP,PERFECT면\n효과 UP,text
 必ず最初に\nアピール,반드시 처음에\n어필,text
 必ず最後に\nアピール,반드시 마지막에\n어필,text
 デュエット,듀엣,text
+影響力\nUP,영향력\nUP,text
+ダメージ時ステー\nタス効果付与,데미지시 스테이\n터스 효과부여,text
 満足度の増加量が$num倍にUPする効果,만족도 증가량이 $1배로 UP되는 효과
 満足度の増加量が$num倍にDOWNする効果,만족도 증가량이 $1배로 DOWN하는 효과
 $numターンの間ダメージ時$noun$percentUP,$1턴 동안 데미지 시 $2 $3 UP
