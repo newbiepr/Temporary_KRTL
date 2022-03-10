@@ -893,7 +893,7 @@ images/ui/concert/parts_judge_detail.json_image,parts_judge_detail.png,2
 images/ui/concert/parts_music.json_image,concert_parts_music.png,2
 images/ui/concert/parts_pause.json_image,concert_pause.png,12
 images/ui/concert/parts_ranking.json_image,concert_parts_ranking.png,3
-images/ui/concert_result/parts.json_image,concert_result_parts.png,8
+images/ui/concert_result/parts.json_image,concert_result_parts.png,9
 images/ui/concert_result/parts_effect.json_image,concert_result_parts_effect.png,9
 images/ui/concert_result/parts_fan_meeting.json_image,produce_fan_meeting_concert_result.png,3
 images/ui/concert_result/parts_status.json_image,concert_result.png,8
