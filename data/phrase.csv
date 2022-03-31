@@ -1940,15 +1940,12 @@ fesTower.reset.headerTitle.item,アイテム,아이템
 fesTower.reset.headerTitle.advantage,アドバンテージ,어드밴티지
 fesTower.reset.headerTitle.itemTakeover,ライブアイテム引き継ぎ,라이브 아이템 인계
 fesTower.reset.acquirementPop.title,使用確認,사용 확인
-fesTower.reset.acquirementPop.unlockDescription,Fes Toursポイントを消費して\n以下の%{resetContentTypeText}を解放しますか？,Fes Tours 포인트를 소비하여\n이하의 %{resetContentTypeText}을(를) 해방하시겠습니까?
-fesTower.reset.acquirementPop.levelUpDescription,Fes Toursポイントを消費して\n以下の%{resetContentTypeText}をレベルアップしますか？,Fes Tours 포인트를 소비하여\n이하의 %{resetContentTypeText}을(를) 레벨업하시겠습니까?
 fesTower.reset.resetConfirmPopTitle,リスタート確認,재시작 확인
 fesTower.reset.takeoverConfirmPopTitle,アイテム引き継ぎ確認,아이템 인계 확인
 header.fesTowerDeck,フェスユニット編成,페스 유닛 편성
 header.fesTowerItem,アイテム一覧,아이템 일람
 header.fesTowerAdvantage,アドバンテージ一覧,어드밴티지 일람
 header.fesTowerLiveItemSelect,ライブアイテム選択,라이브 아이템 선택
-option.fesTowerContentTitle.recoverPanelConfirmation,回復パネル選択肢時に確認画面を表示,회복 패널 선택 시에 확인 화면을 표시
 option.fesTowerContentTitle.presentPanelConfirmation,プレゼントパネル選択時に\n確認画面を表示,프레젠트 패널 선택 시에\n확인 화면을 표시
 option.fesTowerContentTitle.randomPanelConfirmation,イベントパネル選択時に\n確認画面を表示,이벤트 패널 선택 시에\n확인 화면을 표시
 option.fesTowerContentTitle.tensionPanelConfirmation,テンションパネル選択時に\n確認画面を表示,텐션 패널 선택 시에 확인 화면을\n표시
@@ -1993,3 +1990,13 @@ option.fesTowerContentTitle.lowerEndurancePointAlert,アイドルの体力が低
 "producerDesk.releaseCondition.landingPoint","Landing Pointを解放する為には「G.R.A.D.編」で\nフェスアイドルを誕生させる必要があります","Landing Point를 해방시키기 위해서는 「G.R.A.D.편」에서\n페스 아이돌을 탄생시킬 필요가 있습니다"
 "producerDesk.releaseCondition.fesTours","Fes Toursは、ただいま開催期間外です","Fes Tours는 지금 개최기간이 아닙니다"
 "producerDesk.releaseCondition.gradeFes","フェスリハーサルEasyを3位以上でクリアする\n必要があります","페스 리허설 Easy를 3위 이상으로 클리어해야 합니다"
+"specialAnnounce.vote.confirmTitle","投票確認",투표 확인
+"specialAnnounce.vote.resultTitle","投票完了",투표 완료
+"gasha.stampComplete","済",끝
+"gasha.billedJewel","有償",유상
+"gasha.drawText","%{drawNum}回引く","%{drawNum}회 시행"
+"gasha.limitedPerDayText","1日1回",1일 1회
+"gasha.freeOnceADayBalloonText","1日1回無料",1일 1회 무료
+"fesTower.reset.acquirementPop.unlockDescription","Fes Toursポイントを消費して\n%{resetContentTypeText}の解放とレベルアップをしますか？","Fes Tours 포인트를 소비하고\n%{resetContentTypeText}의 해방과 레벨업을 하시겠습니까"
+"fesTower.reset.acquirementPop.levelUpDescription","Fes Toursポイントを消費して\n%{resetContentTypeText}をレベルアップしますか？","Fes Tours 포인트를 소비하고\n%{resetContentTypeText}를 레벨업하시겠습니까?"
+"option.fesTowerContentTitle.recoverPanelConfirmation","回復パネル選択時に確認画面を表示",회복패널 선택 시 확인화면 표시
