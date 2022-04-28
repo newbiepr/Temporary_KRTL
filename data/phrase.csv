@@ -248,7 +248,6 @@ concertResult.entryNumber,エントリーNo.%{number},엔트리 No.%{number}
 concertResult.statusUp.message,+%{upPoint},
 copyright.title,コピーライト,CopyRight
 copyright.holders.bne.title,権利表記,권리 표기
-copyright.holders.bne.message,© 2018 BANDAI NAMCO Entertainment Inc.,© 2018 BANDAI NAMCO Entertainment Inc.
 countdown.season,シーズン%{seasonNum}終了まで,제%{seasonNum}종료까지
 userDailyLottery.rewardPop.title,まいにちくじ抽選結果,매일 복권 추첨 결과
 userDailyLottery.rewardPop.text,以下のアイテムがプレゼントBOXに送られました,이하의 아이템이 선물 BOX에 보내졌습니다
@@ -911,7 +910,6 @@ shop.purchaseResult.twoLinesMessage,%{title}を\r購入しました,%{title}를\
 shop.purchasableText.noLimitText,なし,없음
 shop.exchangeResult.title,交換結果,교환 결과
 shop.exchangeResult.message,%{title}と交換しました,%{title}와 교환했습니다
-shop.exchangeResult.twoLinesMessage,%{title}と\r交換しました,%{title}와\r교환했습니다
 shop.currencyLabel.jewelType.billedJewel,有償,유상
 shop.currencyLabel.jewelType.freeJewel,無償,무상
 shop.expireDate,【交換期限】%{closeAt}まで,【교환기한】%{closeAt}까지
@@ -1679,7 +1677,7 @@ beginnerMission.completeRewardPop.title,%{title}コンプリート,%{title} 완�
 beginnerMission.completeRewardPop.description,%{title}をすべて達成した報酬として\n以下の報酬を獲得しました,%{title}를 모두 달성한 보상으로\n이하의 보상을 획득했습니다
 common.reserveNum,控室%{reserveNum},대기실%{reserveNum}
 trueEndTeaching.openPopup.title,W.I.N.G.攻略ミッションコンプリート,W.I.N.G. 공략 미션 완료
-"trueEndTeaching.openPopup.description","True End研修はPデスク画面からスタートすることができます",True End 연수는 P데스크 화면에서 시작할 수 있습니다
+trueEndTeaching.openPopup.description,True End研修はPデスク画面からスタートすることができます,True End 연수는 P데스크 화면에서 시작할 수 있습니다
 trueEndTeaching.openPopup.tipsText,おめでとうございます♪すべてのW.I.N.G.攻略ミッションを\nクリアしましたよ〜\n次はTrue End研修達成に挑戦してみましょう,축하합니다♪모든 W.I.N.G. 공략 미션을\n클리어 했어요~\n다음은 True End 연수 달성에 도전해 봅시다
 trueEndTeaching.openPopup.teachingText,True End研修へ,True End 연수에
 monthlyPassport.expireAlertPop.title,283パス有効期限のお知らせ,283패스 유효기간 공지
@@ -1947,68 +1945,139 @@ option.fesTowerContentTitle.presentPanelConfirmation,プレゼントパネル選
 option.fesTowerContentTitle.randomPanelConfirmation,イベントパネル選択時に\n確認画面を表示,이벤트 패널 선택 시에\n확인 화면을 표시
 option.fesTowerContentTitle.tensionPanelConfirmation,テンションパネル選択時に\n確認画面を表示,텐션 패널 선택 시에 확인 화면을\n표시
 option.fesTowerContentTitle.lowerEndurancePointAlert,アイドルの体力が低下している際に\n警告画面を表示,아이돌의 체력이 저하됐을 시에\n경고 화면을 표시
-"option.homeContent.title.idolPrank2021","アイドルからのイタズラ【イタズラケーキ】",아이돌로부터의 장난【장난 케이크】
-"option.homeContent.itemName.joke2021","2021ハロウィンのおかし",2021 할로윈 과자
-"fes.top.residualBorder","残留ライン",잔류 라인
-"fes.top.promotionBorder","昇格ライン",승격 라인
-"gasha.stamp.notice.repeatOneCard","スタンプカードが最後まで埋まった後は1枚目の内容を繰り返します","스탬프 카드가 끝까지 채워진 후에는 1장의 내용을 반복합니다"
-"gasha.staffChanceGashaRewardListPopTitle","報酬一覧",보상 목록
-"gasha.staffChanceGashaAcquiredRewardPop.title","当選結果",당선 결과
-"header.musicListen","楽曲試聴",악곡 시청
-"errorDialog.limitedEvolutionItemExpired","使用期限付きはづきさんの期限が切れています\n特訓をやり直してください","사용 기한부 하즈키씨의 기한이 지났습니다\n특훈을 다시 해 주세요"
-"evolution.confirm.timeLimitedStaffNotice","使用期限付き特訓はづきさんを所持しています\r本当によろしいですか？","사용 기한부 특훈 하츠키씨를 소지하고 있습니다\r정말 괜찮으시겠습니까?"
-"mission.shinyPassAdBanner.purchaseCount","%{purchaseCount}回","%{purchaseCount}회"
-"shop.battlePassport.privilegeSelectPop.title","購入特典選択","구매 특전 선택"
-"shop.battlePassport.privilegeSelectPop.notice","購入特典は購入30日後までの使用期限付きです\r期限内に使用しなかった場合、アイテムは失われます","구매 특전은 구매 30일 후까지의 사용 기한부입니다\r기한 내 사용하지 않을시 아이템이 상실됩니다"
-"shop.battlePassport.privilegeSelectPop.description","シャイニーパス購入特典として\r受け取るアイテムをどちらか選択してください","샤이니패스 구매 혜택으로\r받으실 아이템을 선택해주세요"
-"shop.battlePassport.privilegeSelectPop.privileges.item1","使用期限付き\rSSR特訓はづきさん\r（プロデュース）","사용 기한부\rSSR특훈 하즈키씨\r(프로듀스)"
-"shop.battlePassport.privilegeSelectPop.privileges.item2","使用期限付き\rSSR特訓はづきさん\r（サポート）","사용 기한부\rSSR특훈 하즈키씨\r(서포트)"
-"shop.battlePassport.totalPurchasedTimes","%{times}回","%{times}회"
-"shop.battlePassport.stampCardNotice","%{rewardNum}個目以降の購入時の報酬については後日追加されます","%{rewardNum}번째 이후 구매 보상은 추후 추가됩니다"
-"shop.battlePassport.missionRewardPop.title","ミッション報酬","미션 보상"
-"shop.battlePassport.missionRewardPop.day","%{day}日目","%{day}일째"
-"shop.battlePassport.missionRewardPop.rewardJewelName","無償フェザージュエル","무상 패더쥬엘"
-"training.expireDate","使用期限 %{expireDate}まで","사용기한 %{expireDate}까지"
-"gasha.popTicketDesc.consumption","消費してガシャを引きます","소비해서 가챠를 합니다"
-"gasha.staffChanceGashaAcquiredRewardPop.listDescription","以下の報酬が当選しました","다음 보상이 당선되었습니다"
-"announce.information","お知らせ",공지사항
-"common.producerSkill","プロデューサースキル",프로듀서 스킬
-"header.producerDeskTop","Pデスク",P데스크
-"header.producerLevel","プロデューサーレベル",프로듀서 레벨
-"header.producerDeskShop","Pレベルショップ",P 레벨 샵
-"shop.producerDesk.unlockText","レベル%{level}で解放","레벨 %{level}에서 해방"
-"producerDesk.producerLevel.statusPopupTitle","ステータスアップ一覧",스테이터스 업 목록
-"producerDesk.producerLevelUp.rewardText","報酬が%{rewardNum}個受け取れます","보상을 %{rewardNum}개 받을 수 있습니다"
-"producerDesk.releaseCondition.title","解放条件",해방 조건
-"producerDesk.releaseCondition.wingMission","初心者ミッションをクリアする必要があります",초보자 미션을 통과해야 합니다
-"producerDesk.releaseCondition.trueEndMission","W.I.N.G.攻略ミッションをクリアする必要があります",W.I.N.G. 공략 미션을 클리어 해야 합니다
-"producerDesk.releaseCondition.fanMeeting","ファン感謝祭を解放する為には「W.I.N.G.編」で\nシーズン2をクリアし、フェスアイドルを\n誕生させる必要があります","팬 감사제 해방을 위해서는 「W.I.N.G.편」에서\n시즌2를 클리어하고 페스 아이돌을\n탄생시켜야 합니다"
-"producerDesk.releaseCondition.grad","G.R.A.D.を解放する為には「ファン感謝祭編」で\nフェスアイドルを誕生させる必要があります","G.R.A.D.를 해방시키기 위해서는 「팬 감사제편」에서\n페스 아이돌을 탄생시켜야 합니다"
-"producerDesk.releaseCondition.landingPoint","Landing Pointを解放する為には「G.R.A.D.編」で\nフェスアイドルを誕生させる必要があります","Landing Point를 해방시키기 위해서는 「G.R.A.D.편」에서\n페스 아이돌을 탄생시킬 필요가 있습니다"
-"producerDesk.releaseCondition.fesTours","Fes Toursは、ただいま開催期間外です","Fes Tours는 지금 개최기간이 아닙니다"
-"producerDesk.releaseCondition.gradeFes","フェスリハーサルEasyを3位以上でクリアする\n必要があります","페스 리허설 Easy를 3위 이상으로 클리어해야 합니다"
-"specialAnnounce.vote.confirmTitle","投票確認",투표 확인
-"specialAnnounce.vote.resultTitle","投票完了",투표 완료
-"gasha.stampComplete","済",끝
-"gasha.billedJewel","有償",유상
-"gasha.drawText","%{drawNum}回引く","%{drawNum}회 시행"
-"gasha.limitedPerDayText","1日1回",1일 1회
-"gasha.freeOnceADayBalloonText","1日1回無料",1일 1회 무료
-"fesTower.reset.acquirementPop.unlockDescription","Fes Toursポイントを消費して\n%{resetContentTypeText}の解放とレベルアップをしますか？","Fes Tours 포인트를 소비하고\n%{resetContentTypeText}의 해방과 레벨업을 하시겠습니까"
-"fesTower.reset.acquirementPop.levelUpDescription","Fes Toursポイントを消費して\n%{resetContentTypeText}をレベルアップしますか？","Fes Tours 포인트를 소비하고\n%{resetContentTypeText}를 레벨업하시겠습니까?"
-"option.fesTowerContentTitle.recoverPanelConfirmation","回復パネル選択時に確認画面を表示",회복패널 선택 시 확인화면 표시
-"countUpCampaign.campaign202204.period","開催期間 : %{openAt} 〜 %{closeAt}","개최기간 : %{openAt} 〜 %{closeAt}"
-"countUpCampaign.campaign202204.clearedFooterText","達成おめでとうございます！","달성을 축하합니다!"
-"countUpCampaign.campaign202204.attention.idolAttentionHeader","注意事項","주의사항"
-"countUpCampaign.campaign202204.attention.idolAttentionText","※「SSR X％10連ガシャチケット」の排出対象アイドルは、2022年3月10日15:00時点のプラチナガシャ\n　から登場するアイドルになります。\n※ファン数と達成状況の反映には時間がかかる場合があります。\n※施策内容は予告なく変更になる場合があります。","※「SSR X% 10연가챠 티켓」의 대상 아이돌은, 2022년 3월 10일 15:00 시점의 플래티넘 가챠\n에서 등장하는 아이돌입니다\n※팬 수와 달성 상황 반영에는 시간이 걸릴 수 있습니다\n※시책 내용은 예고없이 변경될 수 있습니다"
-"countUpCampaign.campaign202204.banner.completed","チャレンジ達成！",챌린지 달성!
-"countUpCampaign.campaign202204.banner.gashaTicket.tail","10連",10연
-"specialAnnounce.vote.resultMessage","%{voteTarget}\n%{contentName}\nに投票しました","%{voteTarget}\n%{contentName}\n에 투표했습니다"
-"fesTower.reset.acquirementPop.lockedDesc","未解放",미해방
-"gashaGroupExpireAlertPopTitle","ガシャ開催期間のお知らせ",가챠 개최기간 공지
-"gasha.popRedrawConfirm.comment","本ガシャは、お気に入りのアイドルが出るまで\n何度でもガシャをやり直すことが可能です","본 가챠는, 마음에 드는 아이돌이 나올 때까지\n몇 번이라도 가챠를 다시 할 수 있습니다"
-"gasha.popRedrawConfirm.notice","本ガシャの結果を確定してもよろしいですか？","본 가챠의 결과를 확정해도 되겠습니까?"
-"gasha.popRedrawQuit.comment","本ガシャの結果を確定せずに\nガシャTOPに戻りますか？\n\nガシャTOPからは再度本ガシャを\n引き直すことが可能です","본 가챠의 결과를 확정하지 않고\n가챠 TOP으로 돌아가시겠습니까?\n\n가챠 TOP에서 다시 본 가챠를\n뽑을수 있습니다"
-"gasha.scoutGasha.useConfirmation.maxDescription","最大特訓セレクションチケットを消費して\n%{name}\nを%{exchangeNum}枚獲得します\nよろしいですか？","최대특훈 셀렉션 티켓을 소비하여\n%{name}\n을 %{exchangeNum}매 획득합니다\n괜찮으시겠습니까?"
-"idolDetail.receiveMemorialPieceDialog.pieceNameMulti","以下のメモリアルピース",이하의 메모리얼피스
-"shop.smallTabTitles.idolPiece.star","星",별
+option.homeContent.title.idolPrank2021,アイドルからのイタズラ【イタズラケーキ】,아이돌로부터의 장난【장난 케이크】
+option.homeContent.itemName.joke2021,2021ハロウィンのおかし,2021 할로윈 과자
+fes.top.residualBorder,残留ライン,잔류 라인
+fes.top.promotionBorder,昇格ライン,승격 라인
+gasha.stamp.notice.repeatOneCard,スタンプカードが最後まで埋まった後は1枚目の内容を繰り返します,스탬프 카드가 끝까지 채워진 후에는 1장의 내용을 반복합니다
+gasha.staffChanceGashaRewardListPopTitle,報酬一覧,보상 목록
+gasha.staffChanceGashaAcquiredRewardPop.title,当選結果,당선 결과
+header.musicListen,楽曲試聴,악곡 시청
+errorDialog.limitedEvolutionItemExpired,使用期限付きはづきさんの期限が切れています\n特訓をやり直してください,사용 기한부 하즈키씨의 기한이 지났습니다\n특훈을 다시 해 주세요
+evolution.confirm.timeLimitedStaffNotice,使用期限付き特訓はづきさんを所持しています\r本当によろしいですか？,사용 기한부 특훈 하츠키씨를 소지하고 있습니다\r정말 괜찮으시겠습니까?
+mission.shinyPassAdBanner.purchaseCount,%{purchaseCount}回,%{purchaseCount}회
+shop.battlePassport.privilegeSelectPop.title,購入特典選択,구매 특전 선택
+shop.battlePassport.privilegeSelectPop.notice,購入特典は購入30日後までの使用期限付きです\r期限内に使用しなかった場合、アイテムは失われます,구매 특전은 구매 30일 후까지의 사용 기한부입니다\r기한 내 사용하지 않을시 아이템이 상실됩니다
+shop.battlePassport.privilegeSelectPop.description,シャイニーパス購入特典として\r受け取るアイテムをどちらか選択してください,샤이니패스 구매 혜택으로\r받으실 아이템을 선택해주세요
+shop.battlePassport.privilegeSelectPop.privileges.item1,使用期限付き\rSSR特訓はづきさん\r（プロデュース）,사용 기한부\rSSR특훈 하즈키씨\r(프로듀스)
+shop.battlePassport.privilegeSelectPop.privileges.item2,使用期限付き\rSSR特訓はづきさん\r（サポート）,사용 기한부\rSSR특훈 하즈키씨\r(서포트)
+shop.battlePassport.totalPurchasedTimes,%{times}回,%{times}회
+shop.battlePassport.stampCardNotice,%{rewardNum}個目以降の購入時の報酬については後日追加されます,%{rewardNum}번째 이후 구매 보상은 추후 추가됩니다
+shop.battlePassport.missionRewardPop.title,ミッション報酬,미션 보상
+shop.battlePassport.missionRewardPop.day,%{day}日目,%{day}일째
+shop.battlePassport.missionRewardPop.rewardJewelName,無償フェザージュエル,무상 패더쥬엘
+training.expireDate,使用期限 %{expireDate}まで,사용기한 %{expireDate}까지
+gasha.popTicketDesc.consumption,消費してガシャを引きます,소비해서 가챠를 합니다
+gasha.staffChanceGashaAcquiredRewardPop.listDescription,以下の報酬が当選しました,다음 보상이 당선되었습니다
+announce.information,お知らせ,공지사항
+common.producerSkill,プロデューサースキル,프로듀서 스킬
+header.producerDeskTop,Pデスク,P데스크
+header.producerLevel,プロデューサーレベル,프로듀서 레벨
+header.producerDeskShop,Pレベルショップ,P 레벨 샵
+shop.producerDesk.unlockText,レベル%{level}で解放,레벨 %{level}에서 해방
+producerDesk.producerLevel.statusPopupTitle,ステータスアップ一覧,스테이터스 업 목록
+producerDesk.producerLevelUp.rewardText,報酬が%{rewardNum}個受け取れます,보상을 %{rewardNum}개 받을 수 있습니다
+producerDesk.releaseCondition.title,解放条件,해방 조건
+producerDesk.releaseCondition.wingMission,初心者ミッションをクリアする必要があります,초보자 미션을 통과해야 합니다
+producerDesk.releaseCondition.trueEndMission,W.I.N.G.攻略ミッションをクリアする必要があります,W.I.N.G. 공략 미션을 클리어 해야 합니다
+producerDesk.releaseCondition.fanMeeting,ファン感謝祭を解放する為には「W.I.N.G.編」で\nシーズン2をクリアし、フェスアイドルを\n誕生させる必要があります,팬 감사제 해방을 위해서는 「W.I.N.G.편」에서\n시즌2를 클리어하고 페스 아이돌을\n탄생시켜야 합니다
+producerDesk.releaseCondition.grad,G.R.A.D.を解放する為には「ファン感謝祭編」で\nフェスアイドルを誕生させる必要があります,G.R.A.D.를 해방시키기 위해서는 「팬 감사제편」에서\n페스 아이돌을 탄생시켜야 합니다
+producerDesk.releaseCondition.landingPoint,Landing Pointを解放する為には「G.R.A.D.編」で\nフェスアイドルを誕生させる必要があります,Landing Point를 해방시키기 위해서는 「G.R.A.D.편」에서\n페스 아이돌을 탄생시킬 필요가 있습니다
+producerDesk.releaseCondition.fesTours,Fes Toursは、ただいま開催期間外です,Fes Tours는 지금 개최기간이 아닙니다
+producerDesk.releaseCondition.gradeFes,フェスリハーサルEasyを3位以上でクリアする\n必要があります,페스 리허설 Easy를 3위 이상으로 클리어해야 합니다
+specialAnnounce.vote.confirmTitle,投票確認,투표 확인
+specialAnnounce.vote.resultTitle,投票完了,투표 완료
+gasha.stampComplete,済,끝
+gasha.billedJewel,有償,유상
+gasha.drawText,%{drawNum}回引く,%{drawNum}회 시행
+gasha.limitedPerDayText,1日1回,1일 1회
+gasha.freeOnceADayBalloonText,1日1回無料,1일 1회 무료
+fesTower.reset.acquirementPop.unlockDescription,Fes Toursポイントを消費して\n%{resetContentTypeText}の解放とレベルアップをしますか？,Fes Tours 포인트를 소비하고\n%{resetContentTypeText}의 해방과 레벨업을 하시겠습니까
+fesTower.reset.acquirementPop.levelUpDescription,Fes Toursポイントを消費して\n%{resetContentTypeText}をレベルアップしますか？,Fes Tours 포인트를 소비하고\n%{resetContentTypeText}를 레벨업하시겠습니까?
+option.fesTowerContentTitle.recoverPanelConfirmation,回復パネル選択時に確認画面を表示,회복패널 선택 시 확인화면 표시
+countUpCampaign.campaign202204.period,開催期間 : %{openAt} 〜 %{closeAt},개최기간 : %{openAt} 〜 %{closeAt}
+countUpCampaign.campaign202204.clearedFooterText,達成おめでとうございます！,달성을 축하합니다!
+countUpCampaign.campaign202204.attention.idolAttentionHeader,注意事項,주의사항
+countUpCampaign.campaign202204.attention.idolAttentionText,※「SSR X％10連ガシャチケット」の排出対象アイドルは、2022年3月10日15:00時点のプラチナガシャ\n　から登場するアイドルになります。\n※ファン数と達成状況の反映には時間がかかる場合があります。\n※施策内容は予告なく変更になる場合があります。,"※「SSR X% 10연가챠 티켓」의 대상 아이돌은, 2022년 3월 10일 15:00 시점의 플래티넘 가챠\n에서 등장하는 아이돌입니다\n※팬 수와 달성 상황 반영에는 시간이 걸릴 수 있습니다\n※시책 내용은 예고없이 변경될 수 있습니다"
+countUpCampaign.campaign202204.banner.completed,チャレンジ達成！,챌린지 달성!
+countUpCampaign.campaign202204.banner.gashaTicket.tail,10連,10연
+specialAnnounce.vote.resultMessage,%{voteTarget}\n%{contentName}\nに投票しました,%{voteTarget}\n%{contentName}\n에 투표했습니다
+fesTower.reset.acquirementPop.lockedDesc,未解放,미해방
+gashaGroupExpireAlertPopTitle,ガシャ開催期間のお知らせ,가챠 개최기간 공지
+gasha.popRedrawConfirm.comment,本ガシャは、お気に入りのアイドルが出るまで\n何度でもガシャをやり直すことが可能です,"본 가챠는, 마음에 드는 아이돌이 나올 때까지\n몇 번이라도 가챠를 다시 할 수 있습니다"
+gasha.popRedrawConfirm.notice,本ガシャの結果を確定してもよろしいですか？,본 가챠의 결과를 확정해도 되겠습니까?
+gasha.popRedrawQuit.comment,本ガシャの結果を確定せずに\nガシャTOPに戻りますか？\n\nガシャTOPからは再度本ガシャを\n引き直すことが可能です,본 가챠의 결과를 확정하지 않고\n가챠 TOP으로 돌아가시겠습니까?\n\n가챠 TOP에서 다시 본 가챠를\n뽑을수 있습니다
+gasha.scoutGasha.useConfirmation.maxDescription,最大特訓セレクションチケットを消費して\n%{name}\nを%{exchangeNum}枚獲得します\nよろしいですか？,최대특훈 셀렉션 티켓을 소비하여\n%{name}\n을 %{exchangeNum}매 획득합니다\n괜찮으시겠습니까?
+idolDetail.receiveMemorialPieceDialog.pieceNameMulti,以下のメモリアルピース,이하의 메모리얼피스
+shop.smallTabTitles.idolPiece.star,星,별
+filter.categories.individuality,ノウハウ,노하우
+filter.categories.specialProduceType,特化プロデュース,특화 프로듀스
+filter.categories.produceDeck,編成中のアイドル,육성 중인 아이돌
+filter.cautions.individuality,チェックした条件をすべて満たすノウハウが絞り込まれます,체크한 조건을 모두 만족시키는 노하우가 표시됩니다
+filter.cautions.produceDeck,現在選択中の編成に含まれるアイドルが絞り込まれます,현재 선택 중인 편성에 포함된 아이돌이 표시됩니다
+filter.emptyKnowHowBookMessage,該当するノウハウブックがありません,해당되는 노하우북이 없습니다
+commonMenu.knowHowBookLimit.title,ノウハウブック所持上限,노하우북 소지 상한
+commonMenu.knowHowBookLimit.text,これ以上ノウハウブックを所持できません\nノウハウブック一覧画面から売却を行ってください,더 이상 노하우북을 소지할 수 없습니다\n노하우북 일람 화면에서 매각하시기 바랍니다
+autoConcertResult.unlockNotice,%{name}解放,%{name} 해방
+deck.fesIdolShortageNotice,指導アイドルがセットされていないので\rスタートできません,지도 아이돌이 설정되어 있지 않아\r시작할 수 없습니다
+deck.knowHowListDialog.title,ノウハウ一覧,노하우 일람
+idolList.emptyKnowHowBookMessage,所持しているノウハウブックがありません,소지 중인 노하우북이 없습니다
+idolList.leaveEditModeDialog.sale,売却,매각
+idolList.infoSwitch.5th_produce_area,デフォルト(S.T.E.P.用),디폴트(S.T.E.P.용)
+idolList.sale.selectedKnowHowCount,選択ノウハウブック数,선택 노하우북 수
+idolList.sale.saleAfterMoney,売却後マニー,매각 후 매니
+idolList.sale.saleAfterComment,ノウハウブック売却により,노하우북 매각으로 인해
+idolList.sale.saleAfterDialogTitle,売却結果,매각 결과
+idolList.sale.saleConfirmTitle,売却確認,매각 확인
+idolList.sale.knowHowBookSaleConfirm,以下のノウハウブックを売却します\n売却を確定してよろしいですか？,아래의 노하우북을 매각합니다\n매각을 확정하시겠습니까?
+header.produceKnowHowBookSelect,ノウハウブック選択,노하우북 선택
+header.knowHowBookList,ノウハウブック一覧,노하우북 일람
+header.produceGrowth,成長,성장
+exSkill.disabled,効果を発揮しません,효과를 발동하지 않습니다
+produceEvent.skipNotice,【%{title}】のコミュが解放されました,【%{title}】의 커뮤가 해방되었습니다
+produceItemPreparation.isAreaEffectRestricted,このアイテムは選択したプロデュースにて\n一部の効果が発揮されません,이 아이템은 선택한 프로듀스에서\n일부 효과가 발휘되지 않습니다
+produceItemPreparation.alertPopTitle,プロデュースアイテム選択警告,프로듀스 아이템 선택 경고
+produceTop.autoConcertConfirmPop.titles.entry,エントリーライブ挑戦確認,엔트리 라이브 도전 확인
+produceTop.autoConcertConfirmPop.titles.exhibition,エキシビションマッチ挑戦確認,엑시비션 매치 도전 확인
+produceTop.produceGoalPop.title,プロデュース目標,프로듀스 목표
+produceTop.produceGoalPop.season1,シーズン１ エントリー,시즌 1 엔트리
+produceTop.produceGoalPop.season2,シーズン２ ノービス,시즌 2 노비스
+produceTop.produceGoalPop.season3,シーズン３ ミドル,시즌 3 미들
+produceTop.produceGoalPop.season4,シーズン４ エキスパート,시즌 4 엑스퍼트
+produceTop.produceGoalPop.goalSuffix.fan,人,명
+produceTop.produceGoalPop.goalSuffix.week,週,주
+produceTop.produceGoalPop.goalPrefix.fan,あと,앞으로
+produceTop.produceGoalPop.goalPrefix.week,残り,남은 기간
+produceAction.auditionScheduleDialogTitle,スケジュール確認,스케줄 확인
+produceAction.auditionScheduleDialog.weekText,%{week}週,%{week}주
+produceAction.auditionScheduleDialog.seasonText,シーズン%{seasonNum},시즌 %{seasonNum}
+produceAction.auditionScheduleDialog.seasonTitleText.1,エントリー,엔트리
+produceAction.auditionScheduleDialog.seasonTitleText.2,ノービス,노비스
+produceAction.auditionScheduleDialog.seasonTitleText.3,ミドル,미들
+produceAction.auditionScheduleDialog.seasonTitleText.4,エキスパート,엑스퍼트
+produceAction.clearBonusPanel.bonusText,「%{name}」解放,「%{name}」 해방
+produceAction.clearBonusDialog.title,ボーナス確認,보너스 확인
+produceAction.clearBonusDialog.message,「%{name}」\n\n効果\n「%{comment}」\nを解放,「%{name}」\n\n효과\n「%{comment}」\n을 해방
+produceAction.clearBonusDialog.passiveMessage,%{name}\n\n%{comment}\nを解放,%{name}\n\n%{comment}\n을 해방
+produceAction.reservedAuditionDialog.title,予約確認,예약 확인
+produceAction.reservedAuditionDialog.message,予約した「オーディション/ライブ」があります\r確認しますか？,예약한 「오디션/라이브」가 있습니다\r확인하시겠습니까?
+produceEvents.header,発生コミュ一覧,발생 커뮤 일람
+produceEvents.eventsDialogTitle,発生イベントコミュ,발생 이벤트 커뮤
+growthPoints.vocalGrowthPoint,歌唱力,가창력
+growthPoints.danceGrowthPoint,安定感,안정감
+growthPoints.visualGrowthPoint,表現力,표현력
+growthPoints.mentalGrowthPoint,集中力,집중력
+growthPoints.skillGrowthPoint,団結力,단결력
+growthConfirm.title,成長確認,성장 확인
+growthConfirm.noticeLive,ライブスキルを習得する場合、選択したライブスキルは必ず入れ替える必要があります,"라이브 스킬 습득 시, 선택한 라이브 스킬은 반드시 교체되어야 합니다"
+growthConfirm.noticeStatus,基礎能力の上昇時、能力が上限に達していた場合、超えた分は破棄されます,"기초능력 상승 시, 능력이 상한에 도달한 경우 초과분은 무효화됩니다"
+growthTab.status,ステータス,스테이터스
+growthTab.skill,スキル,스킬
+growthTab.ability,アビリティ,어빌리티
+growthTab.other,その他,기타
+growthActiveSkillAlert.title,ライブスキル選択警告,라이브 스킬 선택 경고
+growthCount,%{count}回,%{count}회
+growthLeaveConfirmDialog.title,確認,확인
+growthLeaveConfirmDialog.text,まだ習得は確定していません\r選択状態を解除して移動しますか？,아직 습득이 확정되지 않았습니다\n선택 상태를 해제하고 이동하시겠습니까?
+shop.exchangeResult.twoLinesMessage,%{title}\rと交換しました,%{title}\r로 교환하였습니다
+topicPath.produce.knowHowBookSelect,ノウハウブック選択,노하우북 선택
