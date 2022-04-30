@@ -1169,3 +1169,6 @@ images/ui/produce_ending/parts_know_how_book_reward.json_image,produce_ending_pa
 images/ui/produce_events/parts.json_image,produce_events_parts.png,1
 images/ui/produce_growth/parts_growth_list.json_image,produce_growth_parts_growth_list.png,1
 images/ui/produce_top/parts_5th.json_image,produce_top_parts_5th.png,1
+images/ui/produce_action/parts_5th.json_image,produce_action_parts_5th.png,1
+images/ui/produce_auto_concert/parts.json_image,produce_auto_concert_parts.png,1
+images/ui/produce_auto_concert_result/parts.json_image,produce_auto_concert_result_parts.png,1
