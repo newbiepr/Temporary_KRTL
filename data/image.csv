@@ -943,7 +943,7 @@ images/ui/item/parts_seasonal_present.json_image,item_parts_seasonal_present.png
 images/ui/jewel_purchase/parts.json_image,jewel_purchase.png,4
 images/ui/login_bonus/parts.json_image,login_bonus.png,9
 images/ui/music_select/parts.json_image,music_select.png,4
-images/ui/my_page/parts.json_image,my_page.parts.png,37
+images/ui/my_page/parts.json_image,my_page_parts.png,37
 images/ui/notice/parts.json_image,notice_parts.png,13
 images/ui/present_event/parts.json_image,present_event_parts.png,3
 images/ui/produce_ability/parts.json_image,produce_ability_parts.png,2
@@ -1165,3 +1165,7 @@ images/ui/produce_item/parts.json_image,produce_item_parts.png,16
 images/ui/produce_top/parts.json_image,produce_top_parts.png,22
 images/ui/produce_action/gradation/parts_5th.json_image,produce_action_gradation_parts_5th.png,1
 images/ui/produce_deck/parts_deck_know_how.json_image,produce_deck_parts_deck_know_how.png,1
+images/ui/produce_ending/parts_know_how_book_reward.json_image,produce_ending_parts_know_how_book_reward.png,1
+images/ui/produce_events/parts.json_image,produce_events_parts.png,1
+images/ui/produce_growth/parts_growth_list.json_image,produce_growth_parts_growth_list.png,1
+images/ui/produce_top/parts_5th.json_image,produce_top_parts_5th.png,1
