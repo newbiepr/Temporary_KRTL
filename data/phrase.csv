@@ -257,11 +257,11 @@ deck.autoSelectDialog.noUserIdol,おまかせ編成を使用するには\nプロ
 deck.autoSelectDialog.description,設定中のプロデュースアイドルによって編成内容を判別します\n編成の方針を選択してください,설정중인 프로듀스 아이돌에 의해 편성 내용을 판별합니다 \n편성의 방침을 선택해 주세요
 deck.autoSelectSuccessDialog.title,おまかせ編成,자동 편성
 deck.autoSelectSuccessDialog.advice1.beforeType,今回のユニットは,이번 유닛은
-deck.autoSelectSuccessDialog.advice1.afterType,が得意なメンバーで,하지만 자신있는 멤버로
+deck.autoSelectSuccessDialog.advice1.afterType,が得意なメンバーで,이 자신있는 멤버로
 deck.autoSelectSuccessDialog.advice1.nextLine,編成されています！,편성되고 있습니다!
-deck.autoSelectSuccessDialog.advice2.beforeType,プロデュース中は,프로듀스중은
-deck.autoSelectSuccessDialog.advice2.afterType,を重点的に,를 중점적으로
-deck.autoSelectSuccessDialog.advice2.nextLine,レッスンするといいですよ♪,레슨 하면 좋아요♪
+deck.autoSelectSuccessDialog.advice2.beforeType,プロデュース中は,프로듀스는
+deck.autoSelectSuccessDialog.advice2.afterType,を重点的に,을(를) 중점적으로
+deck.autoSelectSuccessDialog.advice2.nextLine,レッスンするといいですよ♪,레슨하면 좋아요♪
 deck.autoSelectSuccessDialog.description,サポートアイドルを%{type}編成で設定しました,서포트 아이돌을%{type}편성으로 설정했습니다
 deck.deckNumber,ユニット%{deckNumber},유닛%{deckNumber}
 deck.memberShortageNotice,アイドルがセットされていないので\rスタートできません,아이돌이 세트되어 있지 않기 때문에\r스타트 할 수 없습니다
