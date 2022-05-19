@@ -35,6 +35,8 @@ $ukブロックのファン満足度$percent以上,$1블록의 팬 만족도 $2�
 [$nounが多いほど効果UP],[$1이(가) 많을수록 효과UP],
 [$nounが少ないほど効果UP],[$1이(가) 적을수록 효과UP],
 思い出,추억,
+フェスユニット編成時に$nounボーナスを$percent,페스유닛 편성시 $1 보너스를 $2
+フェスユニット編成時に全基礎能力へのボーナスを$percent,페스 유닛 편성시 전체 기초 능력에 대한 보너스를 $1
 Leader,Leader,noun
 Center,Center,noun
 Dance,Dance,noun
