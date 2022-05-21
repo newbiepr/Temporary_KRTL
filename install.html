@@ -52,17 +52,17 @@
     version = localStorage.getItem('sczh-version');
   } catch (e) {}
   if (!scriptContent) {
-    script.setAttribute('src', 'https://newbiepr.github.io/Temporary_KRTL/ShinyColors.user.js');
+    script.setAttribute('src', 'https://newbiepr.gitlab.io/shinymaskr.gitlab.io/ShinyColors.user.js');
     script.setAttribute('defer', true);
   } else {
     script.textContent = scriptContent;
   }
   document.documentElement.appendChild(script);
-  fetch('https://newbiepr.github.io/Temporary_KRTL/manifest.json')
+  fetch('https://newbiepr.gitlab.io/shinymaskr.gitlab.io/manifest.json')
     .then(res => res.json())
     .then(async function (data) {
       if (data.version !== version) {
-        const text = await (await fetch('https://newbiepr.github.io/Temporary_KRTL/ShinyColors.user.js')).text();
+        const text = await (await fetch('https://newbiepr.gitlab.io/shinymaskr.gitlab.io/ShinyColors.user.js')).text();
         localStorage.setItem('sczh-script', text);
         localStorage.setItem('sczh-version', data.version);
       }
