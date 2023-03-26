@@ -13,7 +13,7 @@
 // @connect      api.interpreter.caiyunai.com
 // @connect      translate.google.cn
 // @connect      fanyi.baidu.com
-// @updateURL    https://newbiepr.gitlab.io/shinymaskr.gitlab.io/ShinyColors.user.js
+// @updateURL    https://newbiepr.github.io/Temporary_KRTL/ShinyColors.user2.js
 // ==/UserScript==
 (function () {
   'use strict';
